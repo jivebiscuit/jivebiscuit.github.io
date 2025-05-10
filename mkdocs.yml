@@ -18,7 +18,14 @@ theme:
       name: Switch to light mode
 
   features:
-  - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tooltips
 
 plugins:
   - search
@@ -27,12 +34,3 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
-nav:
-  - Home: index.md
-  - Policies:
-  - SOPs:
-  - LOAs:
-  - vATIS:
-  - Reference:
-  - NOTAC:
