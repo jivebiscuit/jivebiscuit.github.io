@@ -12,5 +12,5 @@ vZHU-P031v6, New Orleans ATCT/TRACON Standard Operating Procedures, dated 22 AUG
 ### 1-1-5 Explanation of Changes
 This is the initial release of MSY 7110.1A. No changes have been made.
 ### 1-1-6 Responsibility
-- The Houston ARTCC Air Traffic Manager is responsible for maintaining and updating the information contained in this order.
-- The Houston ARTCC Air Traffic Manager is responsible for notifying the VATUSA Southern Region Air Traffic Director of any necessary revisions to this order.
+1. The Houston ARTCC Air Traffic Manager is responsible for maintaining and updating the information contained in this order.
+2. The Houston ARTCC Air Traffic Manager is responsible for notifying the VATUSA Southern Region Air Traffic Director of any necessary revisions to this order.
