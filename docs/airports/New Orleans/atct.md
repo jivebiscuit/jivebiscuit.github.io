@@ -21,30 +21,30 @@ Flight strip marking shall be completed in accordance with the ZHU General Contr
 - c. FD/CD shall post and update the ATIS
 #### 2-2-2. IFR Aircraft
 - a. Route IFR aircraft in order of preference listed:
-  - i. Alias preferred route.
-  - ii. For aircraft entering ZHU airspace, one of the following first fixes:
-    - 1. NW-Bound: AEX / MCB / SQS / NTCHZ
-    - 2. NE-Bound: LBY / GARTS / CATLN / PCU
-    - 3. E-Bound: CEW
-    - 4. SE-Bound: BLVNS / REDFN
-    - 5. S-Bound: LEV
-    - 6. W-Bound: Valid I90 STAR Transition / PEKON / LFT
-  - iii. For all other aircraft, clear “As Filed.”
+    - i. Alias preferred route.
+    - ii. For aircraft entering ZHU airspace, one of the following first fixes:
+        - 1. NW-Bound: AEX / MCB / SQS / NTCHZ
+        - 2. NE-Bound: LBY / GARTS / CATLN / PCU
+        - 3. E-Bound: CEW
+        - 4. SE-Bound: BLVNS / REDFN
+        - 5. S-Bound: LEV
+        - 6. W-Bound: Valid I90 STAR Transition / PEKON / LFT
+    - iii. For all other aircraft, clear “As Filed.”
 - b. Issue the following initial altitudes to IFR aircraft:
-  - i. Turbojets maintain 4,000.
-  - ii. Non-Turbojets maintain 2,000.
+    - i. Turbojets maintain 4,000.
+    - ii. Non-Turbojets maintain 2,000.
 #### 2-2-3 VFR Aircraft
 - a. The following information must be obtained and entered into vNAS for all VFR departures:
-  - i. Aircraft Type
-  - ii. Destination/On Course Heading
-  - iii. Requested Altitude
+    - i. Aircraft Type
+    - ii. Destination/On Course Heading
+    - iii. Requested Altitude
 - b. All VFR departures shall be given:
-  - i. Class Bravo Clearance
-  - ii. The following altitudes:
-    - 1. Turbojets maintain VFR at 4,000.
-    - 2. Non-Turbojets maintain VFR at 2,000.
-  - iii. An appropriate departure frequency
-  - iv. A squawk code
+    - i. Class Bravo Clearance
+    - ii. The following altitudes:
+        - 1. Turbojets maintain VFR at 4,000.
+       - 2. Non-Turbojets maintain VFR at 2,000.
+    - iii. An appropriate departure frequency
+    - iv. A squawk code
 - c. VFR aircraft requesting pattern work shall only be given bravo clearance and squawk code.
 ### 2-3 Ground Control
 #### 2-3-1 Duties
@@ -68,17 +68,17 @@ corresponding radar controller and issue runway heading/2,000.
 #### 2-4-3 Converging Runway Operations
 During VFR weather conditions, LC must visually separate all aircraft making simultaneous approaches to multiple runways. Any time that LC cannot accomplish the duties of this paragraph, LC must notify the appropriate approach controller(s).
 - a. For simultaneous approaches to converging runways, apply procedures outlined in 7110.65 3-10-4:
-  - i. The first arrival must have completed one of the following before the second arrival crosses the landing threshold:
-    - 1. Cleared the runway
-    - 2. Completed landing roll and will hold short of the projected intersection
-    - 3. Passed the projected intersection
+    - i. The first arrival must have completed one of the following before the second arrival crosses the landing threshold:
+        - 1. Cleared the runway
+        - 2. Completed landing roll and will hold short of the projected intersection
+        - 3. Passed the projected intersection
 - b. For a departure taking off after a converging arrival, apply procedures outlined in 7110.65 3-9-9:
-  - i. The arrival must have completed one of the following before the departure begins its takeoff roll:
-    - 1. Cleared the runway
-    - 2. Completed landing roll and will hold short of the projected intersection
-    - 3. Passed the projected intersection
+    - i. The arrival must have completed one of the following before the departure begins its takeoff roll:
+         - 1. Cleared the runway
+        - 2. Completed landing roll and will hold short of the projected intersection
+        - 3. Passed the projected intersection
 - c. For an arrival landing after a converging departure, apply the procedures outlined in 7110.65 3-10-4:
-  - i. The departure must be passed the projected intersection path or is airborne and turning to avert any conflict before the arrival crosses the landing threshold.
+    - i. The departure must be passed the projected intersection path or is airborne and turning to avert any conflict before the arrival crosses the landing threshold.
 - d. Specific procedures for departing runway 29 and landing runway 2:
-  - i. A heavy jet/B757 must not be authorized to LUAW on Runway 29 when an arriving aircraft is anticipated to land behind the heavy jet on Runway 2.
-  - ii. A turbojet may depart Runway 29 from the full length provided the departure will be 6,000 feet down the runway prior to the arriving aircraft crossing the landing threshold of Runway 2.
+    - i. A heavy jet/B757 must not be authorized to LUAW on Runway 29 when an arriving aircraft is anticipated to land behind the heavy jet on Runway 2.
+    - ii. A turbojet may depart Runway 29 from the full length provided the departure will be 6,000 feet down the runway prior to the arriving aircraft crossing the landing threshold of Runway 2.
