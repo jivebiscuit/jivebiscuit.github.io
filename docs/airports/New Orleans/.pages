@@ -1,7 +1,7 @@
 title: New Orleans (MSY)
 nav:
- - All-in-One: msy.md
- - General: general.md
- - ATCT: atct.md
- - TRACON: tracon.md
- - Appendices: appendix.md
+ - info.md
+ - general.md
+ - atct.md
+ - tracon.md
+ - appendix.md
