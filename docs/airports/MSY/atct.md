@@ -20,7 +20,7 @@ Flight strip marking shall be completed in accordance with the ZHU General Contr
 - a. Send PDCs through TDLS for all IFR aircraft, with or without amendments.
 - b. FD/CD must inform GC and LC of all air traffic management initiatives and associated information.
 - c. FD/CD shall post and update the ATIS
-### 2-2-2. IFR Aircraft
+### 2-2-2 IFR Aircraft
 - a. Route IFR aircraft in order of preference listed:
     - i. Alias preferred route.
     - ii. For aircraft entering ZHU airspace, one of the following first fixes:
