@@ -1,5 +1,5 @@
 nav:
-    - Austin (AUS): aus
-    - New Orleans (MSY): msy
+    - Austin (AUS): /aus/info.md
+    - New Orleans (MSY): /msy/info.md
     - Hobby (HOU): hou
     - Houston (IAH): iah
