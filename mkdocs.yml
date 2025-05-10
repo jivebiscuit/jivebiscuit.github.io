@@ -3,25 +3,3 @@ site_url: https://jivebiscuit.github.io
 
 theme:
   name: material
-  custom_dir: overrides
-  font:
-    text: Share Tech
-  palette:
-    - scheme: default
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-night
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
-    - navigation.tracking
-    - search.suggest
-    - search.highlight
-    - search.share
-    - content.tooltips
-  icon:
-    repo: fontawesome/brands/github
