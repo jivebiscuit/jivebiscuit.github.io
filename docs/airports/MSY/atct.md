@@ -1,4 +1,4 @@
-title: 2 ATCT Procedures
+title: 2 ATCT
 # 2 ATCT Procedures
 ## 2-1 General
 ### 2-1-1 Duty Familiarization
