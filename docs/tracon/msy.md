@@ -1,9 +1,17 @@
-Order
-MSY O 7110.1A
-New Orleans Tower/TRACON
-Standard Operating Procedures
+# New Orleans Tower/TRACON
 
-JULY 31, 2024
+!!! info "Revision Information"
+   - Document Number: MSY O 7110.1
+   - Date: 31 Jul 2024
+   - Revision: **A**
+   - Editor: Clay Brock, ZHU DATM
+
+## Record of Revisions
+| Version | Date | Revision | Editor |
+|:---:|:---:|:---:|:---:|
+| A | 31 July 2034 | Initial Release | Clay Brock |
+
+
 VIRTUAL AIR TRAFFIC SIMULATION NETWORK
 AMERICAS REGION
 UNITED STATES of AMERICA DIVISION
