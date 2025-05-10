@@ -1,6 +1,5 @@
-title: New Orleans (MSY)
 nav:
-    - info.md
-    - general.md
-    - atct.md
-    - tracon.md
+    - Info: info.md
+    - General - general.md
+    - ATCT - atct.md
+    - TRACON - tracon.md
