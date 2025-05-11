@@ -44,33 +44,11 @@ i. Center
 7. May route aircraft destined Austin Terminal Area satellite airports from the Northwest and West via direct destination, descending to 7,000 feet.
 
 ??? info "**Table 1: RNAV OPD Arrivals**"
-    | Destination | Type | STAR | FIX | OPD Altitude | Knock it Off | Speed |
-    | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | KAUS | Jets & T-Props | SEWZY | GABOO | AOA 130 | SEWZY @ 130 | 250 |
-    | KAUS | Jets | LAIKS | LAIKS | 100B140 | 100 | |
-    | KAUS | T-Props | LAIKS | LAIKS | 100B140 or 070 | |
-    | KAUS | Jets | WLEEE | WLEEE | 120B140 | 120 | 280 |
-    | KAUS | T-Props | WLEEE | WLEEE | 120B140 or 110 | 110 | |
-    | KAUS | Jets & T-Props | DXEEE^1^ | DXEEE | 100B140 | PUDDY @ 140 | 250 |
-
+    ![RNAV ODP Arrivals](../assets/aus-zhu-table1.png)
     *^1^DXEEE STAR arrivals will be handed off to San Antonio TRACON.*
 
 ??? info "**Table 2: Other Arrivals**"
-    | From | Destination | Route | STAR | Fix | Altitude |
-    | :---: | :---: | :---: | :---: | :---: | :---: |
-    | North | KHYI, KRYW, T74, 3R9 | | GABOO RNAV | SEWZY | 130 |
-    | North | KAUS, KHYI, KRYW, T74, 3R9^2^ | | BLEWE | SEWZY | 130 |
-    | North | All Others | SEWZY DCT | | SEWZY | 130 |
-    | West | KAUS, KGTU, 3R9 | | KALLA | KALLA | Jets 100, Others 070 |
-    | West | All Others | DCT KALLA | | KALLA | Jets 100, Others 070 |
-    | Northeast | All | V583/CWK055 | | Lateral Boundary | Non-Jets 100 |
-    | Southeast | KEDC, KGTU, KHYI, KRWY, 3R9, T74 | | POTRR RNAV | WLEEE | Jets 120, T-Props 110 |
-    | Southeast | KAUS, KEDC KGTU, KHYI, KRYW, 3R9, T74 | | BITER | WLEEE | Jets 120, T-Props 110 |
-    | Southeast | All Others | WLEEE DCT | | Lateral Boundary | Jets 120, T-Props 110, Pistons 090 |
-    | South | All | DCT | | Lateral Boundary | 060 or &darr;090 |
-    | Southwest | All | V550 | | PINCH | 140 |
-    | STV VORTAC | All | STV CWK DCT | | Lateral Boundary | 070 |
-
+    ![Other Arrivals](../assets/aus-zhu-table2.png)
     *^2^KEDC arrivals from the north will be handed off to Robert Gray ARAC.*
 
 ### 4-c. Radar Departure Control
