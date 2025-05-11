@@ -25,7 +25,7 @@ All ZHU controllers and visitors.
 #### 1-1-3. Where Can I Find This Order
 This order is available in digital PDF format on the ZHU ARTCC website at and can be accessed publicly within the Controllers menu on the Resources page.
 
-#### 1-1-4. Cancelation
+#### 1-1-4. Cancellation
 This version cancels any previous versions of the ZHU ARTCC Events Policy.
 
 #### 1-1-5. Explanation Of Changes

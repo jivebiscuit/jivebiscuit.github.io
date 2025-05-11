@@ -1,6 +1,6 @@
 title: Home
 # ZHU Documents and SOPs
-![Terminal drivways at KIAH](https://viadirect.com/wp-content/uploads/2020/01/1120-x-350-George-Bush-Intercontinental-Airport-Location.jpg)
+![Terminal driveways at KIAH](https://viadirect.com/wp-content/uploads/2020/01/1120-x-350-George-Bush-Intercontinental-Airport-Location.jpg)
 
 These orders prescribe standard operating procedures for use by Air Traffic Control Specialists in the Houston ARTCC on the Virtual Air Traffic Simulation (VATSIM) network. Controllers are required to be familiar with the provisions of this document that pertain to their operational responsibilities and to exercise their best judgment if they encounter situations not covered
 herein.

@@ -11,7 +11,7 @@ This agreement between Houston Air Route Traffic Control (ARTCC) and Austin Airp
 ## 2. Cancellation
 This is the initial letter of agreement between Houston ARTCC and Austin ATCT/TRACON.
 ## 3. Scope
-The procedures and delegated airspace specified herein apply to Houston ARTC Center and Austin ATCT/TRACON. Each party to this Letter of Agreement must ensure facility
+The procedures and delegated airspace specified herein apply to Houston ARTCC Center and Austin ATCT/TRACON. Each party to this Letter of Agreement must ensure facility
 personnel are familiar with these procedures.
 ## 4. Procedures
 ### 4-a. General
