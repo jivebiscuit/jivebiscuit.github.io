@@ -1,4 +1,6 @@
 nav:
     - Home: index.md
     - Policies: policies
+    - LOAs: loa
     - NOTAC: notac
+    - QRCs: qrc

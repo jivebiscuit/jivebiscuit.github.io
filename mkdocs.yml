@@ -51,12 +51,3 @@ markdown_extensions:
   - toc:
       toc_depth: 3
   - attr_list
-
-nav:
-- Home: index.md
-- Policies:
-  - policies/general.md
-  - policies/events.md
-- NOTACs:
-  - notac/teamspeak.md
-  - notac/vatis4-1.md
