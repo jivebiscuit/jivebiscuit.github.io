@@ -299,6 +299,7 @@ Responsible For: Managing the assigned ARTCC, including but not limited to the f
 Reports To: ZHU Air Traffic Manager
 
 Responsible For: Managing the assigned ARTCC, including but not limited to the following duties:
+
 1. Execute division objectives in their assigned ARTCC
 2. Act on behalf of the ATM as directed by the ATM or Deputy Director - Air Traffic Services
 3. Assume responsibility for Junior Staff positions in the event of a vacancy
@@ -313,6 +314,7 @@ Responsible For: Managing the assigned ARTCC, including but not limited to the f
 Reports To: ZHU Air Traffic Manager and Deputy Director - Training Services
 
 Responsible For: Managing the training program for their assigned ARTCC, including but not limited to the following duties:
+
 1. Create and maintain ARTCC Training Policy.
 2. Create, develop, and maintain the ARTCC training program.
 3. Communicate regularly with the VATUSA training department
@@ -332,6 +334,7 @@ Responsible For: Managing the training program for their assigned ARTCC, includi
 Reports To: ZHU Air Traffic Manager
 
 Responsible For: Overseeing and operating the ARTCC events department in the following manners, but not limited to:
+
 1. Applying and executing the ARTCC’s events policy in good faith
 2. Creating, scheduling, and executing event programming internally for the ARTCC
 3. Creating, scheduling, and executing event programming externally for the ARTCC
@@ -341,6 +344,7 @@ Responsible For: Overseeing and operating the ARTCC events department in the fol
 Reports To: ZHU Air Traffic Manager
 
 Responsible For: Playing an ancillary role in managing, creating, maintaining, and overseeing technical aspects of the various controller platform media, programs, and systems, including but not limited to:
+
 1. vNAS Data Admin and all associated functions
 2. CRC controller software, maps, and automation.
 3. ATIS software
