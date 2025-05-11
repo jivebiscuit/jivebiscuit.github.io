@@ -40,7 +40,7 @@ a. The Virtual Houston ARTCC Air Traffic Manager is responsible for maintaining 
 
 b. The Virtual Houston ARTCC Air Traffic Manager is responsible for notifying the VATUSA Deputy Division Director, Air Traffic Services of any necessary revisions to this order.
 
-??? info "Abbreviations"
+??? note "Abbreviations"
     | Abbreviations | |
     | --- | --- |
     | ARTCC | Air Route Traffic Control Center |

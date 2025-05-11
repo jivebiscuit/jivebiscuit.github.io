@@ -38,7 +38,7 @@ This training order cancels vZHU-P002 Rev. 5 dated 12/20/22.
 #### 1-1-6. Responsibility
 The Virtual Houston ARTCC Training Administrator is responsible for updating the information contained in this order. The TA is also responsible for notifying the VATUSA Deputy Director - Training Services to gain approval for any necessary revisions to this order.
 
-??? info "Abbreviations"
+??? note "Abbreviations"
     | Abbreviations | |
     | --- | --- |
     | TA | Training Administrator |
