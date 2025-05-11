@@ -43,7 +43,7 @@ your operating system.
 Profile you wish to use. Use the program the same way as
 in previous versions.
 8. You may safely delete the extracted file folder and ZIP file downloaded from the ZHU GitHub repository.
-9. It is recommended to keep all 16 ZHU profiles in your vATIS installation so that they arecalways kept up to date.
+9. It is recommended to keep all 16 ZHU profiles in your vATIS installation so that they are always kept up to date.
 
 ## Regular Use
 Each time you open vATIS, it will check to see if the Facilities Team has made any updates to profiles and will automatically download the newest version (similar to how CRC automatically updates video maps and cab views).
