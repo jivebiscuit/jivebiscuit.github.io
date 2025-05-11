@@ -49,7 +49,7 @@ in previous versions.
 Each time you open vATIS, it will check to see if the Facilities Team has made any updates to profiles and will automatically download the newest version (similar to how CRC automatically updates video maps and cab views).
 
 ## Important Notes
-On some presets, you may notice `^`, `@`, and `*` symbols in the Airport Conditions and NOTAMS sections. These are needed to help the vATIS Text to Speech (TTS) engine accurately render the computer-generated voice ATIS. Please do not remove these characters or the voice ATIS will not render correctly.These special markings are not parsed into the text ATIS shown on VATSIM maps or sent to pilots in their pilot clients.
+On some presets, you may notice `^`, `@`, and `*` symbols in the Airport Conditions and NOTAMS sections. These are needed to help the vATIS Text to Speech (TTS) engine accurately render the computer-generated voice ATIS. Please do not remove these characters or the voice ATIS will not render correctly. These special markings are not parsed into the text ATIS shown on VATSIM maps or sent to pilots in their pilot clients.
 
 The Facilities Team has created a wide combination of presets to be used in normal controlling sessions based on SOP flows - try to stick to these as much as possible.
 
