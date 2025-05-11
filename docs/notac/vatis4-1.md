@@ -15,6 +15,7 @@ title: vATIS 4.1
     |:---:|:---:|:---:|
     | 1 Apr 2025 | 1 | DW |
 
+## 1. Introduction
 vATIS was recently updated to version 4.1 beta and several new features were added:
 
 - Automatically updated official profiles from the cloud (previously known as composites).
@@ -24,7 +25,8 @@ vATIS was recently updated to version 4.1 beta and several new features were add
 - Various backend improvements for future feature releases.
 
 ![vATIS GUI](https://vatis.app/assets/images/MainScreen.png)
-## First-Run Setup
+
+## 2. First-Run Setup
 1. Highly recommended that you uninstall any
 previous versions of vATIS from your computer.
 2. Visit https://vatis.app/ and download version 4.1 for
@@ -45,10 +47,10 @@ in previous versions.
 8. You may safely delete the extracted file folder and ZIP file downloaded from the ZHU GitHub repository.
 9. It is recommended to keep all 16 ZHU profiles in your vATIS installation so that they are always kept up to date.
 
-## Regular Use
+## 3. Regular Use
 Each time you open vATIS, it will check to see if the Facilities Team has made any updates to profiles and will automatically download the newest version (similar to how CRC automatically updates video maps and cab views).
 
-## Important Notes
+## 4. Important Notes
 On some presets, you may notice `^`, `@`, and `*` symbols in the Airport Conditions and NOTAMS sections. These are needed to help the vATIS Text to Speech (TTS) engine accurately render the computer-generated voice ATIS. Please do not remove these characters or the voice ATIS will not render correctly. These special markings are not parsed into the text ATIS shown on VATSIM maps or sent to pilots in their pilot clients.
 
 The Facilities Team has created a wide combination of presets to be used in normal controlling sessions based on SOP flows - try to stick to these as much as possible.
@@ -56,5 +58,5 @@ The Facilities Team has created a wide combination of presets to be used in norm
 !!! warning
     Any local changes made to a presets or profiles may be overwritten the next time the Facilities team makes an official edit to that profile.
 
-## D-ATIS Preset 
+## 5. D-ATIS Preset 
 If you choose to copy and paste real-world D-ATIS information, use the D-ATIS preset for the facility. This will give you a blank canvas for each controlling session. Be aware that the TTS rendering of your ATIS may not be accurate or make sense without the special characters. Try to remove real world D-ATIS information that doesn’t apply in VATSIM (birds, equipment, etc.).

@@ -1,5 +1,5 @@
-title: AUS>ZHU
-# AUS>ZHU
+title: AUS<>ZHU
+# AUS<>ZHU
 ??? warning "Disclaimer"
     This document is provided for Houston ARTCC controllers to use when providing virtual ATC services on the VATSIM network. The information herein is **not intended for use in any real-world aviation applications**.
 
@@ -25,6 +25,7 @@ iii. VFR Handoffs. If Center or Approach Control has not accepted the handoff of
 iv. When an “OPD Altitude” is listed, ZHU shall issue a “Descend via” clearance.
 
 v. “Knock it off” altitudes shall only be used when both AUS and ZHU determine that a “Descend via” clearance is impractical.
+
 ### 4-b. Radar Arrival Control
 i. Center
 
@@ -58,19 +59,25 @@ i. Departure aircraft must be:
 1. Established on a SID.
 
     a. Aircraft may be shortcut direct ELOEL or ILEXY.
+    
     b. Aircraft on the PALMS# SID must be at or below 5,000.
 
 2. Direct the following fixes/VORs:
 
     a. AGJ
+ 
     b. JCT
+ 
     c. STV
+ 
     d. AMUSE
 
 3. Established on the following radials/airways:
 
     a. V17/J21
+ 
     b. V306
+ 
     c. CWK-040R
 
 ii. Aircraft departing AUS requesting 14,000 feet or above and overflying San Antonio TRACON airspace:
