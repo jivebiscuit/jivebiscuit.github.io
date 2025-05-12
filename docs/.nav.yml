@@ -1,12 +1,6 @@
 nav:
     - Home: index.md
     - Policies: policies
-        - General: general.md
-        - Events: events.md
-        - Training: training.md
-        - Training Syllabus: training-syllabus.md
     - LOAs: loa
     - NOTAC: notac
-        - teamspeak.md
-        - vatis4-1.md
     - QRCs: qrc
