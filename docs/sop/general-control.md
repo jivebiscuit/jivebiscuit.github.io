@@ -82,14 +82,16 @@ It is paramount to remember that VATSIM is a learning environment that features 
 Controllers will utilize the following methods in counseling deficient pilots:
 
 1. Calmly state the previous clearance, state what the pilot is currently doing incorrectly, then give new instructions.
-!!! example
-    “AAL1025 the previous clearance was to descend and maintain 5,000. I show you descending through 3,500. Please climb and maintain 5,000.”
+    
+    ??? example
+        “AAL1025 the previous clearance was to descend and maintain 5,000. I show you descending through 3,500. Please climb and maintain 5,000.”
+
 2. Send the pilot an appropriate ZHU ARTCC pilot help alias command (See the ZHU Alias Reference for more information).
 3. Constructively and professionally counsel the pilot via private messages during periods of low workload.
 4. As a final measure, pilots who continue to demonstrate a deficiency of skills or perform below the pilot standards outlined in the VATSIM Code of Conduct must be directed to the attention of a supervisor via a `.wallop` message and a brief description of the violation for further escalation.
 
-!!! example
-    “`.wallop UAL123` is failing to maintain an assigned altitude and speed per VATSIM pilot competencies. They have already been warned twice.”
+    ??? example
+        “`.wallop UAL123` is failing to maintain an assigned altitude and speed per VATSIM pilot competencies. They have already been warned twice.”
 
 #### 1-2-3. ATC CONTACT REQUESTS
 ATC Contact Me requests MUST NOT be sent to an aircraft during a critical phase of flight. This includes takeoff, landing, and when an aircraft is on final approach inside of a 5nm final.
@@ -133,18 +135,18 @@ Certified radar towers can use all forms of radar separation, and are responsibl
 3. VFR/VFR, when required by airspace
 
 Certified radar towers are considered a radar position, and as such, can issue control instructions that a normal approach/departure position would.
-??? info "List of Certified Radar Towers"
+??? abstract "List of Certified Radar Towers"
     KARA, KAUS, KBFM, KBIX, KBRO, KBTR, KCLL, KEFD, KGLS, KGPT, KGTU, KHOU, KHRL, KHUM, KHYI, KIAH, KLCH, KLFT, KMFE, KMOB, KMSY, KNBG, KNEW, KNOG, KNQI, KPOE, KRND, KSAT, KSGR, KSKF, KSSF
 
 #### 2-1-2. Uncertified Radar Towers
 Per 7110.65 3-1-9: “Uncertified tower display workstations must be used only as an aid to assist controllers in visually locating aircraft. Radar services and traffic advisories are not to be provided using uncertified tower display workstations.”
-??? info "List of Uncertified Radar Towers"
+??? abstract "List of Uncertified Radar Towers"
     KLRD
 
 #### 2-1-3. VFR Towers
 VFR towers cannot use any form of radar separation or control.
 
-??? info "List of VFR Towers"
+??? abstract "List of VFR Towers"
     KAEX, KBAZ, KEDC, KHDC, KHSA, KNWL, KNGP, KPQL, KTME, KVCT
 
 ### 2-2. Scratchpad Rules
@@ -153,7 +155,7 @@ Aircraft arriving at an airport shall have their scratch pad marked as follows:
 
 The first character shall indicate the type of approach unless the aircraft is expecting a visual approach.
 
-??? info "Scratch Pad Approach Type Codes"
+??? abstract "Scratch Pad Approach Type Codes"
     | Code | Approach Type |
     | --- | --- |
     | `V` | Visual - Cleared with a proceeding aircraft in sight |
@@ -420,8 +422,8 @@ The offsetting of flight strips is used as a visual reminder tool for controller
 ## 5. Internal LOAs
 ### 5-1. Tower-TRACON LOA
 #### 5-1-1. Definitions
-1. Up-down airports are those airports where the ATCT and TRACON are physically co-located at the same facility. EXAMPLE - CRP, MSY
-2. Non-up-down airports are those airports where the tower and overlying radar controllers are not physically located at the same facilities. EXAMPLE - HRL, NEW
+1. Up-down airports are those airports where the ATCT and TRACON are physically co-located at the same facility. (e.g. CRP, MSY)
+2. Non-up-down airports are those airports where the tower and overlying radar controllers are not physically located at the same facilities. (e.g. HRL, NEW)
 
 #### 5-1-2. Releases
 1. At up-down airports, all aircraft shall automatically be released so long as the aircraft departs on the primary departure runway(s) on standard headings/altitudes.
