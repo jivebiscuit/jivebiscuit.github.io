@@ -244,7 +244,7 @@ Flight strip usage when working enroute and fulfilling top-down control duties i
     
     - **Approach Control:** Green separators in approach control facilities are designed to divide shared flight strip bay work areas. All approach positions will drag incoming flight strips from the drop zone (center rack) into their respective sections under the appropriate green separator.
 
-        ??? example "TRACON Green Separators"
+        ??? example "Example: TRACON Green Separators"
             Example of MSY TRACON’s flight strip bay. Each radar position owns the space underneath their labeled green divider up to the next position’s green divider:
 
             ![Approach Green Dividers](../assets/general-sop8.png)
@@ -279,7 +279,7 @@ Flight strip usage when working enroute and fulfilling top-down control duties i
 
     - **Ground & Local Control Separators:** Airports with divisible ATCT positions utilize white dividers to delineate which position owns which side of the flight strip bay. Strips passed to local control will land in the drop zone (middle rack) and the appropriate control should move the strip to their respective side of the flight strip bay underneath their divider.
 
-        ??? example "Ground & Local Control Separators"
+        ??? example "Example: Ground & Local Control Separators"
             West local owns the left side of the rack and East local owns the right side.
             ![Ground & Local Separators](../assets/general-sop13.png)
 
@@ -354,3 +354,602 @@ More examples of Arrival Flight Strip Blocks 1-9 Markings
 
 ??? example "Examples: Arrival Flight Strips"
     ![Arrival Flight Strip](../assets/general-sop17.png)
+
+### 3-3. Strip Movement
+### 3-3-1. Passing Of Flight Strips
+Flight strips can be passed internally within a facility such as an ATCT or TRACON as outlined in vStrips documentation. Transfer of strips between positions shall be completed by each position as outlined in their position-specific procedures of this General, or any facility-specific SOPs.
+
+#### 3-3-2. Offsetting Flight Strips
+The offsetting of flight strips is used as a visual reminder tool for controllers. Offsetting flight strips must be used when a specific aircraft is instructed to do any of the following:
+
+1. Issuance of a LUAW clearance (Local control)
+2. Issuance of a Takeoff clearance (Local control)
+3. Aircraft issued a runway crossing instruction (Ground control only). Re-center/Un-offset aircraft flight strip once aircraft has completed all approved runway crossings.
+
+??? example "Example: Offsetting Strips"
+    N721CA was cleared for takeoff or cleared to LUAW on runway 5.
+    ![Strip Offsetting](../assets/general-sop18.png)
+
+## 4. Position Duties And Responsibilities
+### 4-1. Flight Data/Clearance Delivery (CD)
+
+1. Uses the facility’s primary clearance delivery frequency
+2. IAW FAA 7110.65: be the central source for collecting and disseminating SIGMET, AIRMET, CWA, PIREPs, NOTAMs, special information, and known observed weather that may affect aircraft safety to the appropriate tower position in a timely manner.
+3. Distribute and operate the airport’s vATIS broadcast. Consult with the CIC and/or local control to determine the airport’s active configuration to use.
+4. Prepare, update, and distribute flight strips for IFR and VFR departures.
+5. Create a Virtual NAS flight plan for VFR departures using the STARS tower display workstation (TDW) or the CRC flight plan editor to include a minimum of:
+    1. Aircraft destination
+    2. Type of aircraft
+6. Collect messages related to TMIs for retention and distribution.
+7. Ensure that departing aircraft have received applicable delay/TMI information, current ATIS, and the appropriate clearance.
+8. Issue clearances as applicable to IFR/SVFR/VFR aircraft departing the airport of control IAW Appendix 3 of this General SOP.
+9. Forward flight strips to GC after clearance has been issued.
+10. Update the facility’s Status Information Area (SIA) in the ZHU IDS
+11. Route aircraft in order of preference listed:
+    1. Alias preferred route system
+    2. Appropriate SID
+    3. Clear the aircraft as filed
+
+### 4-2. Ground Control (GC)
+
+1. Uses the facility’s primary ground control frequency
+2. Ensure that all departing aircraft have received the current ATIS or appropriate departure information and indicate so on their flight strip in the appropriate block.
+3. Actively monitor/control all aircraft and vehicles operating within the movement areas, coordinating with local control as necessary. Aircraft/vehicles that will operate on or near active runways may remain on GC frequency unless otherwise required by local control.
+4. Do not approve or disapprove pushback or engine start operations in non-movement areas, however, include the area in scanning and provide advisory services to aircraft conducting these operations.
+5. Coordinate with local control when an aircraft requests departure from a runway other than the actively indicated runway(s) or an intersection departure.
+6. Coordinate a departure time with the appropriate TMU facility when any proposed departure requires a release for traffic management reasons.
+7. Verbally inform local control of flow control or TMI restrictions on aircraft taxiing for departure prior to handing the aircraft off.
+8. Ensure that departure flight strips are placed at the local control position in a timely manner.
+9. Utilize arrival flight strips during periods of low visibility operations until aircraft are visually located or report reaching their desired airport parking location.
+10. Unless otherwise coordinated, instruct all aircraft to monitor the appropriate local control frequency when local is specifically staffed.
+
+### 4-3. Local Control (LC)
+1. Uses the facility’s primary local control frequency
+2. Provide initial separation between successive departures.
+3. Provide ATC service for all aircraft operating in the airspace delegated to the position as depicted in Appendix 3.
+4. LC is authorized to use the tower display workstation (TDW) at applicable airports for radar functions provided that their responsibilities regarding aircraft operating on the runways or within the surface area are not impaired.
+5. Print and mark arrival flight strips during periods of low visibility operations
+6. Push arrival strips to ground control before transferring communications for non-ASDE-X equipped airports.
+7. When the radar is operational, provide initial separation (visual or radar) between successive departures and between departures and arrivals. Provide other appropriate radar services, i.e., traffic information, low altitude alerts, etc.
+8. Enter flight plan information with the proper discrete beacon code and prepare flight progress strips on aircraft that have requested VFR, SVFR, or IFR departure from a secondary airport within the local controller’s surface area.
+9. Advise appropriate radar/departure controller when visual separation will be provided between successive departures.
+10. Complete coordination with GC before allowing any arriving or departing helicopter to overfly, depart, or land on a taxiway.
+11. Obtain a release on any IFR, SVFR, or VFR aircraft departing the airport when automatic releases are not in effect.
+12. Actively monitor/control all aircraft and vehicles operating within the applicable movement areas.
+
+## 5. Internal LOAs
+### 5-1. Tower-TRACON LOA
+#### 5-1-1. Definitions
+1. Up-down airports are those airports where the ATCT and TRACON are physically co-located at the same facility. EXAMPLE - CRP, MSY
+2. Non-up-down airports are those airports where the tower and overlying radar controllers are not physically located at the same facilities. EXAMPLE - HRL, NEW
+
+#### 5-1-2. Releases
+1. At up-down airports, all aircraft shall automatically be released so long as the aircraft departs on the primary departure runway(s) on standard headings/altitudes.
+2. At non-up-down airports, the local controller shall request a release for each individual IFR aircraft. VFR aircraft shall automatically be released on course without altitude restrictions unless otherwise specified by Appendix 3.
+    1. When requesting release, the coordination must include at least the following information:
+        1. The phrase `Request release`.
+        2. The aircraft’s callsign.
+        3. The departure runway.
+    2. If the overlying controller does not specify a heading or altitude in the release, the aircraft shall be released according to the standard IFR climb-out instruction in Appendix 3.
+    3. Releases are valid for 3 minutes.
+    4. If the IFR climbout instruction in Appendix 3 states “As coordinated,” initially clear the aircraft as filed and maintain 3,000. Request release from the overlying controller and issue the heading/altitude coordinated with the takeoff clearance.
+
+#### 5-1-3. Radar Identification Procedures
+1. Certified Radar Towers:
+    1. The local controller shall radar identify, start a track, and handoff all departures to the appropriate overlying radar position.
+    2. The overlying radar position shall be responsible for informing the pilot that they are “Radar contact,” not the tower.
+    3. The overlying radar position shall not auto-track the airport when local is staffed.
+    4. VFR aircraft remaining in the pattern or requesting “Negative radar service” shall be tracked by the tower, but not informed that they are `Radar contact`.
+2. All Other Towers:
+    1. Rolling calls for departing aircraft shall not be given. Departures shall be radar-identified by the overlying radar controller using the “Ident” feature or other approved methods.
+
+#### 5-1-4. Arrival Procedures
+1. Certified Radar Towers:
+    1. Arrivals (IFR or VFR) shall not be radar handed off to the tower. The local controller shall utilize the STARS quick-look function to receive an aircraft’s arrival information. The arrival shall be considered coordinated so long as the scratchpad entry is correct and up-to-date (If applicable).
+    2. Planned missed approaches must be verbally coordinated with the tower.
+    3. VFR aircraft shall be sequenced to the airport with other IFR/VFR traffic, as necessary. Any pattern entry instructions must be coordinated with the tower.
+    4. If a VFR arrival calls the tower directly, the local controller shall radar identify the aircraft, but not use the phrase `Radar Contact.` The local controller may elect to send the VFR aircraft to approach control for sequencing to the airport in high-traffic volume scenarios.
+2. All Other Towers:
+    1. IFR arrival information shall be coordinated via the FIDO-generated arrival fight strip. The type of instrument approach must be verbally coordinated if different than the ATIS advertised approach, or if multiple approaches/runways are being advertised.
+    2. Planned missed approaches must be verbally coordinated with the tower.
+    3. VFR arrival aircraft shall be told `Radar service terminated, squawk VFR, contact (facility) tower (frequency)` no later than 10 flying miles from the airport.
+    4. When controlling LRD or VCT, inform ZHU when an IFR arrival has landed: `N123AB arrived at 1322Z`.
+
+#### 5-1-5. Go Around Aircraft
+Go-Arounds shall be handled in the order of preference listed below:
+
+1. As specified in the facility SOP or LOA.
+2. Give the standard initial IFR departure heading/altitude assignment in Appendix 3.
+3. Instruct the aircraft to fly the published missed approach.
+4. If on a visual approach, instruct the aircraft to enter the traffic pattern.
+
+### 5-2. TRACON-TRACON LOA
+#### 5-2-1. Procedures
+1. Departure aircraft shall be on their filed flight plan route at or climbing to an altitude correct for the direction of flight.
+2. Arrival aircraft shall be on a STAR or direct destination airport at or descending to an altitude correct for the direction of flight.
+3. Overflight aircraft shall be on their filed flight plan route at an altitude correct for the direction of flight.
+
+### 5-3. TRACON-ZHU LOA
+#### 5-3-1. Procedures
+1. Departure aircraft shall be established on their filed flight plan route at or climbing to the top altitude of the TRACON. If the aircraft’s requested altitude is lower than the top altitude of the TRACON, the aircraft shall be at or climbing to an altitude correct for direction of flight.
+2. Arrival aircraft shall be routed via direct destination, descending to an altitude 1,000ft above the top altitude of the TRACON. If the aircraft is below this altitude, they shall be established at a correct altitude for direction of flight.
+3. Overflight aircraft shall be on their filed flight plan route at an altitude correct for the direction of flight.
+
+## Appendices
+
+### A-1. ATCT Position Briefing Checklist
+??? abstract "ATCT Position Briefing Checklist"
+    1. Status information areas (can be self-briefed if indicated so by relieving controller).
+    2. Current applicable NOTAMS (simulated or not).
+    3. Weather conditions.
+        1. Current general weather conditions (VFR/MVFR/IFR/LIFR)
+        2. PIREP’s.
+        3. SIGMET’s/CWA’s.
+        4. Trends.
+        5. RVR. (if less than 6000 ft.)
+    4. Current Traffic Management Initiatives (if applicable).
+    5. Airport conditions.
+        1. Airspace.
+        2. Runway configuration.
+            1. LAHSO operations (KIAH only)
+    6. Equipment.
+        1. STARS/Radar (if applicable).
+        2. ASDE-X (if applicable).
+    7. Airport activities.
+        1. Restrictions/closures (if being simulated).
+    8. Special activities. (Live training in progress, TFRs, etc.)
+    9. Handwritten notes (Half strips). Abnormal Items.
+    10. Runway status.
+        1. Closed.
+        2. Unavailable.
+        3. Occupied.
+    11. LUAW Status. (In use, prohibited, etc.)
+    12. Traffic.
+        1. IFR/VFR/SFVR Clearances (if covering clearance delivery duties).
+        2. Taxiing (if covering ground control duties)
+        3. Actively departing, arriving, and over-flight aircraft (if covering local control duties)
+
+### A-2. TRACON Position Briefing Checklist
+??? abstract "TRACON Position Briefing Checklist"
+    1. Status information areas (can be self-briefed if indicated so by relieving controller).
+    2. Current applicable NOTAMS (simulated or not).
+    3. Weather conditions.
+        1. Current general weather conditions (VFR/MVFR/IFR/LIFR)
+        2. PIREP’s.
+        3. SIGMET’s/CWA’s.
+        4. Trends.
+        5. RVR. (if less than 6000 ft.)
+    4. Airspace/Runway configuration.
+    5. Equipment.
+        1. Navigational Aids (NAVAIDS) out of service (if simulated).
+        2. ASDE-X/TDW status (if applicable).
+    6. Airport activities.
+        1. Restrictions/closures (if being simulated).
+    7. Traffic Management Initiatives
+    8. Special activities. (Live training in progress, TFRs, PAJA, etc.)
+    9. Handwritten notes (Half strips). Abnormal Items.
+    10. Satellite releases.
+    11. Traffic.
+        1. Special activity aircraft.
+        2. Point-out aircraft.
+        3. Holding aircraft.
+        4. Aircraft handed off, but still in airspace.
+        5. Aircraft released but not yet airborne.
+        6. VFR advisory aircraft.
+        7. Aircraft standing by for service.
+        8. Coordination agreements with other positions.
+
+### A-3. ATCT Operations Reference Table
+??? abstract "ATCT Operations Reference Table"
+
+    ??? info "AEX - Alexandria International"
+        | AEX - Alexandria International | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,600 |
+        | Tower Equipment | VFR |
+        | IFR Instructions | As Coordinated/10,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 24/7 |
+
+    ??? info "ARA - Acadiana Regional"
+        | ARA - Acadiana Regional | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | H060/2,000 or H250/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-2100 |
+
+    ??? info "BAZ - New Braunfels National"
+        | BAZ - New Braunfels National | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,700 |
+        | Tower Equipment | VFR |
+        | IFR Instructions | As Coordinated |
+        | VFR Instructions | - |
+        | Operating Hours | 0700-1900 |
+
+    ??? info "BFM - Mobile International"
+        | BFM - Mobile International | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RH/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | Sun: 0700-1900<br>Tue-Fri: 0330-2200<br>Sat: 0400-1900 |
+
+    ??? info "BIX - Keesler AFB"
+        | BIX - Keesler AFB | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RH/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | Mon-Fri: 0800-2300<br>Sat-Sun: 1100-1700 |
+
+    ??? info "BPT - Jack Brooks Regional"
+        | BPT - Jack Brooks Regional | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | North Flow DEP Area = BPT210R CW through BPT030R<br>South Flow DEP Area = BPT030R, CW through BPT210R<br>Assign any heading inside the DEP area, maintain 3,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-2200 |
+
+    ??? info "BRO - Brownsville International"
+        | BRO - Brownsville International | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | H010/3,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-0000 |
+
+    ??? info "BTR - Baton Rouge Metro"
+        | BTR - Baton Rouge Metro | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class C SFC-2,000 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | Jets: RH/5,000<br>Non-Jets: Assigned a heading that diverges 20 degrees from RH and maintain 3,000 |
+        | VFR Instructions | Assign a heading nearest to the pilot's request, except do not assign a heading within 30 degrees opposite the final |
+        | Operating Hours | 0500-0000 |
+
+    ??? info "CLL - Easterwood Field"
+        | CLL - Easterwood Field | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RH/3,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0800-2100 |
+
+    ??? info "CWF - Chennault International"
+        | CWF - Chennault International | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | As Coordinated |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-2200 |
+
+    ??? info "CXO - Conroe/North Houston Regional Airport"
+        | CXO - Conroe/North Houston Regional Airport | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,700 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | South/West Gates: H250/2,000<br>North/East Gates: H060/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-2100 |
+
+    ??? info "DLF - Laughlin AFB"
+        | DLF - Laughlin AFB | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class C SFC-3,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RH/5,000 |
+        | VFR Instructions | - |
+        | Operating Hours | Mon-Fri: 0700-1900<br>Sat: Closed<br>Sun: 1500-1759 |
+
+    ??? info "DWH - David Wayne Hooks Memorial"
+        | DWH - David Wayne Hooks Memorial | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-1,999 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | South Flow N/E Gate: H290<br>South Flow S/W Gate: H230<br> North Flow N/E Gate: H350<br>North Flow S/W Gate: H290 Maintain 2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0700-2200 |
+
+    ??? info "EDC - Austin Exec"
+        | EDC - Austin Exec | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-3,000 |
+        | Tower Equipment | VFR |
+        | IFR Instructions | RH/3,000 |
+        | VFR Instructions | VFR FF: Maintain VFR AOB 3,000 |
+        | Operating Hours | 0600-2200 |
+
+    ??? info "EFD - Ellington"
+        | EFD - Ellington | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,000 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | H090/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 24/7 |
+
+    ??? info "GLS - Scholes International At Galveston"
+        | GLS - Scholes International At Galveston | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,499 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | H250/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-1800 |
+
+    ??? info "GPT - Gulfport-Biloxi International"
+        | GPT - Gulfport-Biloxi International | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RH/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-2300 |
+
+    ??? info "GTU - Georgetown Exec"
+        | GTU - Georgetown Exec | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-3,300 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | H100/3,000 or H240/3,000 |
+        | VFR Instructions | VFR FF: Jets/T-Props maintain VFR AOB 3,500 |
+        | Operating Hours | 0700-2200 |
+
+    ??? info "HDC - Hammond Northshore Regional"
+        | HDC - Hammond Northshore Regional | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | VFR |
+        | IFR Instructions | RH/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0800-1800 |
+
+    ??? info "HRL - Valley International"
+        | HRL - Valley International | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class C SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | H060/3,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-0000 |
+
+    ??? info "HSA - Stennis International"
+        | HSA - Stennis International | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | VFR |
+        | IFR Instructions | RH/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0700-2100 |
+
+    ??? info "HUM - Houma-Terrebonne"
+        | HUM - Houma-Terrebonne | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RH/10,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-1900 |
+
+    ??? info "HYI - San Marcos Regional"
+        | HYI - San Marcos Regional | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-3,100 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RWY 26/31/35: H360/3,000<br>RWY 08/13/17: H080/3,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0700-2100 |
+
+    ??? info "LCH - Lake Charles Regional"
+        | LCH - Lake Charles Regional | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RWY 15: H120-180<br>RWY 33: H300-360<br>RWY 05: H020-080<br>RWY 23: H200-260<br>Maintain 10,000 |
+        | VFR Instructions | Assign IFR headings to all departures, no altitude restriction |
+        | Operating Hours | 0600-2200 |
+
+    ??? info "LFT - Hammond Northshore Regional"
+        | LFT - Hammond Northshore Regional | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class C SFC-2,000 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RWY 4L/R: H040-060/2,000<br>RWY 22L/R: H220-240/2,000<br>RWY 29: H290-310/2,000<br>RWY 11: As Coordinated. CFR |
+        | VFR Instructions | Assign IFR headings, maintain VFR AOB 2,000 |
+        | Operating Hours | 0530-2230 |
+
+    ??? info "LRD - Laredo International"
+        | LRD - Laredo International | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-3,000 |
+        | Tower Equipment | Limited Radar |
+        | IFR Instructions | As coordinated with ZHU |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-0000 |
+
+    ??? info "MFE - McAllen International"
+        | MFE - McAllen International | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,600 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | H040/3,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-0000 |
+
+    ??? info "MOB - Mobile Regional"
+        | MOB - Mobile Regional | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class C within 30 degrees of departure runway SFC-3,000.<br>All other areas SFC-2,000. |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RWY 15: H120-180/3,000<br>RWY 33: H300-360/3,000<br>RWY 18/36: As coordinated. CFR |
+        | VFR Instructions | Assign IFR headings, maintain VFR AOB 3,000 |
+        | Operating Hours | 0600-2300 |
+
+    ??? info "NBG - New Orleans NAS"
+        | NBG - New Orleans NAS | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RH/15,000 |
+        | VFR Instructions | - |
+        | Operating Hours | Mon-Fri: 0700-2300<br>Sat-Sun: 0900-1700 |
+
+    ??? info "NEW - Lakefront"
+        | NEW - Lakefront | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RWY 18s/36s: Automatic releases RH/2,000<br>RWY 9/27: As coordinated. CFR. |
+        | VFR Instructions | - |
+        | Operating Hours | 0700-2100 |
+
+    ??? info "NOG - Orange Grove NALF"
+        | NOG - Orange Grove NALF | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,800 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RH/3,000 |
+        | VFR Instructions | - |
+        | Operating Hours | Mon-Fri: 0730-1530 |
+
+    ??? info "NQI - Kingsville NAS"
+        | NQI - Kingsville NAS | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RH/3,000 |
+        | VFR Instructions | - |
+        | Operating Hours | Mon-Thu: 0745-0000<br>Fri: 0745-1745 |
+
+    ??? info "NWL - Waldron Field NOLF"
+        | NWL - Waldron Field NOLF | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,000 |
+        | Tower Equipment | VFR |
+        | IFR Instructions | As coordinated with CRP TRACON |
+        | VFR Instructions | - |
+        | Operating Hours | Mon-Fri: 0730-Sunset |
+
+    ??? info "NGP - Corpus Christi NAS"
+        | NGP - Corpus Christi NAS | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | VFR |
+        | IFR Instructions | Automatic Releases<br>RWY 04/13/36: RH/1,600<br>RWY 18: H130/2,500<br>RWY 31: RH until 2.5 DME, then H040/1,600 |
+        | VFR Instructions | - |
+        | Operating Hours | Mon-Thu: 0700-2300<br>Fri: 0700-1900 |
+
+    ??? info "NGW - Cabaniss Field NOLF"
+        | NGW - Cabaniss Field NOLF | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-1,199 |
+        | Tower Equipment | VFR |
+        | IFR Instructions | As coordinated with CRP TRACON |
+        | VFR Instructions | - |
+        | Operating Hours | Mon-Thur: 0800-2300<br>Fri: 0800-1900 |
+
+    ??? info "POE - Polk AAF"
+        | POE - Polk AAF | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,800 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RH/3,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0700-2300 |
+
+    ??? info "PQL - Trent Lott International"
+        | PQL - Trent Lott International | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | VFR |
+        | IFR Instructions | RH/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | Mon-Fri: 0600-2000<br>Sat-Sun: 0800-1800 |
+
+    ??? info "RND - Randolph AFB"
+        | RND - Randolph AFB | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-3,300 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | 15L: RH/3,000<br>15R: H170/3,000<br>33R: H350/3,000<br>33L: RH/3,000 |
+        | VFR Instructions | VFR FF: RH, maintain VFR AOB 3,000 |
+        | Operating Hours | Mon-Fri: 0700-1900 |
+
+    ??? info "SGR - Sugar Land Regional"
+        | SGR - Sugar Land Regional | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,600 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RH/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-2200 |
+
+    ??? info "SKF - Kelly Field"
+        | SKF - Kelly Field | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-3,200 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | RWY 16: RH/3,000 except SAT Landing RWY4<br>RWY 16 & SAT 04: RH/2,500 until KSY 8 DME, then maintain 3,000<br>RWY 34 South Gates: H210/2,500 until KSY 15 DME, then maintain 3,000<br>RWY 34 Other Gates: RH/2,500 until KSY 9 DME, then maintain 3,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 24/7 |
+
+    ??? info "SSF - Stinson Municipal"
+        | SSF - Stinson Municipal | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-3,100 |
+        | Tower Equipment | Radar |
+        | IFR Instructions | H140/2,500 |
+        | VFR Instructions | VFR FF: H050, H110, or H200 |
+        | Operating Hours | 0700-2200 |
+
+    ??? info "TME - Houston Exec"
+        | TME - Houston Exec | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,500 |
+        | Tower Equipment | VFR |
+        | IFR Instructions | RH/2,000 |
+        | VFR Instructions | - |
+        | Operating Hours | 0600-2200 |
+
+    ??? info "VCT - Victoria Regional"
+        | VCT - Victoria Regional | |
+        | --- | --- |
+        | Tower Airspace Dimensions | Class D SFC-2,600 |
+        | Tower Equipment | VFR |
+        | IFR Instructions | As Coordinated with ZHU |
+        | VFR Instructions | - |
+        | Operating Hours | 0700-2200 |
+
+### A-4. TRACON Split Maps
+??? abstract "Del Rio Approach"
+    ![Del Rio Approach](../assets/general-sop19.png)
+
+??? abstract "Baton Rouge Approach"
+    ![Baton Rouge Approach](../assets/general-sop20.png)
+
+??? abstract "Gulfport Approach"
+    ![Gulfport Approach](../assets/general-sop21.png)
+
+??? abstract "Lake Charles Approach"
+    ![Lake Charles Approach](../assets/general-sop22.png)
+
+??? abstract "Lafayette Approach"
+    ![Lafayette Approach](../assets/general-sop23.png)
+
+??? abstract "Mobile Approach"
+    ![Mobile Approach](../assets/general-sop24.png)
+
+??? abstract "Kingsville Approach"
+    ![Kingsville Approach](../assets/general-sop25.png)
+
+??? abstract "Polk Approach"
+    ![Polk Approach](../assets/general-sop26.png)
