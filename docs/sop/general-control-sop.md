@@ -3,6 +3,10 @@ title: General Control SOP
 ??? warning "Disclaimer"
     This document is provided for Houston ARTCC controllers to use when providing virtual ATC services on the VATSIM network. The information herein is **not intended for use in any real-world aviation applications**.
 
+    This order prescribes the standards of general operations at all controlled airports within the ZHU ARTCC that are not subject to their own facility-specific SOPs. Operational guidance on airspace division, transfer of control, internal agreements, flight strip usage, and more
+
+    It is emphasized that the information continued herein is designed specifically for use only within the virtual controlling environment. It does not apply to, nor should it be referenced for, live operations in the United States National Airspace System (NAS). The procedures continued within this document show how the positions are to be operated and, in conjunction with FAA Order 7110.65, will be the basis for performance evaluations, training, and certification.
+
 ??? info "Revision Information"
     - Document Number: ZHU O 7110.65C
     - Date: 30 May 2024
@@ -16,10 +20,6 @@ title: General Control SOP
     | 15 Feb 2024 | B | EH |
     | 29 Feb 2024 | C | WS |
     | 30 May 2024 | C | WS |
-
-This order prescribes the standards of general operations at all controlled airports within the ZHU ARTCC that are not subject to their own facility-specific SOPs. Operational guidance on airspace division, transfer of control, internal agreements, flight strip usage, and more
-
-It is emphasized that the information continued herein is designed specifically for use only within the virtual controlling environment. It does not apply to, nor should it be referenced for, live operations in the United States National Airspace System (NAS). The procedures continued within this document show how the positions are to be operated and, in conjunction with FAA Order 7110.65, will be the basis for performance evaluations, training, and certification.
 
 ## 1. General
 ### 1-1. Introduction
@@ -93,7 +93,7 @@ Controllers will utilize the following methods in counseling deficient pilots:
     ??? example
         “`.wallop UAL123` is failing to maintain an assigned altitude and speed per VATSIM pilot competencies. They have already been warned twice.”
 
-#### 1-2-3. ATC CONTACT REQUESTS
+#### 1-2-3. ATC Contact Requests
 ATC Contact Me requests MUST NOT be sent to an aircraft during a critical phase of flight. This includes takeoff, landing, and when an aircraft is on final approach inside of a 5nm final.
 
 ### 1-3. Closures
@@ -372,7 +372,7 @@ The offsetting of flight strips is used as a visual reminder tool for controller
     N721CA was cleared for takeoff or cleared to LUAW on runway 5.
     ![Strip Offsetting](../assets/general-sop18.png)
 
-## 4. Position Duties And Responsibilities
+## 4. Position Duties & Responsibilities
 ### 4-1. Flight Data/Clearance Delivery (CD)
 
 1. Uses the facility’s primary clearance delivery frequency
