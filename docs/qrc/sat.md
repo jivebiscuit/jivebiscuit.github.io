@@ -20,8 +20,10 @@
 
 ### Images & Figures
 #### Scratchpad Departure Gates
-![SAT Departure Fixes](../assets/sat-qrc1.png)
+??? info "Departure Gates"
+    ![SAT Departure Fixes](../assets/sat-qrc1.png)
 
 #### Non-Turbojet Headings
-![Non-Turbojet Headings](../assets/sat-qrc2.png)
-![Non-Turbojet Headings](../assets/sat-qrc3.png)
+??? info "Prop Depature Headings"
+    ![Non-Turbojet Headings](../assets/sat-qrc2.png)
+    ![Non-Turbojet Headings](../assets/sat-qrc3.png)

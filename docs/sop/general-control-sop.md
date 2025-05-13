@@ -18,8 +18,8 @@ title: General Control SOP
     |:---:|:---:|:---:|
     | 11 Feb 2024 | A | EH |
     | 15 Feb 2024 | B | EH |
-    | 29 Feb 2024 | C | WS |
-    | 30 May 2024 | C | WS |
+    | 29 Feb 2024 | C | OS |
+    | 30 May 2024 | C | OS |
 
 ## 1. General
 ### 1-1. Introduction
