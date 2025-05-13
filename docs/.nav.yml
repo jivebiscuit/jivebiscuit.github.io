@@ -2,5 +2,6 @@ nav:
     - Home: index.md
     - Policies: policies
     - LOAs: loa
+    - SOPs: sop
     - NOTAC: notac
     - QRCs: qrc
