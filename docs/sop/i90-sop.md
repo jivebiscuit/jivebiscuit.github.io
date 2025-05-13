@@ -655,18 +655,32 @@ Final North, Final Center, and Final South must:
             2. All traffic to RWY 8R must enter Zone A at or above 7,000 feet MSL.
             3. All traffic to RWY 9 must be enter Zone A at 5,000 to 6,000 feet MSL.
 
-??? abstract "Final Positions (A, I, O) Airspace Maps"
-    ??? info "KIAH West"
-        ![KIAH West](../assets/i90-sop83.png)
-    ??? info "KIAH East"
-        ![KIAH East](../assets/i90-sop84.png)
-    ??? info "KIAH East & West"
-        ![KIAH East & West](../assets/i90-sop85.png)
-    ??? info "KIAH 15 (FN)"
-        ![KIAH 15 (FN)](../assets/i90-sop86.png)
-    ??? info "KIAH 33 (FS)"
-        ![KIAH 33 (FS)](../assets/i90-sop87.png)
-    ??? info "KIAH West Final Zones"
-        ![KIAH West Final Zones](../assets/i90-sop88.png)
-    ??? info "KIAH East Final Zones"
-        ![KIAH East Final Zones](../assets/i90-sop89.png)
+    ??? abstract "Final Positions (A, I, O) Airspace Maps"
+        ??? info "KIAH West"
+            ![KIAH West](../assets/i90-sop83.png)
+        ??? info "KIAH East"
+            ![KIAH East](../assets/i90-sop84.png)
+        ??? info "KIAH East & West"
+            ![KIAH East & West](../assets/i90-sop85.png)
+        ??? info "KIAH 15 (FN)"
+            ![KIAH 15 (FN)](../assets/i90-sop86.png)
+        ??? info "KIAH 33 (FS)"
+            ![KIAH 33 (FS)](../assets/i90-sop87.png)
+        ??? info "KIAH West Final Zones"
+            ![KIAH West Final Zones](../assets/i90-sop88.png)
+        ??? info "KIAH East Final Zones"
+            ![KIAH East Final Zones](../assets/i90-sop89.png)
+
+## Appendix A: LTA-I90-11
+To the maximum extent possible, provide IFR separation for VFR aircraft conducting practice instrument approaches at the locations listed below, subject to traffic and workload conditions.
+
+1. Separation services begin at the point where the approach clearance becomes effective and terminates at the missed approach point, unless prior authorization to conduct the published missed approach procedure has been requested and approval has been recieved from Air Traffic Control (ATC).
+2. When utilizing separations services, 500 feet vertical separation may be applied between VFR aircraft and between a VFR and an IFR aircraft.
+3. Pilots on VFR flight plans are required to comply with basic visual flight rules (14 CFR Part 91). Application of ATC procedures does not relieve IFR and VFR pilots of their responsibility to see an avoid other traffic while operating in VFR conditions.
+4. Ensure that practice approaches do not disrupt the flow of other arriving or departing traffic; therefore; during busier times it may be necessary to refuse, delay, or withdraw authorization for the practice approach.
+5. Airport Locations:
+
+    ![LTA-I90-11](../assets/i90-sop90.png)
+
+## Appendix B: IAH Departure Gates
+![IAH Departure Gates](../assets/i90-sop91.png)
