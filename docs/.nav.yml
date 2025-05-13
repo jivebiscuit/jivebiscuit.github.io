@@ -1,7 +1,7 @@
 nav:
     - Home: index.md
     - Policies: policies
-    - LOAs: loa
     - SOPs: sop
+    - LOAs: loa
     - NOTAC: notac
     - QRCs: qrc
