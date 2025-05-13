@@ -225,7 +225,7 @@ Positions permitted to use P-ACP must be responsible for maintaining separation 
         1. Simultaneous ODO Arrivals may be conducted to Parallel Runways, provided an aircraft executing a go-around or missed approach is issued a turn away from any opposing traffic when inside of the Cutoff Point to the runway.
         2. Traffic advisories are not mandatory unless a missed approach or go around occurs.
 
-## 3. Position Duties & Responsibilities
+## 3. Position Duties, Responsibilities & Maps
 ### 3-1. Departure North (M)
 #### 3-1-1. Duties
 Departure North must:
@@ -270,3 +270,403 @@ Tomball Satellite must:
         ![KIAH 15 or 33](../assets/i90-sop11.png)
     ??? info "KIAH East"
         ![KIAH East](../assets/i90-sop12.png)
+
+### 3-3. Departure West (W)
+#### 3-3-1. Duties
+Departure West must:
+
+1. Provide radar services to aircraft in airspace depicted in this section.
+2. Upon completion of communications transfer from Local Control, advise departure aircraft of radar identification and validate Mode C altitude information of aircraft. Prior to turning departure aircraft, ensure separation exists between his/her aircraft and aircraft under control of the underlying satellite position.
+3. Provide Class B services within the lateral boundaries of Departure West airspace from 500 feet below delegated IFR altitudes to the vertical limits of Class B airspace.
+4. Climb South Satellite departures via the TRIOS Gate to 11,000 feet MSL on a southeast heading and handoff to Departure South, when Departure East is open.
+
+??? abstract "Departure West (W) Airspace Maps"
+    ??? info "KIAH West/15/33 KHOU 13"
+        ![KIAH West/15/33 KHOU 13](../assets/i90-sop13.png)
+    ??? info "KIAH East KHOU 13"
+        ![KIAH East KHOU 13](../assets/i90-sop14.png)
+    ??? info "KIAH West/15 KHOU 4"
+        ![KIAH West/15 KHOU 4](../assets/i90-sop15.png)
+    ??? info "KIAH East/E&W KHOU 4"
+        ![KIAH East/E&W KHOU 4](../assets/i90-sop16.png)
+    ??? info "KIAH East KHOU 22"
+        ![KIAH East KHOU 22](../assets/i90-sop17.png)
+    ??? info "KIAH East KHOU 31"
+        ![KIAH East KHOU 31](../assets/i90-sop18.png)
+    ??? info "KIAH West/15 KHOU 31"
+        ![KIAH West/15 KHOU 22](../assets/i90-sop19.png)
+    ??? info "KIAH West/15 KHOU 22"
+        ![KIAH West/15 KHOU 22](../assets/i90-sop20.png)
+
+### 3-4. Lakeside Satellite (P)
+#### 3-4-1. Duties
+Lakeside Satellite must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+2. Upon completion of communications transfer from Local Control, advise departure aircraft of radar identification and validate Mode C altitude information of aircraft. Lakeside Satellite must not climb or adjust the speed of departure aircraft until clear of the KIAH Surface Area airspace (this includes KIAH airspace that is surface to 1,200 feet) or KHOU airspace.
+3. When KDWH is landing RWY 35L/R and KIAH is in an East Flow, ensure all IFR aircraft landing KDWH are established on the final approach course prior to an 8-mile final.
+4. When KIAH is on an East Flow, ensure all Non-KDWH satellite aircraft are vectored to remain west of fifteen (15) NM from IAH VORTAC.
+5. Advise Tomball Satellite of any aircraft that are within eight (8) NM west of KDWH at or below 2,000 feet MSL when KDWH is departing RWY 17L/R. (This refers to departures off KDWH to Tomball Satellite that make a wide turn.)
+6. Unless utilizing visual separation, ensure IFR satellite aircraft remain west of KDWH RWY 17R/35L extended runway centerline on a heading that ensures divergence from KIAH straight-in arrivals, when KIAH is on an East Flow.
+7. When KDWH is landing RWY 17L/R, advise KIAH Tower of all approaches to RWY 35L/R.
+8. When DWH Tower is closed, coordinate all IFR and/or practice IAPs to KDWH with Tomball Satellite.
+9. Ensure turbojet/turboprop aircraft landing KHOU, originating inside the Houston Core airspace, are coordinated with, or handed off to, Eagle Lake Arrival.
+10. Ensure turbojet/turboprop aircraft landing KHOU, originating outside of the Houston Core airspace, are handed off to Eagle Lake Arrival at or above 6,000 feet MSL.
+11. Force the display of FDBs (i.e., *), on all piston aircraft landing KHOU, to Eagle Lake Arrival and Gulf Arrival.
+12. Provide Class B service within the lateral boundaries of Class B airspace within Lakeside Satellite airspace.
+13. Ensure the correct assigned runway is entered in the FDB (Scratchpad 1) for aircraft landing KIAH.
+
+??? abstract "Lakeside Satellite (P) Airspace Maps"
+    ??? info "KIAH West/15/33 KHOU 13"
+        ![KIAH West/15/33 KHOU 13](../assets/i90-sop21.png)
+    ??? info "KIAH East KHOU 13"
+        ![KIAH East KHOU 13](../assets/i90-sop22.png)
+    ??? info "KIAH West 15 KHOU 4"
+        ![KIAH West 15 KHOU 4](../assets/i90-sop23.png)
+    ??? info "KIAH East KHOU 4"
+        ![KIAH East KHOU 4](../assets/i90-sop24.png)
+    ??? info "KIAH West KHOU 22/31"
+        ![KIAH West KHOU 22/31](../assets/i90-sop25.png)
+    ??? info "KIAH East KHOU 22/31"
+        ![KIAH East KHOU 22/31](../assets/i90-sop26.png)
+
+### 3-5. West Arrival (N)
+#### 3-5-1. Duties
+West Arrival must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+2. Ensure arrivals are assigned the appropriate runway transition, if applicable, and airspeed in accordance with paragraph 2-1-14.
+3. Provide Class B service between 5,500 feet MSL and 10,000 feet MSL, within the lateral boundaries of Class B airspace, within West Arrival airspace.
+4. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with vZHU General Control SOP 2-2-1.
+5. Coordinate the use of KIAH RWY 8R with Eagle Lake Arrival.
+6. Coordinate “Wrong Side” downwind aircraft that will overfly KIAH with the corresponding feeder controller and point out the aircraft to all Departure controllers.
+7. When assigning an aircraft an RNP approach with RF legs, ensure the aircraft is handed off and communications transferred prior to the Final Controller’s lateral boundary.
+
+??? abstract "West Arrival (N) Airspace Maps"
+    ??? info "KIAH 15"
+        ![KIAH 15](../assets/i90-sop27.png)
+    ??? info "KIAH 33"
+        ![KIAH 33](../assets/i90-sop28.png)
+    ??? info "KIAH East KHOU All"
+        ![KIAH East KHOU All](../assets/i90-sop29.png)
+    ??? info "KIAH East & West"
+        ![KIAH East & West](../assets/i90-sop30.png)
+    ??? info "KIAH West/15 KHOU All"
+        ![KIAH West/15 KHOU All](../assets/i90-sop31.png)
+
+### 3-6. Eagle Lake Arrival (X)
+#### 3-6-1. Duties
+Eagle Lake Arrival must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+2. Ensure arrivals are assigned appropriate runway transition if applicable and airspeed in accordance with paragraph 2-1-14.
+3. When it becomes necessary to vector KIDDZ# or BELLR# aircraft onto a KHOU RWY 13R downwind, assign the aircraft 7,000 feet MSL.
+4. Provide Class B service between 5,500 feet MSL and 10,000 feet MSL, within the lateral boundaries of Class B airspace, within Eagle Lake Arrival airspace.
+5. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with vZHU General Control SOP 2-2-1.
+6. Coordinate “Wrong Side” downwind aircraft that will overfly KIAH with the corresponding feeder controller and point out the aircraft to all Departure controllers.
+7. When assigning an aircraft an RNP approach with RF legs, ensure the aircraft is handed off and communications transferred prior to the Final Controller’s lateral boundary.
+
+??? abstract "Eagle Lake Arrival (X) Airspace Maps"
+    ??? info "KIAH West/West 15 KHOU 13"
+        ![KIAH West/West 15 KHOU 13](../assets/i90-sop32.png)
+    ??? info "KIAH West/15 KHOU 4"
+        ![KIAH West/15 KHOU 4](../assets/i90-sop33.png)
+    ??? info "KIAH West/15 KHOU 31"
+        ![KIAH West/15 KHOU 31](../assets/i90-sop34.png)
+    ??? info "KIAH West/15 KHOU 22"
+        ![KIAH West/15 KHOU 22](../assets/i90-sop35.png)
+    ??? info "KIAH 15"
+        ![KIAH 15](../assets/i90-sop36.png)
+    ??? info "KIAH 33"
+        ![KIAH 33](../assets/i90-sop37.png)
+    ??? info "KIAH East KHOU 13"
+        ![KIAH East KHOU 13](../assets/i90-sop38.png)
+    ??? info "KIAH East & West KHOU 4"
+        ![KIAH East & West KHOU 4](../assets/i90-sop39.png)
+    ??? info "KIAH East KHOU 31"
+        ![KIAH East KHOU 31](../assets/i90-sop40.png)
+    ??? info "KIAH East KHOU 22"
+        ![KIAH East KHOU 22](../assets/i90-sop41.png)
+
+### 3-7. College Satellite (U)
+#### 3-7-1. Duties
+College Satellite must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+2. Upon completion of communications transfer from KCLL Tower, advise departure aircraft of radar identification and validate Mode C altitude information of aircraft.
+3. Handoff aircraft that are above 5,000 feet MSL to College Final prior to ten (10) NM from KCLL, descending to or level at 5,000 feet MSL.
+
+??? abstract "College Satellite (U) Airspace Maps"
+    ??? info "KIAH West/15/33 KHOU All"
+        ![KIAH West/15/33 KHOU All](../assets/i90-sop42.png)
+    ??? info "KIAH East KHOU All"
+        ![KIAH East KHOU All](../assets/i90-sop43.png)
+
+### 3-8. College Final (T)
+#### 3-8-1. Duties
+College Final must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+
+??? abstract "College Final (T) Airspace Maps"
+    ??? info "CLL North"
+        ![KIAH West/15/33 KHOU All](../assets/i90-sop44.png)
+    ??? info "CLL South"
+        ![CLL South](../assets/i90-sop45.png)
+
+### 3-9. Industry Satellite (Z)
+#### 3-9-1. Duties
+Industry Satellite must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+2. Ensure PIEGY STAR arrivals cross WHAEL INT at or below 8,000 feet MSL, or the aircraft must be pointed out to the ZHU Industry Low Sector.
+
+??? abstract "Industry Satellite (Z) Airspace Maps"
+    ??? info "KIAH West/15/33"
+        ![KIAH West/15/33](../assets/i90-sop46.png)
+    ??? info "KIAH East KHOU All"
+        ![KIAH East KHOU All](../assets/i90-sop47.png)
+
+### 3-10. Departure East (E)
+#### 3-10-1. Duties
+Departure East must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+2. Upon completion of communications transfer from Local Control, advise departure aircraft of radar identification and validate Mode C altitude information of aircraft. Prior to turning departure aircraft, ensure separation exists between his/her aircraft and aircraft under control of the underlying satellite position.
+3. Provide Class B services within the lateral boundaries of Departure East airspace from 500 feet below delegated IFR altitudes to the vertical limits of Class B airspace.
+4. Departure East and Departure South split:
+    1. Due to complex pre-arranged coordination procedures and airspace design, departure east and departure south should only be split as a last resort. If the departure position needs to be split, a NW/SE split is highly recommended.
+    2. If Departure East and South need to be split, Departure East shall initially work all TRIOS departures off KIAH, even if Departure South initially owns the airspace. Departure East shall have control to climb eastbound departure aircraft inside of Departure South airspace, reference mutual traffic.
+
+??? abstract "Departure East (E) Airspace Maps"
+    ??? info "KIAH West/15 KHOU All but 22"
+        ![KIAH West/15 KHOU All but 22](../assets/i90-sop48.png)
+    ??? info "KIAH West/15 KHOU 22"
+        ![KIAH West/15 KHOU 22](../assets/i90-sop49.png)
+    ??? info "KIAH East KHOU 4/13"
+        ![KIAH East KHOU 4/13](../assets/i90-sop50.png)
+    ??? info "KIAH 15"
+        ![KIAH 15](../assets/i90-sop51.png)
+    ??? info "KIAH 33"
+        ![KIAH 33](../assets/i90-sop52.png)
+    ??? info "KIAH East KHOU 31"
+        ![KIAH East KHOU 31](../assets/i90-sop53.png)
+    ??? info "KIAH East KHOU 22"
+        ![KIAH East KHOU 22](../assets/i90-sop54.png)
+
+### 3-11. Departure South (L)
+#### 3-11-1. Duties
+Departure South must:
+
+1. Provide radar services to aircraft in airspace depicted in this section.
+2. Upon completion of communications transfer from Local Control, advise departure aircraft of radar identification and validate Mode C altitude information of aircraft. Prior to turning departure aircraft, ensure separation exists between his/her aircraft and aircraft under control of the underlying satellite position.
+3. Initially work KHOU departures assigned the ELOCO Standard Instrument Departure (SID) and SBI270016 ADR.
+4. Work BAYYY/TKNIQ STAR arrivals landing south satellite airports and handoff to SanJac Satellite on a heading clear of the final box at KHOU.
+5. Provide Class B services within the lateral boundaries of Departure South airspace from 500 feet below delegated IFR altitudes to the vertical limits of Class B airspace.
+6. Departure East and Departure South split:
+    1. Due to complex pre-arranged coordination procedures and airspace design, Departure East and Departure South should only be split as a last resort. If the departure position needs to be split, a NW/SE split is highly recommended.
+    2. If Departure East and South need to be split, Departure South shall initially work all FREEP / AGGIT / BOLOS departures off KIAH, even if Departure East initially owns the airspace. Departure South shall have control to climb southbound departure aircraft inside of Departure East airspace, reference mutual traffic.
+    3. Advise Departure East of any aircraft other than KIAH departures that are within Departure South airspace within twenty (20) NM of KIAH.
+    4. Climb KHOU departures via the TRIOS Gate to 10,000 feet MSL, direct CHPEE Waypoint (WP) and handoff to Departure East when KIAH is on an East Flow and Departure East is open.
+    5. Climb KHOU departures via the TRIOS Gate to 11,000 feet MSL, direct CHPEE WP and handoff to Departure East, when KIAH is on a West Flow and Departure East is open.
+
+??? abstract "Departure South (L) Airspace Maps"
+    ??? info "KIAH West/15 KHOU 13"
+        ![KIAH West/15 KHOU 13](../assets/i90-sop55.png)
+    ??? info "KIAH West/15 KHOU 4"
+        ![KIAH West/15 KHOU 4](../assets/i90-sop56.png)
+    ??? info "KIAH West/15 KHOU 31"
+        ![KIAH West/15 KHOU 31](../assets/i90-sop57.png)
+    ??? info "KIAH West/15 KHOU 22"
+        ![KIAH West/15 KHOU 22](../assets/i90-sop58.png)
+    ??? info "KIAH East/15/33 KHOU 13"
+        ![KIAH East/15/33 KHOU 13](../assets/i90-sop59.png)
+    ??? info "KIAH East KHOU 4"
+        ![KIAH East KHOU 4](../assets/i90-sop60.png)
+    ??? info "KIAH East KHOU 31"
+        ![KIAH East KHOU 31](../assets/i90-sop61.png)
+    ??? info "KIAH East KHOU 22"
+        ![KIAH East KHOU 22](../assets/i90-sop62.png)
+
+### 3-12. San Jac Satellite (B)
+#### 3-12-1. Duties
+SanJac Satellite must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+2. Upon completion of communications transfer from Local Control, advise departure aircraft of radar identification and validate Mode C altitude information of aircraft. SanJac Satellite must not climb or adjust the speed of departure aircraft until clear of the KIAH Surface Area airspace (this includes KIAH airspace that is surface to 1,200 feet) and the KHOU airspace.
+3. Advise KHOU Tower prior to releasing KLVJ departures.
+4. Point-out to KHOU Tower (4O) aircraft that will execute an IAP to KEFD RWY 04 and KEFD TACAN RWY 17R.
+5. Provide Class B service within the lateral boundaries of Class B airspace within SanJac Satellite airspace.
+6. Ensure turbojet/turboprop aircraft landing KHOU, originating inside the Houston Core airspace, are coordinated with, or handed off to, Gulf Arrival.
+7. Force the display of FDBs (i.e., *), on all piston aircraft landing KHOU, to Gulf Arrival and Eagle Lake Arrival.
+
+??? abstract "San Jac Satillite (B) Airspace Maps"
+    ??? info "KIAH West/15 KHOU All"
+        ![KIAH West/15 KHOU All](../assets/i90-sop63.png)
+    ??? info "KIAH East KHOU 22/31"
+        ![KIAH East KHOU 22/31](../assets/i90-sop64.png)
+    ??? info "KIAH East/15/33 KHOU 4/13"
+        ![KIAH East/15/33 KHOU 4/13](../assets/i90-sop65.png)
+
+### 3-13. Beaumont Satellite (J)
+#### 3-13-1. Duties
+Beaumont Satellite must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+2. Upon completion of communications transfer from KBPT Tower, advise departure aircraft of radar identification and validate Mode C altitude information of aircraft.
+3. Provide TRSA service within the lateral boundaries of TRSA airspace.
+4. Restrict all departures via the PRARI/FREEP Gate requesting at or below 16,000 feet to 6,000 feet or below.
+5. Ensure aircraft on the CESAN STAR landing KHOU are assigned the appropriate runway transition.
+6. Handoff aircraft on the CESAN STAR to the appropriate sector, dependent upon flow, level at, or descending to an altitude at or above 6,000 feet.
+7. Ensure turbojet/turboprop aircraft landing KHOU, originating outside of the Houston Core airspace, are handed off to Gulf Arrival, at or above 6,000 feet MSL.
+
+??? abstract "Beaumont Satillite (J) Airspace Maps"
+    ??? info "KIAH West/15 KHOU All"
+        ![KIAH West/15 KHOU All](../assets/i90-sop66.png)
+    ??? info "KIAH East/15 KHOU All"
+        ![KIAH East/15 KHOU All](../assets/i90-sop67.png)
+
+### 3-14. East Arrival (D)
+#### 3-14-1. Duties
+East Arrival must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+2. Ensure arrivals are assigned appropriate runway transition, if applicable, and airspeed in accordance with paragraph 2-1-14.
+3. Handoff KHOU arrivals not on the WAPPL# to Gulf Arrival at 10,000 feet MSL. Gulf Arrival has control for descent to 8,000 feet MSL.
+4. Handoff HUDZY# arrivals destined KGLS, KLBX, KEFD, KBYY, KARM and KSGR to Gulf Arrival at 10,000 feet MSL. Gulf Arrival has control for descent to 8,000 feet MSL.
+5. Descend and vector all other satellite arrivals to remain clear of the final boxes, and handoff to the appropriate controller.
+6. Provide Class B service between 5,500 feet and 10,000 feet MSL within the lateral boundaries of Class B airspace within East Arrival airspace.
+7. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with vZHU General Control SOP 2-2-1.
+8. Coordinate with Gulf Arrival prior to assigning KIAH RWY 27.
+9. Coordinate “Wrong Side” downwind aircraft that will overfly KIAH with the corresponding feeder controller and point out the aircraft to all Departure controllers.
+10. When assigning an aircraft, a RNP approach with RF legs, ensure the aircraft is handed off and communications transferred prior to the Final Controller’s lateral boundary.
+
+??? abstract "East Arrival (D) Airspace Maps"
+    ??? info "KIAH West KHOU All"
+        ![KIAH West KHOU All](../assets/i90-sop68.png)
+    ??? info "KIAH East & West"
+        ![KIAH East & West](../assets/i90-sop69.png)
+    ??? info "KIAH East/15/33 KHOU All"
+        ![KIAH East/15/33 KHOU All](../assets/i90-sop70.png)
+
+### 3-15. Gulf Arrival (G)
+#### 3-15-1. Duties
+Gulf Arrival must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+2. Ensure arrivals are assigned appropriate runway transition, if applicable, and airspeed in accordance with paragraph 2-1-14.
+3. Point-out Jets/Turboprops landing KEFD RWY 17/22, T41, KRWJ, T00, and KHPY to Departure South at or prior to FRDDY WP, descending to 6,000 feet MSL on a north heading outside of the KHOU final box. Handoff to SanJac Satellite.
+4. Point-out Jets/Turboprops landing KEFD RWY 35/04, KAXH, KGLS, KIWS, KLBX, KLVJ, KSGR, TKME, and 54T to Departure South at or prior to DOCCC WP, descending to 1,000ft above SanJac airspace on a southwest heading outside of the KHOU final box. Handoff to SanJac Satellite.
+5. Handoff KGLS, KLBX, KEFD, KBYY, KARM and KSGR arrivals on the WAPPL/HUDZY STAR to Departure South at or above 8,000 feet MSL. Assign HUDZY STAR arrivals a heading that ensures the arrival remains east of KHOU but no further east than KEFD.
+6. Work KHOU arrivals on the CESAN STAR on the appropriate runway transition.
+    1. Piston aircraft not capable of at least 180 knots that may impede upon other high-performance aircraft may be handed off to the SanJac Satellite.
+7. Work KHOU arrivals assigned the non-RNAV IAH125065 or HUDZY STAR routing and assign a heading to enter the appropriate descent area in use.
+8. Provide Class B service between 5,500 feet MSL and 10,000 feet MSL, as applicable, within the lateral boundaries of Class B airspace and within Gulf Arrival airspace.
+9. Coordinate with East Arrival prior to assigning KIAH RWY 26L/R.
+10. Coordinate “Wrong Side” downwind aircraft that will overfly KIAH with the corresponding feeder controller and point out the aircraft to all Departure controllers.
+11. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with vZHU General Control SOP 2-2-1.
+12. When assigning an aircraft a RNP approach with RF legs, ensure the aircraft is handed off and communications transferred prior to the Final Controller’s lateral boundary.
+
+??? abstract "Gulf Arrival (G) Airspace Maps"
+    ??? info "KIAH West/15 KHOU 13"
+        ![KIAH West/15 KHOU 13](../assets/i90-sop71.png)
+    ??? info "KIAH West/15/East & West KHOU 4"
+        ![KIAH West/15/East & West KHOU 4](../assets/i90-sop72.png)
+    ??? info "KIAH West/15 KHOU 31"
+        ![KIAH West/15 KHOU 31](../assets/i90-sop73.png)
+    ??? info "KIAH West/15 KHOU 22"
+        ![KIAH West/15 KHOU 22](../assets/i90-sop74.png)
+    ??? info "KIAH East/15/33 KHOU 4/13"
+        ![KIAH East/15/33 KHOU 4/13](../assets/i90-sop75.png)
+    ??? info "KIAH East KHOU 31"
+        ![KIAH East KHOU 31](../assets/i90-sop76.png)
+    ??? info "KIAH East KHOU 22"
+        ![KIAH East KHOU 22](../assets/i90-sop77.png)
+
+### 3-16. Hobby Final (H)
+#### 3-16-1. Duties
+Hobby Final must:
+
+1. Provide radar service to aircraft in airspace depicted in this section.
+2. Provide Class B service within the lateral boundaries of Class B airspace within Hobby Final airspace.
+
+??? abstract "Hobby Final (H) Airspace Maps"
+    ??? info "KIAH West/15/33 KHOU 13"
+        ![KIAH West/15/33 KHOU 13](../assets/i90-sop78.png)
+    ??? info "KIAH East KHOU 13"
+        ![KIAH East KHOU 13](../assets/i90-sop79.png)
+    ??? info "KHOU 4"
+        ![KHOU 4](../assets/i90-sop80.png)
+    ??? info "KHOU 31"
+        ![KHOU 31](../assets/i90-sop81.png)
+    ??? info "KHOU 22"
+        ![KHOU 22](../assets/i90-sop82.png)
+
+### 3-17. Final Positions (A, I, O)
+#### 3-17-1. Final Positions
+1. Final North (FN), position symbol [`A`] frequency is 119.10
+2. Final Center (FC), position symbol [`I`] frequency is 120.65
+3. Final South (FS), position symbol [`O`] frequency is 134.00
+
+#### 3-17-2. Duties
+Final North, Final Center, and Final South must:
+
+1. Provide radar service to aircraft in delegated airspace, as depicted in this section.
+2. Transfer communications to the appropriate KIAH Local Control frequency once the aircraft has been cleared for an approach, and at or prior to the Final Approach Fix.
+    1. When simultaneous independent approaches are being conducted, have the aircraft contact tower at the Final Approach Fix (FAF). Final controllers are responsible for monitoring the NTZ until the FAF.
+3. Turn base leg at or less than 210 knots
+4. Ensure that the required runway Scratchpad entries are made. This includes updating the scratchpad when an aircraft has been cleared for a visual approach.
+5. When conducting Visual Approaches during East Flow, instruct aircraft assigned KIAH RWY 8L/8R/9 to cross FLIBZ/EELPO/SAYNO WP at or above 3,000 feet MSL. Final(s) must utilize P-ACP with Lakeside Satellite and Tomball Satellite airspace east of KDWH RWY 17R/35L extended centerline.
+6. When conducting simultaneous independent approaches, each final controller shall be responsible for performing final monitor duties for the runway(s) controlled.
+    1. Instruct the aircraft to return to the correct final approach course when aircraft are observed to overshoot the turn-on or to continue on a track which will penetrate the NTZ.
+    ??? example "Phraseology"
+        YOU HAVE CROSSED THE FINAL APPROACH COURSE. TURN (left/right) IMMEDIATELY AND RETURN TO THE FINAL APPROACH COURSE.<br><br>TURN (left/right) AND RETURN TO THE FINAL APPROACH COURSE.
+    
+    2. Instruct aircraft on the adjacent final approach course to alter course to avoid the deviating aircraft when an aircraft is observed penetrating or in your judgment will penetrate the NTZ
+    ??? example "Phraseology"
+        TRAFFIC ALERT, (call sign), TURN (right/left) IMMEDIATELY HEADING (degrees), CLIMB AND MAINTAIN (altitude).
+
+7. When more than one final is open, use the following altitudes:
+    1. West Flow:
+        1. RWY 26L/27:
+            1. Straight-in traffic to RWY 26L must enter Zone A at or above 7,000 feet MSL or Zone B at or above 5,000 feet MSL. Downwind traffic must enter Zones A or B at or above 5,000 feet MSL.
+            2. All traffic to RWY 27 must enter Zone A or B at or below 4,000 feet MSL, or enter Zone C at 2,000 feet MSL.
+        2. RWY 26R/26L:
+            1. All traffic to RWY 26R must enter Zones A or B at or below 4,000 feet MSL, or enter Zone C at 2,000 feet MSL.
+            2. Straight-in traffic to RWY 26L must enter Zone A at or above 6,000 feet MSL, or Zone B at or above 5,000 feet MSL. Downwind traffic must enter Zones A or B at or above 5,000 feet MSL.
+        3. RWY 26R/27:
+            1. All traffic to RWY 26R must enter Zone A at or above 5,000 feet MSL.
+            2. All traffic to RWY 27 must enter Zone A at or below 4,000 feet MSL, or enter Zone B at or below 3,000 feet MSL, or enter Zone C at or below 2,000 feet MSL.
+        4. RWY 26R/26L/27:
+            1. All traffic to RWY 26R must enter Zone A at 5,000 to 6,000 feet MSL.
+            2. All traffic to RWY 26L must enter Zone A at or above 7,000 feet MSL.
+            3. All traffic to RWY 27 must enter Zone A at or below 4,000 feet MSL, or enter Zone B at or below 3,000 feet MSL, or enter Zone C at or below 2,000 feet MSL.
+    2. East Flow:
+        1. RWY 8L/8R:
+            1. All traffic to RWY 8L must be enter Zones A or B at or below 4,000 feet MSL, or enter Zone C at 3,000 feet MSL.
+            2. Straight-in traffic to RWY 8R must enter Zone A at or above 6,000 feet MSL, or Zone B at or above 5,000 feet MSL. Downwind traffic must enter Zones A or B at or above 5,000 feet MSL.
+        2. RWY 8R/9:
+            1. Straight-in traffic to RWY 8R must enter Zone A at or above 6,000 feet MSL, or Zone B at or above 5,000 feet MSL. Downwind traffic must enter Zones A or B at or above 5,000 feet MSL.
+            2. All traffic to RWY 9 must enter Zones A or B at or below 4,000 feet MSL, or enter Zone C at 3,000 feet MSL.
+        3. RWY 8L/9:
+            1. All traffic to RWY 8L must enter Zone A at or below 4,000 feet MSL, or enter Zones B or C at 3,000 feet MSL. All traffic to RWY 9 must enter Zone A at or above 5,000 feet MSL.
+        4. RWY 8L/8R/9:
+            1. All traffic to RWY 8L must enter Zone A at or below 4,000 feet MSL, or enter Zones B or C at 3,000 feet MSL.
+            2. All traffic to RWY 8R must enter Zone A at or above 7,000 feet MSL.
+            3. All traffic to RWY 9 must be enter Zone A at 5,000 to 6,000 feet MSL.
+
+??? abstract "Final Positions (A, I, O) Airspace Maps"
+    ??? info "KIAH West"
+        ![KIAH West](../assets/i90-sop83.png)
+    ??? info "KIAH East"
+        ![KIAH East](../assets/i90-sop84.png)
+    ??? info "KIAH East & West"
+        ![KIAH East & West](../assets/i90-sop85.png)
+    ??? info "KIAH 15 (FN)"
+        ![KIAH 15 (FN)](../assets/i90-sop86.png)
+    ??? info "KIAH 33 (FS)"
+        ![KIAH 33 (FS)](../assets/i90-sop87.png)
+    ??? info "KIAH West Final Zones"
+        ![KIAH West Final Zones](../assets/i90-sop88.png)
+    ??? info "KIAH East Final Zones"
+        ![KIAH East Final Zones](../assets/i90-sop89.png)
