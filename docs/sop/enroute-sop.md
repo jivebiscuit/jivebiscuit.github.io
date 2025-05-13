@@ -190,7 +190,7 @@ The use of the interim altitude on aircraft climbing from the low altitude strat
 #### 2-2-5. Advance Approach Information Responsibility
 Per FAA JO 7110.65, paragraphs 4-7-10 and 4-7-12, the sector controller who issues approach clearance to an aircraft must be responsible for issuance of approach information (approach to expect, NOTAMs, weather information) to that aircraft.
 
-#### 2-2-6. SHORTCUTS
+#### 2-2-6. Shortcuts
 Unless appropriate coordination has been accomplished with the affected sector(s), controllers shall not shortcut aircraft past the transition fix of a STAR or shortcut aircraft off of a SID.
 
 #### 2-2-7. General TRACON LOA
@@ -315,14 +315,14 @@ When no LOA is published for the underlying TRACON, route the aircraft directly 
 
 ### 3-2. Offshore Sectors (28, 53, 30)
 #### 3-2-1. Separation
-1. ADS-B radar coverage reliably exists at or above 3,000ft north of the “M” GPS waypoint latitudes. As such, domestic radar separation standards/procedures willapply in Offshore airspace for aircraft operations. For negative ADS-B equippedaircraft, or any aircraft below radar coverage, non-radar separation must be applied.
+1. ADS-B radar coverage reliably exists at or above 3,000ft north of the “M” GPS waypoint latitudes. As such, domestic radar separation standards/procedures will apply in Offshore airspace for aircraft operations. For negative ADS-B equipped aircraft, or any aircraft below radar coverage, non-radar separation must be applied.
 2. In accordance with 7110.65 paragraph 8-8-3, 8-4-1, and 8-8-3, appropriate non-radar separation in offshore airspace requires:
     1. 1,000ft vertical separation, or
     2. 12NM lateral separation between aircraft whose flight paths are defined by published Grid System waypoints, or
     3. 20 minutes longitudinal separation
 
 #### 3-2-2. Waypoint System
-This system utilizes GPS and all distances are displayed to the next WP. Once an aircraft has overflown a WP, the WP information is deleted and the next WP informationis displayed. The WPs are latitudinally and longitudinally established at twenty (20) minute intervals except for the LCHLB, LCHCB, LCHRB, LLALB, LLACB, and LLARB waypoints. (See Figures 1 and 2.) These WPs vary between ten (10) to twelve (12) minutes of latitude from their respective row of “Charlie” waypoints. Holding pattern airspace at the aforementioned waypoints is separated from holding pattern airspace atthe “Charlie” waypoints. However, forty five (45) degree route-protected airspace from these WPs is not separated from the holding pattern airspace at the LCHCB and LLACB WPs. Aircraft departing the Lake Charles and Lafayette Terminal Area must fileto the “Charlie” row prior to utilizing the forty-five (45) degree route option.
+This system utilizes GPS and all distances are displayed to the next WP. Once an aircraft has overflown a WP, the WP information is deleted and the next WP informationis displayed. The WPs are latitudinally and longitudinally established at twenty (20) minute intervals except for the LCHLB, LCHCB, LCHRB, LLALB, LLACB, and LLARB waypoints. (See Figures 1 and 2.) These WPs vary between ten (10) to twelve (12) minutes of latitude from their respective row of “Charlie” waypoints. Holding pattern airspace at the aforementioned waypoints is separated from holding pattern airspace atthe “Charlie” waypoints. However, forty five (45) degree route-protected airspace from these WPs is not separated from the holding pattern airspace at the LCHCB and LLACB WPs. Aircraft departing the Lake Charles and Lafayette Terminal Area must file to the “Charlie” row prior to utilizing the forty-five (45) degree route option.
 
 ??? info "Figure 1: Lake Charles Bravo Waypoints"
     ![Figure 1: Lake Charles Bravo Waypoints](../assets/enroute-sop2.png)
@@ -335,3 +335,114 @@ This system utilizes GPS and all distances are displayed to the next WP. Once an
 1. Aircraft must be cleared via the GPS waypoint system or their corresponding coordinates when radar contact is lost or expected to be lost.
 2. When an aircraft is not in radar coverage, the pilot’s next GPS fix estimate shall be entered into the fourth line of the data block.
 3. Per ICAO DOC 4444, aircraft on direct routes of flight without compulsory reporting points must report their position at least every 60 minutes.
+
+## 4. Splits/Consolidations
+### 4-1. Standard Center Splits
+??? abstract "4-1-1. Houston ARTCC Wide"
+    | Split         | Sector Name                   | Sector ID | Frequency |
+    |---------------|-------------------------------|-----------|-----------|
+    | High          | Houston                       | 46        | 132.775   |
+    | Low           | Daisetta                      | 38        | 126.950   |
+    | Combined      | Houston                       | 46        | 132.775   |
+    | North         | LFK Specialty (Daisetta)      | 38        | 126.950   |
+    | East          | NEW+OCN Specialty (Leeville)  | 24        | 132.175   |
+    | South         | CRP+LCH Specialty (Eagle Lake)| 87        | 128.600   |
+    | West          | AUS+RSG Specialty (Stonewall) | 50        | 134.200   |
+
+??? abstract "4-1-2. Austin Specialty"
+    | Split    | Sector Name | Sector ID | Frequency |
+    |----------|-------------|-----------|-----------|
+    | High     | Austin      | 78        | 126.425   |
+    | Low      | Cugar       | 83        | 128.075   |
+    | Combined | Cugar       | 83        | 128.075   |
+
+??? abstract "4-1-3. Corpus Christi Specialty"
+    | Split    | Sector Name  | Sector ID | Frequency |
+    |----------|--------------|-----------|-----------|
+    | High     | Sotex        | 84        | 135.425   |
+    | Low      | Eagle Lake   | 87        | 128.600   |
+    | Combined | Eagle Lake   | 87        | 128.600   |
+
+??? abstract "4-1-4. Lake Charles Specialty"
+    | Split    | Sector Name | Sector ID | Frequency |
+    |----------|-------------|-----------|-----------|
+    | High     | White Lake  | 23        | 124.725   |
+    | Low      | Trinity     | 43        | 133.800   |
+    | Combined | Trinity     | 43        | 133.800   |
+
+??? abstract "4-1-5. Lufkin Specialty"
+    | Split    | Sector Name | Sector ID | Frequency |
+    |----------|-------------|-----------|-----------|
+    | High     | Houston     | 46        | 132.775   |
+    | Low      | Daisetta    | 38        | 126.950   |
+    | Combined | Daisetta    | 38        | 126.950   |
+
+??? abstract "4-1-6. New Orleans Specialty"
+    | Split    | Sector Name   | Sector ID | Frequency |
+    |----------|----------------|-----------|-----------|
+    | High     | Hattiesburg    | 37        | 126.875   |
+    | Low      | Leeville       | 24        | 132.175   |
+    | Combined | Leeville       | 24        | 132.175   |
+
+??? abstract "4-1-7. Ocean Specialty"
+    | Split    | Sector Name       | Sector ID | Frequency |
+    |----------|-------------------|-----------|-----------|
+    | High     | Ocean West        | 79        | 132.650   |
+    | Low      | Offshore Central  | 53        | 120.350   |
+    | Combined | Offshore Central  | 53        | 120.350   |
+
+??? abstract "4-1-8. Rock Springs Specialty"
+    | Split    | Sector Name | Sector ID | Frequency |
+    |----------|-------------|-----------|-----------|
+    | High     | Frio        | 88        | 127.025   |
+    | Low      | Stonewall   | 50        | 134.200   |
+    | Combined | Stonewall   | 50        | 134.200   |
+
+### 4-2. Standard TRACON Consolidation
+#### 4-2-1. Austin Specialty
+The Austin specialty shall own the AUS and I90 TRACONs.
+#### 4-2-2. Corpus Christi Specialty
+The Corpus Christi specialty shall own the CRP, VLY, and NQI TRACONs.
+#### 4-2-3. Lake Charles Specialty
+The Lake Charles specialty shall own the LCH TRACON.
+#### 4-2-4. Lufkin Specialty
+The Lufkin specialty shall own the POE ARAC.
+#### 4-2-5. New Orleans Specialty
+The New Orleans specialty shall own the LFT, BTR, MSY, GPT, and MOB TRACONs.
+#### 4-2-6. Rock Springs Specialty
+The Rock Springs specialty shall own the DLF and SAT TRACONs.
+
+## 5. Airspace Maps
+### 5-1. Ultra High & High
+??? info "Ultra High & High"
+    ![Ultra High & High](../assets/enroute-sop5.png)
+### 5-2. Low (West)
+??? info "Low (West)"
+    ![Low (West)](../assets/enroute-sop6.png)
+### 5-3. Low (East)
+??? info "Low (East)"
+    ![Low (East)](../assets/enroute-sop7.png)
+### 5-4. Austin Specialty
+??? info "Austin Specialty"
+    ![Austin Specialty](../assets/enroute-sop8.png)
+### 5-5. Corpus Christi Specialty
+??? info "Corpus Christi Specialty"
+    ![Corpus Christi Specialty](../assets/enroute-sop9.png)
+### 5-6. Lake Charles Specialty
+??? info "Lake Charles Specialty"
+    ![Lake Charles Specialty](../assets/enroute-sop10.png)
+### 5-7. Lufkin Specialty
+??? info "Lufkin Specialty"
+    ![Lufkin Specialty](../assets/enroute-sop11.png)
+### 5-8. New Orleans Specialty
+??? info "New Orleans Specialty"
+    ![New Orleans Specialty](../assets/enroute-sop12.png)
+### 5-9. Rocksprings Specialty
+??? info "Rocksprings Specialty"
+    ![Rocksprings Specialty](../assets/enroute-sop13.png)
+### 5-10. Ocean Specialty
+??? info "Ocean Specialty"
+    ![Ocean Specialty](../assets/enroute-sop14.png)
+### 5-11. TRACONs
+??? info "TRACONs"
+    ![TRACONs](../assets/enroute-sop15.png)
