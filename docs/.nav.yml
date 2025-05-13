@@ -1,9 +1,9 @@
 nav:
-    - ZHU Home: https://houston.center
-    - Index: index.md
+    - Docs Home: index.md
     - Policy: policy
     - SOPs: sop
     - LOA: loa
     - QRC: qrc
+    - Reference: reference
     - NOTAC: notac
 
