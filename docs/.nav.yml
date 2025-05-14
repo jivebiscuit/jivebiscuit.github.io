@@ -1,10 +1,18 @@
 nav:
     - Docs Home: index.md
-    - Policy: policy
+    - Policy:
+      - policy/general.md
+      - policy/events.md
+      - policy/training.md
+      - policy/training-syllabus.md
     - SOPs: sop
     - LOA: loa
     - QRC: qrc
-    - NOTAC: notac
-    - Guides: guides
+    - NOTAC:
+      - notac/vatis4-1.md
+    - Guides:
+      - guides/teamspeak.md
+      - guides/crc-getting-started.md
+      - guides/crc-voice.md
 
 
