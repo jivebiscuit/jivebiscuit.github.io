@@ -56,7 +56,7 @@ Local positions with a radar feed from their overlying TRACON must open a STARS 
 2. Choose the desired display type and press `Add Display`.
 
 ### Voice Switch (Radios)
-Read the [CRC Voice Switch reference](../reference/crc-voice.md) guide regarding the integrated Voice Switch in CRC
+Read the [CRC Voice Switch reference](../guides/crc-voice.md) guide regarding the integrated Voice Switch in CRC
 
 ## Flight Plan Management
 Flight plan management (creating and editing) is slightly different in CRC. Here is a typical workflow in the new system:
