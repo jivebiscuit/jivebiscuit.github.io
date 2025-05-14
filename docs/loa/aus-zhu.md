@@ -7,7 +7,7 @@ title: AUS<>ZHU
     31 Jan 2024
 
 ## 1. Purpose
-This agreement between Houston Air Route Traffic Control (ARTCC) and Austin Airport Traffic Control Tower/Terminal Radar Approach Control (ATCT/TRACON) defines responsibilities and procedures for the airspace delegated to Austin ATCT/ TRACON and is supplementary to the procedures contained in FAA JO 7110.65 and other FAA directives.
+This agreement between Houston Air Route Traffic Control (ARTCC) and Austin Airport Traffic Control Tower/Terminal Radar Approach Control (ATCT/TRACON) defines responsibilities and procedures for the airspace delegated to Austin ATCT/ TRACON and is supplementary to the procedures contained in [FAA JO 7110.65](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/) and other FAA directives.
 ## 2. Cancellation
 This is the initial letter of agreement between Houston ARTCC and Austin ATCT/TRACON.
 ## 3. Scope
