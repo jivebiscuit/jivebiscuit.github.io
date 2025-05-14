@@ -1,11 +1,20 @@
 nav:
     - Docs Home: index.md
-    - Policy:
+    - Policies:
       - policy/general.md
       - policy/events.md
       - policy/training.md
-      - policy/training-syllabus.md
-    - SOPs: sop
+      - Training:
+        - policy/training-syllabus.md
+    - SOPs:
+      - sop/general-control-sop.mp
+      - Enroute:
+        - ZHU: sop/enroute-sop.md
+      - TRACON:
+        - I90: sop/i90-sop.md
+      - Airports:
+        - AUS: sop/aus-sop.md
+        - CRP: sop/crp-sop.md
     - LOA: loa
     - QRC: qrc
     - NOTAC:
