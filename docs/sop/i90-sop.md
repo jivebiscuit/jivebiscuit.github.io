@@ -96,7 +96,7 @@ Aircraft being handed off in level flight with altitude information displayed (M
 Satellite or Departure airspace, at or below 3,000 feet MSL, within the lateral confines of Final airspace is for KIAH departures, go-arounds, and/or breakouts only. Final controllers, Final Monitor controllers, and KIAH Local Control positions have control to vector breakouts within this airspace for resequencing.
 
 #### 2-1-9. Practice Approaches
-A Letter to Airmen (LTA) has been published for the IFR separation for VFR aircraft practicing instrument approaches. See Appendix A.
+A Letter to Airmen (LTA) has been published for the IFR separation for VFR aircraft practicing instrument approaches. See [Appendix A](#appendix-a-lta-i90-11).
 
 #### 2-1-10. Optimized Profile Descent (OPD) Operations
 Aircraft that are capable of utilizing OPD (Descend Via) procedures but have been altitude restricted must be coordinated with the receiving controller if the altitude is different from the bottom altitude on the procedure. Controllers may utilize the temporary altitude field in the data block as an automated method of coordination.
@@ -671,7 +671,8 @@ Final North, Final Center, and Final South must:
         ??? info "KIAH East Final Zones"
             ![KIAH East Final Zones](../assets/i90-sop89.png)
 
-## Appendix A: LTA-I90-11
+## Appendecies
+### Appendix A: LTA-I90-11
 To the maximum extent possible, provide IFR separation for VFR aircraft conducting practice instrument approaches at the locations listed below, subject to traffic and workload conditions.
 
 1. Separation services begin at the point where the approach clearance becomes effective and terminates at the missed approach point, unless prior authorization to conduct the published missed approach procedure has been requested and approval has been recieved from Air Traffic Control (ATC).
@@ -682,5 +683,5 @@ To the maximum extent possible, provide IFR separation for VFR aircraft conducti
 
     ![LTA-I90-11](../assets/i90-sop90.png)
 
-## Appendix B: IAH Departure Gates
+### Appendix B: IAH Departure Gates
 ![IAH Departure Gates](../assets/i90-sop91.png)

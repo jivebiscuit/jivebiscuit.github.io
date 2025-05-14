@@ -1,11 +1,13 @@
 site_name: ZHU Documents
 site_url: https://jivebiscuit.github.io
-repo_url: https://github.com/jivebiscuit/jivebiscuit.github.io
-repo_name: jivebiscuit.github.io
+# repo_url: https://github.com/jivebiscuit/jivebiscuit.github.io
+# repo_name: jivebiscuit.github.io
 edit_uri: edit/main/docs/
 
 theme:
   name: material
+  font:
+    text: Inter
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -51,3 +53,6 @@ markdown_extensions:
   - toc:
       toc_depth: 3
   - attr_list
+
+extra_css:
+  - stylesheets/extra.css
