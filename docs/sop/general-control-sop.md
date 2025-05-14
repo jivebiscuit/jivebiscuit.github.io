@@ -139,7 +139,7 @@ Certified radar towers are considered a radar position, and as such, can issue c
     KARA, KAUS, KBFM, KBIX, KBRO, KBTR, KCLL, KEFD, KGLS, KGPT, KGTU, KHOU, KHRL, KHUM, KHYI, KIAH, KLCH, KLFT, KMFE, KMOB, KMSY, KNBG, KNEW, KNOG, KNQI, KPOE, KRND, KSAT, KSGR, KSKF, KSSF
 
 #### 2-1-2. Uncertified Radar Towers
-Per 7110.65 3-1-9: “Uncertified tower display workstations must be used only as an aid to assist controllers in visually locating aircraft. Radar services and traffic advisories are not to be provided using uncertified tower display workstations.”
+Per [7110.65 3-1-9](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap3_section_1.html): “Uncertified tower display workstations must be used only as an aid to assist controllers in visually locating aircraft. Radar services and traffic advisories are not to be provided using uncertified tower display workstations.”
 ??? abstract "List of Uncertified Radar Towers"
     KLRD
 

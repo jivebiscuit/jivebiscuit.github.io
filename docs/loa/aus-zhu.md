@@ -1,21 +1,23 @@
-title: AUS<>ZHU
-# AUS<>ZHU
+title: AUS-ZHU LOA
+# AUS-ZHU Letter of Agreement
 ??? warning "Disclaimer"
     This document is provided for Houston ARTCC controllers to use when providing virtual ATC services on the VATSIM network. The information herein is **not intended for use in any real-world aviation applications**.
 
-!!! success "Effective Date"
+!!! info "Effective Date"
     31 Jan 2024
 
 ## 1. Purpose
 This agreement between Houston Air Route Traffic Control (ARTCC) and Austin Airport Traffic Control Tower/Terminal Radar Approach Control (ATCT/TRACON) defines responsibilities and procedures for the airspace delegated to Austin ATCT/ TRACON and is supplementary to the procedures contained in [FAA JO 7110.65](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/) and other FAA directives.
+
 ## 2. Cancellation
 This is the initial letter of agreement between Houston ARTCC and Austin ATCT/TRACON.
+
 ## 3. Scope
 The procedures and delegated airspace specified herein apply to Houston ARTCC Center and Austin ATCT/TRACON. Each party to this Letter of Agreement must ensure facility
 personnel are familiar with these procedures.
+
 ## 4. Procedures
 ### 4-a. General
-
 1. Deviations from procedures in this agreement may be affected after coordination has been accomplished.
 1. Approach Control must be responsible, after receipt of a point-out from Center, for subsequent point-outs within their airspace. Center must be responsible, after receipt of a point-out from Approach Control, for subsequent point-outs within their airspace.
 1. VFR Handoffs. If Center or Approach Control has not accepted the handoff of a VFR aircraft by the Approach Control boundary, Center/Approach Control must terminate radar service to the aircraft and transfer communication to the appropriate controller.
@@ -35,16 +37,15 @@ personnel are familiar with these procedures.
     1. May route aircraft destined KEDC or KGTU from the east via direct destination, descending to 10,000 feet.
     1. May route aircraft destined Austin Terminal Area satellite airports from the Northwest and West via direct destination, descending to 7,000 feet.
 
-??? info "**Table 1: RNAV OPD Arrivals**"
-    ![RNAV ODP Arrivals](../assets/aus-zhu-table1.png)
-    *^1^DXEEE STAR arrivals will be handed off to San Antonio TRACON.*
+    ??? info "**Table 1: RNAV OPD Arrivals**"
+        ![RNAV ODP Arrivals](../assets/aus-zhu-table1.png)
+        *^1^DXEEE STAR arrivals will be handed off to San Antonio TRACON*
 
-??? info "**Table 2: Other Arrivals**"
-    ![Other Arrivals](../assets/aus-zhu-table2.png)
-    *^2^KEDC arrivals from the north will be handed off to Robert Gray ARAC.*
+    ??? info "**Table 2: Other Arrivals**"
+        ![Other Arrivals](../assets/aus-zhu-table2.png)
+        *^2^KEDC arrivals from the north will be handed off to Robert Gray ARAC.*
 
 ### 4-c. Radar Departure Control
-
 1. Departure aircraft must be:
     1. Established on a SID.
         1. Aircraft may be shortcut direct ELOEL or ILEXY.
