@@ -5,7 +5,7 @@ title: CRP Tower & TRACON SOP
 
     This order prescribes the standards of general operations at all controlled airports within the ZHU ARTCC that are not subject to their own facility-specific SOPs. Operational guidance on airspace division, transfer of control, internal agreements, flight strip usage, and more
 
-    It is emphasized that the information continued herein is designed specifically for use only within the virtual controlling environment. It does not apply to, nor should it be referenced for, live operations in the United States National Airspace System (NAS). The procedures continued within this document show how the positions are to be operated and, in conjunction with FAA Order 7110.65, will be the basis for performance evaluations, training, and certification.
+    It is emphasized that the information continued herein is designed specifically for use only within the virtual controlling environment. It does not apply to, nor should it be referenced for, live operations in the United States National Airspace System (NAS). The procedures continued within this document show how the positions are to be operated and, in conjunction with [FAA Order 7110.65](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/), will be the basis for performance evaluations, training, and certification.
 
 ??? info "Revision Information"
     - Document Number: CRP O 7200.2A
@@ -21,7 +21,7 @@ title: CRP Tower & TRACON SOP
 ## 1. General
 ### 1-1. Introduction
 #### 1-1-1. Purpose
-This order transmits policy and specifies standard operating procedures for Houston ARTCC (ZHU) control positions. It is supplemental to FAA JO 7110.65, Air Traffic Control; FAA JO 7610.4, and FAA JO 7210.3, Facility Administration and Operation. This document is considered a supplement to any VATSIM, Executive Committee, VATSIM Americas Region (VATNA), and United States of America Division (VATUSA) policies, procedures, and controlled documentation.
+This order transmits policy and specifies standard operating procedures for Houston ARTCC (ZHU) control positions. It is supplemental to [FAA Order 7110.65, Air Traffic Control](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/); FAA JO 7610.4, Sensitive Procedures and Requirements for Special Operations; and [FAA JO 7210.3, Facility Administration and Operation](https://www.faa.gov/air_traffic/publications/atpubs/foa_html/). This document is considered a supplement to any VATSIM, Executive Committee, VATSIM Americas Region (VATNA), and United States of America Division (VATUSA) policies, procedures, and controlled documentation.
 
 #### 1-1-2. Audience
 All ZHU controllers and visitors. All personnel must be familiar with the provisions of this order and exercise their best judgment when encountering situations this order does not cover.
@@ -42,10 +42,10 @@ This is the initial release of CRP 7200.2P. No changes have been made.
 ## 2. ATCT Procedures
 ### 2-1. Duty Preparation
 #### 2-1-1. Duty Familiarization
-Controllers shall follow the procedures outlined in “ZHU General Control SOP 1-2-1. Opening a Position.”
+Controllers shall follow the procedures outlined in [ZHU General Control SOP 1-2-1](../sop/general-control-sop.md#1-2-1-opening-a-position).
 
 #### 2-1-2. Position Relief
-Controllers shall follow the procedures outlined in “ZHU General Control SOP 1-2-2. Relief of a Position.”
+Controllers shall follow the procedures outlined in [ZHU General Control SOP 1-2-2](../sop/general-control-sop.md#1-2-2-relief-of-a-position).
 
 ### 2-2. Flight Data / Clearance Delivery
 #### 2-2-1. TMU / Flow Control
@@ -58,7 +58,7 @@ FD/CD shall post and update the CRP ATIS. The ATIS shall include the following p
 1. “Caution, Navy Cabaniss (NGW) airport, located five miles southeast of the airport, may be mistaken for Corpus Christi International Airport.”
 
 #### 2-2-3. Strip Marking
-Flight strip marking shall be completed in accordance with the ZHU General Control SOP. For entries into Box 3 - Departure Gate, mark the “Departure Area” as outlined in Appendix 1 & 2.
+Flight strip marking shall be completed in accordance with the ZHU General Control SOP. For entries into Box 3 - Departure Gate, mark the “Departure Area” as outlined in [Appendix 1](#a-1-departure-areas-south-flow) & [Appendix 2](#a-2-departure-areas-north-flow).
 
 !!! example "Example"
     Mark “A1” for Area 1 departures
@@ -73,8 +73,10 @@ Flight strip marking shall be completed in accordance with the ZHU General Contr
     1. CRP transition to join the appropriate STAR into the I90
 
 #### 2-2-5. IFR Altitude Assignment
-1. On a South Flow, all aircraft that depart CRP airspace within Area 1 (Appendix 1/2): 15,000 feet or requested altitude, if lower.
-1. All other IFR departures: 3,000 feet.
+1. On a South Flow, all aircraft that depart CRP airspace within Area 1 ([Appendix 1](#a-1-departure-areas-south-flow) & [Appendix 2](#a-2-departure-areas-north-flow)):
+    1. 15,000 feet or requested altitude, if lower.
+1. All other IFR departures:
+    1. 3,000 feet.
 
 #### 2-2-6. VFR Aircraft
 1. Create VFR strips that contain at least the following information: Callsign, aircraft type, and route of flight/intentions.
@@ -94,7 +96,7 @@ Flight strip marking shall be completed in accordance with the ZHU General Contr
 1. Ground Control must notify Local Control of aircraft taxied to an intersection for takeoff. This may be accomplished non-verbally by marking the flight strip.
 
 #### 2-3-2. Strip Marking
-Flight strip marking shall be completed in accordance with the ZHU General Control SOP.
+Flight strip marking shall be completed in accordance with the [ZHU General Control SOP 3-2](../sop/general-control-sop.md#3-2-strip-marking).
 
 #### 2-3-3. Low Visibility Operations
 During periods of restricted visibility which limits the ground controller’s ability to see the movement area, aircraft taxiing to Runway 13 from or across the commercial ramp must be instructed to taxi via Foxtrot, Golf, then Bravo.

@@ -5,7 +5,7 @@ title: I90 TRACON SOP
 
     This order prescribes standard operating procedures for use by Air Traffic Control Specialists in the Houston ARTCC on the Virtual Air Traffic Simulation (VATSIM) network. Controllers are required to be familiar with the provisions of this document that pertain to their operational responsibilities and to exercise their best judgment if they encounter situations not covered herein.
 
-    It is emphasized that the information continued herein is designed specifically for use only within the virtual controlling environment. It does not apply to, nor should it be referenced for, live operations in the United States National Airspace System (NAS). The procedures continued within this document show how the positions are to be operated and, in conjunction with FAA Order 7110.65, will be the basis for performance evaluations, training, and certification.
+    It is emphasized that the information continued herein is designed specifically for use only within the virtual controlling environment. It does not apply to, nor should it be referenced for, live operations in the United States National Airspace System (NAS). The procedures continued within this document show how the positions are to be operated and, in conjunction with [FAA Order 7110.65](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/), will be the basis for performance evaluations, training, and certification.
 
 ??? info "Revision Information"
     - Document Number: I90 O 7110.1A
@@ -21,13 +21,13 @@ title: I90 TRACON SOP
 ## 1. General
 ### 1-1. Introduction
 #### 1-1-1. Purpose
-This order transmits policy and specifies standard operating procedures for Houston ARTCC (ZHU) control positions. It is supplemental to FAA JO 7110.65, Air Traffic Control; FAA JO 7610.4, and FAA JO 7210.3, Facility Administration and Operation. This document is considered a supplement to any VATSIM, Executive Committee, VATSIM Americas Region (VATNA), and United States of America Division (VATUSA) policies, procedures, and controlled documentation.
+This order transmits policy and specifies standard operating procedures for Houston ARTCC (ZHU) control positions. It is supplemental to [FAA Order 7110.65, Air Traffic Control](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/); FAA JO 7610.4, Sensitive Procedures and Requirements for Special Operations; and [FAA JO 7210.3, Facility Administration and Operation](https://www.faa.gov/air_traffic/publications/atpubs/foa_html/). This document is considered a supplement to any VATSIM, Executive Committee, VATSIM Americas Region (VATNA), and United States of America Division (VATUSA) policies, procedures, and controlled documentation.
 
 #### 1-1-2. Audience
 All ZHU controllers and visitors. All personnel must be familiar with the provisions of this order and exercise their best judgment when encountering situations this order does not cover.
 
 #### 1-1-3. Where Can I Find This Order
-This order is available in digital PDF format on the ZHU ARTCC website at https://www.houston.center/ and can be accessed publicly within the FILES menu and documents section under SOPS.
+This order is available in digital PDF format on the ZHU ARTCC website at https://www.houston.center/ and can be accessed publicly within the FILES menu and documents section under SOPs.
 
 #### 1-1-4. Cancellation
 vZHU-P012 I90 TRACON SOP and all changes thereto are canceled.
@@ -54,10 +54,10 @@ This is the initial release of I90 7110.1A. No changes have been made.
     2. North Satellite if north of V222
 
 #### 2-1-2. Deviations
-If operationally advantageous, deviations from these procedures may be coordinated on an individual basis, except as noted in paragraph 3-17-2 Final Position Duties.
+If operationally advantageous, deviations from these procedures may be coordinated on an individual basis, except as noted in paragraph [3-17-2 Final Position Duties](#3-17-2-duties).
 
 #### 2-1-3. Control Transfer
-Control must be transferred in accordance with vZHU General Control SOP 1-4-1.
+Control must be transferred in accordance with [ZHU General Control SOP 1-4-1](../sop/general-control-sop.md#1-4-1-transfer-of-control).
 
 #### 2-1-4. Runway Utilization
 1. KIAH runway configuration shall be set by IAH local, utilizing the flows outlined in vZHU IAH SOP 2-1-1.
@@ -108,11 +108,11 @@ Controllers that vector an aircraft off an OPD (Descend via) STAR must coordinat
 10,000 feet MSL and 12,000 feet MSL must not be assigned to aircraft departing via the PRARI Gate. This restriction separates from the KIDDZ and SNIFY Standard Terminal Arrival Routes (STARs).
 
 #### 2-1-13. Approach Information
-The first controller to work an aircraft that will land at an airport inside their Terminal Area (Houston, College, Beaumont) must satisfy the requirements of 7110.65 4-7-10 Approach Information.
+The first controller to work an aircraft that will land at an airport inside their Terminal Area (Houston, College, Beaumont) must satisfy the requirements of [7110.65 4-7-10 Approach Information](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap4_section_7.html).
 
 #### 2-1-14. Arrival Runway Assignments
 1. Unless otherwise stated in this order, aircraft being handed off to Final controllers must be assigned 6,000 feet and no greater than 210 knots.
-2. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with vZHU General Control SOP 2-2-1.
+2. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with [ZHU General Control SOP 2-2-1](../sop/general-control-sop.md#2-2-1-ifr-arrivals).
 3. Utilize the charts below for optimal runway assignment and altitudes related thereto.
 4. The East Arrival and West Arrival short-side (Base-side) feeders are responsible for runway balancing. Runway balancing is defined as keeping equal pressure on the available arrival runways. Gulf Arrival and Eagle Lake Arrival must assist East Arrival and West Arrival when balancing needs exist (e.g., vectors for spacing).
 5. If short-side feeders assign a runway that is not on a STAR transition, the aircraft must be vectored. (Shown as **bold** in the tables below).
@@ -335,9 +335,9 @@ Lakeside Satellite must:
 West Arrival must:
 
 1. Provide radar service to aircraft in airspace depicted in this section.
-2. Ensure arrivals are assigned the appropriate runway transition, if applicable, and airspeed in accordance with paragraph 2-1-14.
+2. Ensure arrivals are assigned the appropriate runway transition, if applicable, and airspeed in accordance with [paragraph 2-1-14](#2-1-14-arrival-runway-assignments).
 3. Provide Class B service between 5,500 feet MSL and 10,000 feet MSL, within the lateral boundaries of Class B airspace, within West Arrival airspace.
-4. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with vZHU General Control SOP 2-2-1.
+4. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with [ZHU General Control SOP 2-2-1](../sop/general-control-sop.md#2-2-1-ifr-arrivals).
 5. Coordinate the use of KIAH RWY 8R with Eagle Lake Arrival.
 6. Coordinate “Wrong Side” downwind aircraft that will overfly KIAH with the corresponding feeder controller and point out the aircraft to all Departure controllers.
 7. When assigning an aircraft an RNP approach with RF legs, ensure the aircraft is handed off and communications transferred prior to the Final Controller’s lateral boundary.
@@ -359,10 +359,10 @@ West Arrival must:
 Eagle Lake Arrival must:
 
 1. Provide radar service to aircraft in airspace depicted in this section.
-2. Ensure arrivals are assigned appropriate runway transition if applicable and airspeed in accordance with paragraph 2-1-14.
+2. Ensure arrivals are assigned appropriate runway transition if applicable and airspeed in accordance with [paragraph 2-1-14](#2-1-14-arrival-runway-assignments).
 3. When it becomes necessary to vector KIDDZ# or BELLR# aircraft onto a KHOU RWY 13R downwind, assign the aircraft 7,000 feet MSL.
 4. Provide Class B service between 5,500 feet MSL and 10,000 feet MSL, within the lateral boundaries of Class B airspace, within Eagle Lake Arrival airspace.
-5. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with vZHU General Control SOP 2-2-1.
+5. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with [ZHU General Control SOP 2-2-1](../sop/general-control-sop.md#2-2-1-ifr-arrivals).
 6. Coordinate “Wrong Side” downwind aircraft that will overfly KIAH with the corresponding feeder controller and point out the aircraft to all Departure controllers.
 7. When assigning an aircraft an RNP approach with RF legs, ensure the aircraft is handed off and communications transferred prior to the Final Controller’s lateral boundary.
 
@@ -531,12 +531,12 @@ Beaumont Satellite must:
 East Arrival must:
 
 1. Provide radar service to aircraft in airspace depicted in this section.
-2. Ensure arrivals are assigned appropriate runway transition, if applicable, and airspeed in accordance with paragraph 2-1-14.
+2. Ensure arrivals are assigned appropriate runway transition, if applicable, and airspeed in accordance with [paragraph 2-1-14](#2-1-14-arrival-runway-assignments).
 3. Handoff KHOU arrivals not on the WAPPL# to Gulf Arrival at 10,000 feet MSL. Gulf Arrival has control for descent to 8,000 feet MSL.
 4. Handoff HUDZY# arrivals destined KGLS, KLBX, KEFD, KBYY, KARM and KSGR to Gulf Arrival at 10,000 feet MSL. Gulf Arrival has control for descent to 8,000 feet MSL.
 5. Descend and vector all other satellite arrivals to remain clear of the final boxes, and handoff to the appropriate controller.
 6. Provide Class B service between 5,500 feet and 10,000 feet MSL within the lateral boundaries of Class B airspace within East Arrival airspace.
-7. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with vZHU General Control SOP 2-2-1.
+7. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with [ZHU General Control SOP 2-2-1](../sop/general-control-sop.md#2-2-1-ifr-arrivals).
 8. Coordinate with Gulf Arrival prior to assigning KIAH RWY 27.
 9. Coordinate “Wrong Side” downwind aircraft that will overfly KIAH with the corresponding feeder controller and point out the aircraft to all Departure controllers.
 10. When assigning an aircraft, a RNP approach with RF legs, ensure the aircraft is handed off and communications transferred prior to the Final Controller’s lateral boundary.
@@ -554,7 +554,7 @@ East Arrival must:
 Gulf Arrival must:
 
 1. Provide radar service to aircraft in airspace depicted in this section.
-2. Ensure arrivals are assigned appropriate runway transition, if applicable, and airspeed in accordance with paragraph 2-1-14.
+2. Ensure arrivals are assigned appropriate runway transition, if applicable, and airspeed in accordance with [paragraph 2-1-14](#2-1-14-arrival-runway-assignments).
 3. Point-out Jets/Turboprops landing KEFD RWY 17/22, T41, KRWJ, T00, and KHPY to Departure South at or prior to FRDDY WP, descending to 6,000 feet MSL on a north heading outside of the KHOU final box. Handoff to SanJac Satellite.
 4. Point-out Jets/Turboprops landing KEFD RWY 35/04, KAXH, KGLS, KIWS, KLBX, KLVJ, KSGR, TKME, and 54T to Departure South at or prior to DOCCC WP, descending to 1,000ft above SanJac airspace on a southwest heading outside of the KHOU final box. Handoff to SanJac Satellite.
 5. Handoff KGLS, KLBX, KEFD, KBYY, KARM and KSGR arrivals on the WAPPL/HUDZY STAR to Departure South at or above 8,000 feet MSL. Assign HUDZY STAR arrivals a heading that ensures the arrival remains east of KHOU but no further east than KEFD.
@@ -564,7 +564,7 @@ Gulf Arrival must:
 8. Provide Class B service between 5,500 feet MSL and 10,000 feet MSL, as applicable, within the lateral boundaries of Class B airspace and within Gulf Arrival airspace.
 9. Coordinate with East Arrival prior to assigning KIAH RWY 26L/R.
 10. Coordinate “Wrong Side” downwind aircraft that will overfly KIAH with the corresponding feeder controller and point out the aircraft to all Departure controllers.
-11. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with vZHU General Control SOP 2-2-1.
+11. Provide runway assignment information in the primary scratchpad for all IFR arrival aircraft in accordance with [ZHU General Control SOP 2-2-1](../sop/general-control-sop.md#2-2-1-ifr-arrivals).
 12. When assigning an aircraft a RNP approach with RF legs, ensure the aircraft is handed off and communications transferred prior to the Final Controller’s lateral boundary.
 
 ??? abstract "Gulf Arrival (G) Airspace Maps"

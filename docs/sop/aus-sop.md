@@ -5,7 +5,7 @@ title: AUS Tower & TRACON SOP
 
     This order prescribes the standards of general operations at all controlled airports within the ZHU ARTCC that are not subject to their own facility-specific SOPs. Operational guidance on airspace division, transfer of control, internal agreements, flight strip usage, and more
 
-    It is emphasized that the information continued herein is designed specifically for use only within the virtual controlling environment. It does not apply to, nor should it be referenced for, live operations in the United States National Airspace System (NAS). The procedures continued within this document show how the positions are to be operated and, in conjunction with FAA Order 7110.65, will be the basis for performance evaluations, training, and certification.
+    It is emphasized that the information continued herein is designed specifically for use only within the virtual controlling environment. It does not apply to, nor should it be referenced for, live operations in the United States National Airspace System (NAS). The procedures continued within this document show how the positions are to be operated and, in conjunction with [FAA Order 7110.65](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/), will be the basis for performance evaluations, training, and certification.
 
 ??? info "Revision Information"
     - Document Number: AUS O 7110.1A
@@ -21,13 +21,13 @@ title: AUS Tower & TRACON SOP
 ## 1. General
 ### 1-1. Introduction
 #### 1-1-1. Purpose
-This order transmits policy and specifies standard operating procedures for Houston ARTCC (ZHU) control positions. It is supplemental to FAA JO 7110.65, Air Traffic Control; FAA JO 7610.4, and FAA JO 7210.3, Facility Administration and Operation. This document is considered a supplement to any VATSIM, Executive Committee, VATSIM Americas Region (VATNA), and United States of America Division (VATUSA) policies, procedures, and controlled documentation.
+This order transmits policy and specifies standard operating procedures for Houston ARTCC (ZHU) control positions. It is supplemental to [FAA Order 7110.65, Air Traffic Control](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/); FAA JO 7610.4, Sensitive Procedures and Requirements for Special Operations; and [FAA JO 7210.3, Facility Administration and Operation](https://www.faa.gov/air_traffic/publications/atpubs/foa_html/). This document is considered a supplement to any VATSIM, Executive Committee, VATSIM Americas Region (VATNA), and United States of America Division (VATUSA) policies, procedures, and controlled documentation.
 
 #### 1-1-2. Audience
 All ZHU controllers and visitors. All personnel must be familiar with the provisions of this order and exercise their best judgment when encountering situations this order does not cover.
 
 #### 1-1-3. Where Can I Find This Order
-This order is available in digital PDF format on the ZHU ARTCC website at https://houston.center and can be accessed publicly within the FILES menu and documents section under SOPS.
+This order is available in digital PDF format on the ZHU ARTCC website at https://houston.center and can be accessed publicly within the FILES menu and documents section under SOPs.
 
 #### 1-1-4. Cancellation
 vZHU-P020v4, Austin ATCT/TRACON Standard Operating Procedures, dated 28 MAY 2020, and all changes thereto are canceled.
@@ -42,17 +42,17 @@ This is the initial release of AUS 7110.1A. No changes have been made.
 ## 2. ATCT Procedures
 ### 2-1. General
 #### 2-1-1. Duty Familiarization
-Controllers shall follow the procedures outlined in “ZHU General Control SOP 1-2-1. Opening a Position.”
+Controllers shall follow the procedures outlined in [ZHU General Control SOP 1-2-1](../sop/general-control-sop.md#1-2-1-opening-a-position).
 
 #### 2-1-2. Position Relief
-Controllers shall follow the procedures outlined in “ZHU General Control SOP 1-2-2. Relief of a Position.”
+Controllers shall follow the procedures outlined in [ZHU General Control SOP 1-2-2](../sop/general-control-sop.md#1-2-2-relief-of-a-position).
 
 #### 2-1-3. Opposite Direction Operations
 These procedures are intended for use only in cases of operational necessity or priority.
 
 1. Procedures:
     1. For IFR aircraft conducting ODO to the same runway:
-        1. The provisions of FAA JO 7110.65, Paragraph 7-2-1, Visual Separation, are not authorized.
+        1. The provisions of [FAA JO 7110.65 7-2-1, Visual Separation](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_2.html), are not authorized.
         1. ODO IFR departures are prohibited with opposing IFR arrival traffic inside a 10 mile final.
         1. When opposing IFR arrival traffic is outside a 10 mile final:
             1. A departing IFR aircraft must be airborne and have commenced a turn to avoid conflict prior to an arriving IFR aircraft reaching a 10 mile final.
@@ -66,9 +66,9 @@ These procedures are intended for use only in cases of operational necessity or 
 ### 2-2. Flight Data / Clearance Delivery
 #### 2-2-1. Duties
 1. Assign the departure runway that most closely aligns with an aircraft’s initial direction of flight.
-2. FD/CD must inform GC and LC of all air traffic management initiatives and associated information. Flight strips shall be marked in accordance with the ZHU General Control SOP.
+2. FD/CD must inform GC and LC of all air traffic management initiatives and associated information. Flight strips shall be marked in accordance with the [ZHU General Control SOP 3-2](../sop/general-control-sop.md#3-2-strip-marking).
 3. FD/CD shall post and update the ATIS
-4. Flight strip marking shall be completed in accordance with the ZHU General Control SOP.
+4. Flight strip marking shall be completed in accordance with the [ZHU General Control SOP 3-2](../sop/general-control-sop.md#3-2-strip-marking).
 
 #### 2-2-2. IFR Aircraft
 1. Route IFR aircraft in order of preference listed:
@@ -95,7 +95,7 @@ These procedures are intended for use only in cases of operational necessity or 
 1. GC must taxi all departures to the runway that most closely aligns with their direction of flight.
 1. Ground Control must notify Local Control when an aircraft has been taxied to a runway other than the active runway(s).
 1. Ground Control must notify Local Control of aircraft taxied to an intersection for takeoff. This may be accomplished non-verbally by marking the flight strip.
-1. Flight strip marking shall be completed in accordance with the ZHU General Control SOP.
+1. Flight strip marking shall be completed in accordance with the [ZHU General Control SOP 3-2](../sop/general-control-sop.md#3-2-strip-marking).
 1. When possible, sequence traffic to local control by alternating SIDs/departure courses.
 1. Must have traffic on Taxiway A give way to aircraft exiting RWY 18L/36R.
 1. When “CFR” applies to the aircraft’s destination airport, coordinate with TMU for a departure time when the aircraft calls for taxi.
@@ -106,15 +106,15 @@ If traffic conditions require, GC may be split into two positions, GE and GW. Wh
 ### 2-4. Local Control
 #### 2-4-1. Duties
 1. Local East (LE) is responsible for runway 18L/36R. Local West (LW) is responsible for runway 18R/36L.
-1. LE and LW shall assign headings to departing aircraft in accordance with Appendix 1.
-1. Tower airspace is depicted in Appendix 2.
+1. LE and LW shall assign headings to departing aircraft in accordance with [Appendix 1](#a-1-standard-departure-headings).
+1. Tower airspace is depicted in [Appendix 2](#a-2-airspace-maps).
 1. Local control may change the landing runway assignment of any aircraft without coordination if the change does not affect the Finals sequence.
-1. Except for cross complex and ODO departures, local control shall have automatic releases on all departures, so long as the aircraft is on a standard heading in accordance with appendix 1.
+1. Except for cross complex and ODO departures, local control shall have automatic releases on all departures, so long as the aircraft is on a standard heading in accordance with [Appendix 1](#a-1-standard-departure-headings).
 1. Local shall radar identify all departures, initiate a STARS track, and execute an automated radar handoff to the appropriate controller prior to communications transfer. It is the TRACON’s responsibility to inform the aircraft that they are “Radar Contact.”
 1. Local Control must use the STARS “Quick Look” function in order to view arrival information for all aircraft.
 
 #### 2-4-2. Missed Approach Instructions
-In the event of an unplanned go-around/missed approach and after establishing standard separation, local control shall issue the headings Appendix 1 and an altitude of 4000 feet MSL and then coordinate with Final Radar.
+In the event of an unplanned go-around/missed approach and after establishing standard separation, local control shall issue the headings [Appendix 1](#a-1-standard-departure-headings) and an altitude of 4000 feet MSL and then coordinate with Final Radar.
 
 #### 2-4-3. Cross Complex Departures
 1. Definition:
@@ -131,10 +131,10 @@ In the event of an unplanned go-around/missed approach and after establishing st
 ## 3. TRACON Procedures
 ### 3-1. General Operations
 #### 3-1-1. Radar Position Duties
-1. Planned missed approach instructions shall be verbally coordinated with local control. Use 4,000 and a standard departure heading in Appendix 1.
+1. Planned missed approach instructions shall be verbally coordinated with local control. Use 4,000 and a standard departure heading in [Appendix 1](#a-1-standard-departure-headings).
 1. All turbojet arrivals to Austin-Bergstrom International Airport, when being vectored, must be allowed to be established on the final no closer than 5 miles from the landing threshold.
-1. Arrival aircraft shall have their scratchpad marked in accordance with the General Control SOP Chapter 2, section 2.
-1. All radar positions must avoid the tower departure area (Appendix 2) unless approved by Local Control.
+1. Arrival aircraft shall have their scratchpad marked in accordance with the [General Control SOP 2-2](../sop/general-control-sop.md#2-2-scratchpad-rules).
+1. All radar positions must avoid the tower departure area [Appendix 2](#a-2-airspace-maps) unless approved by Local Control.
 1. Assign an initial IFR altitude of 3,000 for all non-towered satellite airport departures.
 
 #### 3-1-2. Automated Point Out Procedures
@@ -147,10 +147,10 @@ To reduce verbal coordination, the STARS point out function may be used between 
     1. By approving the Automated point out, the receiving controller indicates the associated data block contains sufficient information to ensure aircraft separation is maintained, and authorizes the initiating controller to enter the receiving controller’s area of jurisdiction. If the information contained in the FDB is insufficient to approve the operation, verbal coordination must be accomplished prior to approving the automated point out.
 
 #### 3-1-3. Transfer Of Control
-Shall be accomplished in accordance with the ZHU General Control SOP section 1-4-1.
+Shall be accomplished in accordance with the [ZHU General Control SOP 1-4-1](../sop/general-control-sop.md#1-4-1-transfer-of-control).
 
 #### 3-1-4. Airspace Delegation
-1. Airspace maps can be found in Appendix 2. If an IFR altitude is delegated to a position of operation, the VFR altitude 500 feet below the IFR altitude is also delegated to the same position of operation unless otherwise designated.
+1. Airspace maps can be found in [Appendix 2](#a-2-airspace-maps). If an IFR altitude is delegated to a position of operation, the VFR altitude 500 feet below the IFR altitude is also delegated to the same position of operation unless otherwise designated.
 1. Radar West assumes the airspace of Austin Finals and Satellite Radar when closed.
 1. Radar East assumes the airspace of Radar South when closed.
 1. When Radar South is open, they may assume the airspace of Satellite Radar depending on traffic conditions.
@@ -168,7 +168,7 @@ Aircraft shall be descended to the following altitudes when on a Non-RNAV STAR a
 #### 3-1-9. Practice Instrument Approaches For VFR Aircraft
 Approach Control feeder positions (RW, RE and RS) must issue climbout instructions to aircraft executing a missed approach or rerun at satellite airports.
 
-1. IFR separation in accordance with FAA JO 7110.65 must be provided to VFR aircraft conducting practice instrument approaches at:
+1. IFR separation in accordance with [FAA JO 7110.65](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/) must be provided to VFR aircraft conducting practice instrument approaches at:
     1. KAUS
     1. KEDC
     1. KGTU
@@ -176,9 +176,9 @@ Approach Control feeder positions (RW, RE and RS) must issue climbout instructio
 1. IFR separation will not be provided to aircraft operating under VFR that practice instrument approaches to other satellite airports within the Austin terminal area.
 
 #### 3-1-10. Simultaneous Approach Procedures
-1. Simultaneous visual approaches shall be conducted in accordance with 7110.65 7-4-4.
-1. Simultaneous dependent (Staggered) instrument approaches shall be conducted in accordance with 7110.65 5-9-6, and a 1.5NM stagger shall be applied.
-1. Simultaneous independent approaches shall be conducted in accordance with 7110.65 5-9-7. The following final monitor duties shall be performed by the Austin Finals controller:
+1. Simultaneous visual approaches shall be conducted in accordance with [7110.65 7-4-4](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_4.html).
+1. Simultaneous dependent (Staggered) instrument approaches shall be conducted in accordance with [7110.65 5-9-6](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap5_section_9.html), and a 1.5NM stagger shall be applied.
+1. Simultaneous independent approaches shall be conducted in accordance with [7110.65 5-9-7](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap5_section_9.html). The following final monitor duties shall be performed by the Austin Finals controller:
     1. Instruct the aircraft to return to the correct final approach course when aircraft are observed to overshoot the turn-on or to continue on a track which will penetrate the NTZ.
     
         ??? example "Phraseology"
@@ -192,8 +192,8 @@ Approach Control feeder positions (RW, RE and RS) must issue climbout instructio
 #### 3-1-10. Prearranged Coordination Procedures (P-ACP).
 The controller using prearranged coordination to enter another controller’s airspace is responsible for maintaining approved separation between aircraft under their control and all aircraft in the airspace they will transit by observing the data blocks (position symbol, mode C readout, heavy aircraft/B757 information) of all radar positions with which they are utilizing prearranged coordination procedures to determine the appropriate separation to be applied.
 
-1. Approved P-ACP areas for South Flow can be found in Appendix 3.
-1. Approved P-ACP areas for North Flow can be found in Appendix 3.
+1. Approved P-ACP areas for South Flow can be found in [Appendix 3](#a-3-prearranged-coordination).
+1. Approved P-ACP areas for North Flow can be found in [Appendix 3](#a-3-prearranged-coordination).
 
 ## Appendices
 ### A-1. Standard Departure Headings
