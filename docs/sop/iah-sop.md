@@ -39,8 +39,8 @@ This is the initial release of IAH 7110.65A. No changes have been made.
 1. The Houston ARTCC Air Traffic Manager is responsible for maintaining and updating the information contained in this order.
 1. The Houston ARTCC Air Traffic Manager is responsible for notifying the VATUSA Southern Region Air Traffic Director of any necessary revisions to this order.
 
-### 2. Procedures
-#### 2-1. General
+## 2. Procedures
+### 2-1. General
 #### 2-1-1. Runway Utilization
 The following preferential runway configuration must be used at IAH to the extent possible:
 
@@ -53,6 +53,7 @@ The following preferential runway configuration must be used at IAH to the exten
         
     ??? note
         When ceilings reduce to 2,500 feet or visibility prevents visual observation of Runways 27/26L/26R arrival traffic at the FAF, a straight west flow configuration must be utilized.
+
 1. East Flow:
     1. Arrivals on Runways 8L/8R/9.
     1. Departures on Runways 15L/15R/9.
@@ -80,7 +81,7 @@ Position opening and closing shall be done in accordance with [General Control S
 1. Ground, Clearance, and Ramp must be staffed before Ground Metering is opened.
 
 #### 2-1-3. Surface Memory Aid Procedures
-Controllers shall utilize the flight strip memory aids in accordance with [General Control SOP Chapter 3-1-6.b](../sop/general-control-sop.md#3-1-6-separators). In addition, local controllers shall change an aircraft’s data block from white to teal on the STARS TDW when an arrival has accepted a LAHSO clearance.
+Controllers shall utilize the flight strip memory aids in accordance with [General Control SOP Chapter 3-1-6](../sop/general-control-sop.md#3-1-6-separators). In addition, local controllers shall change an aircraft’s data block from white to teal on the STARS TDW when an arrival has accepted a LAHSO clearance.
 
 #### 2-1-4. ASDE-X Temp Data
 Controllers shall not add, delete, and/or modify ASDE-X temporary data to include closed taxiways and runways, restricted areas, or text areas unless the modification is consistent with current real-world NOTAMs.
@@ -96,7 +97,7 @@ The following RNAV RNP approaches are authorized for simultaneous use:
     1. RNAV (RNP) Y RWY 9 with all RWY 8R and/or RWY 8L instrument approaches.
 
 #### 2-1-6. Parking Location Scratchpads
-Preferred parking locations for arrival aircraft can be marked by any controller on the ASDE-X primary scratchpad with the abbreviations listed in <!-- paragraph 2-5-1 -->.
+Preferred parking locations for arrival aircraft can be marked by any controller on the ASDE-X primary scratchpad with the abbreviations listed in paragraph [2-5-1](#2-5-1-general-duties).
 
 #### 2-1-7. Departure Runway Change Procedures
 1. The advertised departure runway direction may be changed at the local controller’s discretion.
@@ -171,7 +172,7 @@ However, differences in VATSIM pilots' scenery, such as markings, gate positions
 Additionally, ramp control cannot see which gates are occupied by other aircraft, and many simulator pilots are content to occupy any available gate. It is assumed that the pilot will wish to park at terminals and/or gates that their airline or virtual airline affiliation indicate unless indicated otherwise by the pilot. While pilots may be asked their preferred terminal or gate, the main focus of ground and ramp control is to direct them to their designated terminal. Although ramp control may try to accommodate specific gate requests, it is not mandatory. If a pilot insists on waiting for their assigned gate, they should be reminded that the current occupant may remain there indefinitely, as gate utilization on VATSIM is typically first-come, first-served basis.
 
 #### 2-3-2. Ramp Control Tools
-Ramp control shall rely primarily on tower cab view and the IAH ASDE-X feed to direct ramp traffic. United, Delta and all regional carrier aircraft parking at the terminal ramp will be given an ASDE-X primary scratchpad entry indicating the requested gate. Approved scratchpad abbreviations can be found in paragraph [2-5-1.h](#2-5-1-general-duties).
+Ramp control shall rely primarily on tower cab view and the IAH ASDE-X feed to direct ramp traffic. United, Delta and all regional carrier aircraft parking at the terminal ramp will be given an ASDE-X primary scratchpad entry indicating the requested gate. Approved scratchpad abbreviations can be found in paragraph [2-5-1](#2-5-1-general-duties).
 
 #### 2-3-3. Ramp Splits
 1. The primary combined ramp position will be North Ramp control.
@@ -245,7 +246,7 @@ See [Appendix 6](#a-6-ramp-entryexit-spots) for a visual diagram.
     1. Mark the current ATIS on the flight strip when received from the aircraft.
     1. Mark the outbound spot number in box 8 on the flight strip. When the aircraft is not at the terminal ramp, mark the following in place of the spot number:
         1. When a pushback request from gate A29 or A30 is received, mark "A29" or "A30" and advise the pilot to monitor the appropriate Ground Control position.
-        1. For all other aircraft, use the abbreviations in [2-5-1.j](#2-5-1-general-duties).
+        1. For all other aircraft, use the abbreviations in [2-5-1](#2-5-1-general-duties).
     1. Ensure there are no updated clearance amendments that need to be given or new TMIs that apply to the aircraft. Advise the aircraft if any of these changes occur with applicable information. Clearance delivery may elect to defer individual routing amendment clearances to ground metering when coordinated.
 1. After all the above has been completed, inform the pilot to monitor the appropriate Ground Control frequency for taxi instructions and forward the flight progress strip to the appropriate Ground Control position.
 1. Issue taxi instructions to Runway 9 from spot 22.
@@ -385,7 +386,7 @@ When a missed approach and/or go around occurs, the applicable Local control mus
     ??? info "Arrival Departure Window (ADW) Boxes"
         ![ADW Boxes](../assets/iah-sop1.png)
 
-#### 2-6-8. I90 Airspace Delegated To IAH.
+#### 2-6-8. I90 Airspace Delegated To IAH
 IAH is authorized use of I90 Airspace depicted in Area A, [Appendix 2](#a-2-i90-airspace-delegated-to-iah-and-hou-atct). If I90 desires to use this airspace, coordination with IAH must be required. If I90 has traffic below 1,500 feet MSL within the lateral confines of airspace depicted in Area A, [Appendix 2](#a-2-i90-airspace-delegated-to-iah-and-hou-atct) they must force the target onto Local West (4T) display.
 
 #### 2-6-9. Automated Point Out Procedures
@@ -395,9 +396,9 @@ IAH is authorized use of I90 Airspace depicted in Area A, [Appendix 2](#a-2-i90-
     1. Unable to point out
     1. Accept control of the aircraft
 
-#### 2-6-10. Opposite Direction Operations (ODO).
+#### 2-6-10. Opposite Direction Operations (ODO)
 
-**DEFINITION:** IFR/VFR Operations conducted to the same or parallel runway where an aircraft is operating in a reciprocal direction of another aircraft arriving, departing, or conducting an approach.
+**Definition:** IFR/VFR Operations conducted to the same or parallel runway where an aircraft is operating in a reciprocal direction of another aircraft arriving, departing, or conducting an approach.
 
 1. Same Runway Procedures:
     1. IAH Local Control and I90 Controlling Sectors are responsible for initiating coordination required to accomplish an opposite direction arrival or departure.
