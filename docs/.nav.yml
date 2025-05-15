@@ -17,6 +17,7 @@ nav:
         - AUS: sop/aus-sop.md
         - CRP: sop/crp-sop.md
         - HOU: sop/hou-sop.md
+        - IAH: sop/iah-sop.md
     - LOA: loa
     - QRC: qrc
     - NOTAC:
