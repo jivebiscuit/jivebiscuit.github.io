@@ -207,68 +207,74 @@ When no LOA is published for the underlying TRACON, route the aircraft directly 
 1. Aircraft departing the MSY Terminal Area: Low controllers shall keep aircraft on headings that will parallel or diverge from the arrival route, climb the aircraft to FL230, and initiate a handoff to the high altitude sector. The high altitude sector shall have control for turns on course leaving FL180
 
 #### 2-3-3. From Rock Springs Specialty
-| Entering| To | Qualifier | Restriction |
-|---|---|---|---|
-| AUS Specialty | IAH | East Flow | AOB FL330 established<br>at an ODD altitude |
-| AUS Specialty | HOU | KIDDZ# STAR | AOB FL370 established<br>at an ODD altitude |
-| AUS Specialty | I90 | BLUBL# STAR | AOB FL290 established<br>at an ODD altitude |
-| AUS Specialty | I90 | Non-RNAV STARs | AOB aircraft on RNAV STARs |
-| CRP Specialty | IAH | East Flow| AOB FL350 |
-| CRP Specialty | DWH, CXO, T78, 6R3 | ALL | AOB FL290 & all other I90 arrivals |
-| CRP Specialty | I90 South Satellites | ALL | AOB KHOU arrivals |
-| CRP Specialty | I90 | ALL | PSX-95/SOTEX-84 control<br>for vectors/descent in “Dump Box” (Figure 1) |
-| CRP Specialty | CRPT or NQIT| ALL | Descending to FL240 |
-| CRP Specialty | CRP-59/SOTEX-84 | ALL | From ALAMO-74/SLIMM-76<br>at westbound altitudes |
+??? abstract "From Rock Springs Specialty"
+    | Entering| To | Qualifier | Restriction |
+    |---|---|---|---|
+    | AUS Specialty | IAH | East Flow | AOB FL330 established<br>at an ODD altitude |
+    | AUS Specialty | HOU | KIDDZ# STAR | AOB FL370 established<br>at an ODD altitude |
+    | AUS Specialty | I90 | BLUBL# STAR | AOB FL290 established<br>at an ODD altitude |
+    | AUS Specialty | I90 | Non-RNAV STARs | AOB aircraft on RNAV STARs |
+    | CRP Specialty | IAH | East Flow| AOB FL350 |
+    | CRP Specialty | DWH, CXO, T78, 6R3 | ALL | AOB FL290 & all other I90 arrivals |
+    | CRP Specialty | I90 South Satellites | ALL | AOB KHOU arrivals |
+    | CRP Specialty | I90 | ALL | PSX-95/SOTEX-84 control<br>for vectors/descent in “Dump Box” (Figure 1) |
+    | CRP Specialty | CRPT or NQIT| ALL | Descending to FL240 |
+    | CRP Specialty | CRP-59/SOTEX-84 | ALL | From ALAMO-74/SLIMM-76<br>at westbound altitudes |
 
-??? abstract "Figure 1. PSX95/SOTEX84 "Dump Box""
-    ![Figure 1. PSX95/SOTEX84 "Dump Box"](../assets/enroute-sop1.png)
+    ??? info "Figure 1. PSX95/SOTEX84 "Dump Box""
+        ![Figure 1. PSX95/SOTEX84 "Dump Box"](../assets/enroute-sop1.png)
 
 #### 2-3-4. From Corpus Christi Specialty
-| Entering | To | Qualifier | Restriction |
-|---|---|---|---|
-| RSG Specialty | D10 or overflying J23/J131/J21 | Entering ALAMO-74/<br>SLIMM-76 | At or climbing to an eastbound altitude |
-| RSG Specialty | AUS | DXEEE# STAR | CRP-59 will issue a descent to FL240 and put a temporary altitude of FL200 in the data block. STV-50 has control to issue a descend via clearance and update the data block. |
-| AUS Specialty | D10 | Entering AUS-78 | Routed over or east of a TNV..LOA line |
+??? abstract "From Corpus Christi Specialty"
+    | Entering | To | Qualifier | Restriction |
+    |---|---|---|---|
+    | RSG Specialty | D10 or overflying J23/J131/J21 | Entering ALAMO-74/<br>SLIMM-76 | At or climbing to an eastbound altitude |
+    | RSG Specialty | AUS | DXEEE# STAR | CRP-59 will issue a descent to FL240 and put a temporary altitude of FL200 in the data block. STV-50 has control to issue a descend via clearance and update the data block. |
+    | AUS Specialty | D10 | Entering AUS-78 | Routed over or east of a TNV..LOA line |
 
 #### 2-3-5. From Austin Specialty
-| Entering        | To                 | Qualifier         | Restriction                                       |
-|-----------------|--------------------|-------------------|--------------------------------------------------|
-| LFK Specialty   | D10                | CLLT Departures   | Assigned a westbound altitude                    |
-| CRP Specialty   | PSX-95/SOTEX-84    | ALL               | Level at a westbound altitude                    |
+??? abstract "From Austin Specialty"
+    | Entering        | To                 | Qualifier         | Restriction                                       |
+    |-----------------|--------------------|-------------------|--------------------------------------------------|
+    | LFK Specialty   | D10                | CLLT Departures   | Assigned a westbound altitude                    |
+    | CRP Specialty   | PSX-95/SOTEX-84    | ALL               | Level at a westbound altitude                    |
 
 #### 2-3-6. From Lufkin Specialty
-| Entering        | To        | Qualifier                    | Restriction                                                                 |
-|-----------------|-----------|------------------------------|------------------------------------------------------------------------------|
-| NEW Specialty   | MSYT      | AWDAD# Arrivals AOA FL240    | 1. Crosses J22 AOB FL290, descending to FL240. <br>2. Temporary altitude to which descent can be approved in the data block. <br>3. NEW Specialty control for descent to the temporary altitude in the data block. |
-| NEW Specialty   | MSYT      | TRSSH# Arrivals AOA FL240    | AOB FL290, descending to FL240                                              |
-| NEW Specialty   | MOBT or GPTT | ALL                       | AOB FL330                                                                   |
-| LCH Specialty   | MSYT      | From IZD-26 entering GLS-68 east of LCH | AOB FL330                                                       |
-| AUS Specialty   | AUST      | Entering AUS-78              | AOB FL320                                                                   |
-| AUS Specialty   | AUST or SATT | Entering AUS-78           | The HOU-46 sector may enter a temporary altitude to which descent can be approved and handoff the aircraft to the AUS sector. The AUS controller has control to descend the aircraft up to the temporary altitude in the data block. |
-| AUS Specialty   | GRKT      | Non-I90 Departures           | Routed via LOA VORTAC direct destination AOB FL220                          |
+??? abstract "From Lufkin Specialty"
+    | Entering | To | Qualifier | Restriction |
+    |----------|----|-----------|-------------|
+    | NEW Specialty   | MSYT      | AWDAD# Arrivals AOA FL240    | 1. Crosses J22 AOB FL290, descending to FL240. <br>2. Temporary altitude to which descent can be approved in the data block. <br>3. NEW Specialty control for descent to the temporary altitude in the data block. |
+    | NEW Specialty   | MSYT      | TRSSH# Arrivals AOA FL240    | AOB FL290, descending to FL240 |
+    | NEW Specialty   | MOBT or GPTT | ALL                       | AOB FL330  |
+    | LCH Specialty   | MSYT      | From IZD-26 entering GLS-68 east of LCH | AOB FL330  |
+    | AUS Specialty   | AUST      | Entering AUS-78              | AOB FL320   |
+    | AUS Specialty   | AUST or SATT | Entering AUS-78           | The HOU-46 sector may enter a temporary altitude to which descent can be approved and handoff the aircraft to the AUS sector. The AUS controller has control to descend the aircraft up to the temporary altitude in the data block. |
+    | AUS Specialty   | GRKT      | Non-I90 Departures           | Routed via LOA VORTAC direct destination AOB FL220  |
 
 #### 2-3-7. From Lake Charles Specialty
-| Entering        | To                  | Qualifier         | Restriction                                                                 |
-|-----------------|---------------------|-------------------|------------------------------------------------------------------------------|
-| LFK Specialty   | CLLT                | ALL               | Route via OSCER direct destination                                           |
-| LFK Specialty   | AUST                | ALL               | AOB FL360                                                                    |
-| LFK Specialty   | D10                 | ALL               | Do not shortcut beyond AEX                                                   |
-| NEW Specialty   | MOBT                | ALL               | AOB FL330                                                                    |
-| NEW Specialty   | BTRT                | ALL               | AOB FL230 descending to FL190                                                |
-| NEW Specialty   | KGPT or KBIX        | ALL               | Route via HRV direct destination. AOB FL290 descending to FL240              |
-| OCN Specialty   | I90 Departures to OCNW-79 | ALL        | Climbing to FL310 or lower requested cruise. OCNW control for climb.        |
-| CRP Specialty   | AUST or SATT        | AOA FL180         | Routed to remain outside CRP specialty                                       |
+??? abstract "From Lake Charles Specialty"
+    | Entering        | To                  | Qualifier         | Restriction                                                                 |
+    |-----------------|---------------------|-------------------|------------------------------------------------------------------------------|
+    | LFK Specialty   | CLLT                | ALL               | Route via OSCER direct destination                                           |
+    | LFK Specialty   | AUST                | ALL               | AOB FL360                                                                    |
+    | LFK Specialty   | D10                 | ALL               | Do not shortcut beyond AEX                                                   |
+    | NEW Specialty   | MOBT                | ALL               | AOB FL330                                                                    |
+    | NEW Specialty   | BTRT                | ALL               | AOB FL230 descending to FL190                                                |
+    | NEW Specialty   | KGPT or KBIX        | ALL               | Route via HRV direct destination. AOB FL290 descending to FL240              |
+    | OCN Specialty   | I90 Departures to OCNW-79 | ALL        | Climbing to FL310 or lower requested cruise. OCNW control for climb.        |
+    | CRP Specialty   | AUST or SATT        | AOA FL180         | Routed to remain outside CRP specialty                                       |
 
 #### 2-3-8. From New Orleans Specialty
-| Entering | To | Qualifier| Restriction |
-|---|---|---|---|
-| LCH Specialty   | MSYT Departures Westbound | Requesting FL240+ | 1. Assign a heading that will parallel or diverge from the arrival route.<br>2. Climb the aircraft to FL230.<br>3. Handoff to LCH specialty.<br>4. LCH specialty has control for turns on course leaving FL180. |
-| LCH Specialty   | BPT, BMT, DWH, CXO, 6R3, T78 | ALL  | AOB FL320  |
-| LCH Specialty   | LCHT | ALL  | The BTR-34 sector will descend aircraft landing the LCH Terminal Area to 11,000 feet and handoff the aircraft to Lake Charles TRACON |
-| LCH Specialty   | D10 | ALL  | Do not shortcut beyond AEX |
-| LFK Specialty   | D10 | ALL | Do not shortcut beyond AEX |
-| LFK Specialty   | MSYT Departures Northwestbound | Requesting FL240+ | 1. Assign a heading that will parallel or diverge from the arrival route.<br>2. Climb the aircraft to FL230.<br>3. Enter a temporary altitude up to FL340, not exceeding requested altitude, to which climb can be approved.<br>4. Handoff to LFK specialty.<br>5. LFK specialty has control for climb to the temporary altitude displayed and for turns on course leaving FL180.<br>6. LFK specialty responsible for point-outs to TBD-70 sector. |
-| LFK Specialty   | POET, LFTT, LCHT, SHVT, or MLUT | ALL  | AOB FL340  |
+??? abstract "From New Orleans Specialty"
+    | Entering | To | Qualifier| Restriction |
+    |---|---|---|---|
+    | LCH Specialty   | MSYT Departures Westbound | Requesting FL240+ | 1. Assign a heading that will parallel or diverge from the arrival route.<br>2. Climb the aircraft to FL230.<br>3. Handoff to LCH specialty.<br>4. LCH specialty has control for turns on course leaving FL180. |
+    | LCH Specialty   | BPT, BMT, DWH, CXO, 6R3, T78 | ALL  | AOB FL320  |
+    | LCH Specialty   | LCHT | ALL  | The BTR-34 sector will descend aircraft landing the LCH Terminal Area to 11,000 feet and handoff the aircraft to Lake Charles TRACON |
+    | LCH Specialty   | D10 | ALL  | Do not shortcut beyond AEX |
+    | LFK Specialty   | D10 | ALL | Do not shortcut beyond AEX |
+    | LFK Specialty   | MSYT Departures Northwestbound | Requesting FL240+ | 1. Assign a heading that will parallel or diverge from the arrival route.<br>2. Climb the aircraft to FL230.<br>3. Enter a temporary altitude up to FL340, not exceeding requested altitude, to which climb can be approved.<br>4. Handoff to LFK specialty.<br>5. LFK specialty has control for climb to the temporary altitude displayed and for turns on course leaving FL180.<br>6. LFK specialty responsible for point-outs to TBD-70 sector. |
+    | LFK Specialty   | POET, LFTT, LCHT, SHVT, or MLUT | ALL  | AOB FL340  |
 
 ## 3. Oceanic Procedures
 ### 3-1. OCNE (72) & OCNW (79)
