@@ -281,7 +281,7 @@ See [Appendix 6](#a-6-ramp-entryexit-spots) for a visual diagram.
         | Atlantic | ATL | Signature | SIG |
 
 ### 2-6. Local Control
-### 2-6-1. General Duties
+#### 2-6-1. General Duties
 1. Be responsible for:
     1. Providing approved separation between all arrivals/departures, planned/unplanned missed approaches, and potential pullouts within IAH airspace.
     1. Movement of aircraft within the airspace depicted in [Appendix 1](#a-1-iah-airspace-maps).
