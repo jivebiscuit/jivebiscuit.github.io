@@ -214,16 +214,16 @@ Positions permitted to use P-ACP must be responsible for maintaining separation 
 
 1. Same Runway Procedures:
     1. IAH Local Control and I90 Controlling Sectors are responsible for initiating coordination required to accomplish an opposite direction arrival or departure.
-    2. The I90 Controlling Sector is responsible for applying the cutoff point between successive ODO arrivals.
-    3. All coordination concerning the ODO must be done via a recorded line and state “Opposite Direction.” Initial coordination must include call sign, type, and arrival or departure runway.
-    4. Do not allow opposite direction same runway operations with opposing traffic inside the cutoff point unless an emergency exists.
-    5. Once an ODO has been approved, any further operations from that runway must be verbally coordinated until the ODO is completed.
-    6. Arrival/Arrival: I90 must ensure the first arrival has crossed the runway threshold prior to the second aircraft reaching a 10-mile final.
-    7. Visual separation is not authorized for Same Runway ODO.
-2. Parallel Runway Procedures:
+    1. The I90 Controlling Sector is responsible for applying the cutoff point between successive ODO arrivals.
+    1. All coordination concerning the ODO must be done via a recorded line and state “Opposite Direction.” Initial coordination must include call sign, type, and arrival or departure runway.
+    1. Do not allow opposite direction same runway operations with opposing traffic inside the cutoff point unless an emergency exists.
+    1. Once an ODO has been approved, any further operations from that runway must be verbally coordinated until the ODO is completed.
+    1. Arrival/Arrival: I90 must ensure the first arrival has crossed the runway threshold prior to the second aircraft reaching a 10-mile final.
+    1. Visual separation is not authorized for Same Runway ODO.
+1. Parallel Runway Procedures:
     1. Arrivals to parallel runways:
         1. Simultaneous ODO Arrivals may be conducted to Parallel Runways, provided an aircraft executing a go-around or missed approach is issued a turn away from any opposing traffic when inside of the Cutoff Point to the runway.
-        2. Traffic advisories are not mandatory unless a missed approach or go around occurs.
+        1. Traffic advisories are not mandatory unless a missed approach or go around occurs.
 
 ## 3. Position Duties, Responsibilities & Maps
 ### 3-1. Departure North (M)

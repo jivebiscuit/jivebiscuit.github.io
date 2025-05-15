@@ -380,8 +380,7 @@ When a missed approach and/or go around occurs, the applicable Local control mus
     1. When ceilings are greater than 2,500 feet and visibility allows for visual observation of Runways 27/26L/26R arrival traffic at the FAF, the following runway pairings may be used independently:
         1. Departing 33L/R and landing 26R
         1. Departing 33L and landing 27
-        
-            When ceilings reduce to 2,500 feet or visibility prevents visual observation of Runways 27/26L/26R arrival traffic at the FAF, a straight west flow configuration must be utilized.
+    1. When ceilings reduce to 2,500 feet or visibility prevents visual observation of Runways 27/26L/26R arrival traffic at the FAF, a straight west flow configuration must be utilized.
 
     ??? info "Arrival Departure Window (ADW) Boxes"
         ![ADW Boxes](../assets/iah-sop1.png)
@@ -440,6 +439,7 @@ IAH is authorized use of I90 Airspace depicted in Area A, [Appendix 2](#a-2-i90-
                 
             ??? example
                 `"Opposite direction traffic landing runway (number), (type aircraft)."`
+                
                 `"Opposite direction traffic departing runway (number), (type aircraft)."`
 
 ## 3. Appendices
