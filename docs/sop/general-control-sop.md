@@ -36,37 +36,37 @@ This order is available in digital PDF format on the ZHU ARTCC website at https:
 Original issuance of this document, no cancellations required.
 
 #### 1-1-5. Explanation Of Changes
-- 5-1-3 Radar Identification Procedures simplified.
+5-1-3 Radar Identification Procedures simplified.
 
 #### 1-1-6. Responsibility
-a. The Virtual Houston ARTCC Air Traffic Manager is responsible for maintaining and updating the information contained in this order
-
-b. The Virtual Houston ARTCC Air Traffic Manager is responsible for notifying the VATUSA Southern Region Air Traffic Director of any necessary revisions to this order.
+1. The Virtual Houston ARTCC Air Traffic Manager is responsible for maintaining and updating the information contained in this order
+1. The Virtual Houston ARTCC Air Traffic Manager is responsible for notifying the VATUSA Southern Region Air Traffic Director of any necessary revisions to this order.
 
 ### 1-2. Position Opening & Closing
 #### 1-2-1. Opening A Position
 When opening a position, controllers shall take time before signing on to gather necessary information regarding weather, current airport or airspace statuses and configuration, and identify any existing ATC staffing that will be impacted by the opening of the position before activating their controller session in CRC.
 
 1. If assuming control of airspace or surface areas from another controller, controllers shall comply with the relief of an active position process as outlined in this section before assuming control.
-2. If no existing ATC is online, the controller may activate their session and assume control of applicable airspace and surface areas with no prior coordination.
+1. If no existing ATC is online, the controller may activate their session and assume control of applicable airspace and surface areas with no prior coordination.
 
 #### 1-2-2. Relief Of A Position
 When relieving or transferring control to another controller, a position relief briefing shall be obtained before the controller change is complete. Controllers being relieved of an active position must maintain operational control throughout the transfer of control process.
 
 1. Controllers relieving a tower cab position shall utilize the ATCT Position Relief checklist provided in Appendix 1 of this SOP.
-2. Controllers relieving a TRACON position shall utilize the TRACON Position Relief checklist provided in Appendix 2 of this SOP.
-3. Controllers shall strive to keep briefings concise while still complying with the required briefing items outlined in the later portions of this section. Relieving controllers shall also be aware of existing radio traffic when conducting briefings.
-4. Controllers shall use the applicable position relief checklist when relieving a position.
-5. Both the reliving controller and controller being relieved shall state “Your/My control” (Operating Initials)” when no further questions exist to finalize the transfer of control process.
-6. The controller being relieved shall remain online and monitor their frequency for at least two minutes if possible after the transfer of control unless otherwise noted below to make sure all pertinent information and traffic situations are communicated and understood.
-Note: This overlap monitoring period is only required if the airspace or area of the controller’s
-responsibility has any pre-existing aircraft connected.
+1. Controllers relieving a TRACON position shall utilize the TRACON Position Relief checklist provided in Appendix 2 of this SOP.
+1. Controllers shall strive to keep briefings concise while still complying with the required briefing items outlined in the later portions of this section. Relieving controllers shall also be aware of existing radio traffic when conducting briefings.
+1. Controllers shall use the applicable position relief checklist when relieving a position.
+1. Both the reliving controller and controller being relieved shall state `"Your/My control  (Operating Initials)"` when no further questions exist to finalize the transfer of control process.
+1. The controller being relieved shall remain online and monitor their frequency for at least two minutes if possible after the transfer of control unless otherwise noted below to make sure all pertinent information and traffic situations are communicated and understood.
+
+    !!! note
+        This overlap monitoring period is only required if the airspace or area of the controller’s responsibility has any pre-existing aircraft connected.
 
 #### 1-2-3. Closing A Position
 Controllers shall:
 
 1. Attempt to give at least a five-minute notice to surrounding controllers and pilots before closing a controller position if it will not be relieved by another controller.
-2. Perform general housekeeping of their flight strip bays by placing memory aids back under their appropriate rack and divider before signing offline.
+1. Perform general housekeeping of their flight strip bays by placing memory aids back under their appropriate rack and divider before signing offline.
 
 ### 1-2. Pilot Interactions
 #### 1-2-1. ZHU ARTCC Pilot Mission Statement
@@ -86,9 +86,9 @@ Controllers will utilize the following methods in counseling deficient pilots:
     ??? example
         “AAL1025 the previous clearance was to descend and maintain 5,000. I show you descending through 3,500. Please climb and maintain 5,000.”
 
-2. Send the pilot an appropriate ZHU ARTCC pilot help alias command (See the ZHU Alias Reference for more information).
-3. Constructively and professionally counsel the pilot via private messages during periods of low workload.
-4. As a final measure, pilots who continue to demonstrate a deficiency of skills or perform below the pilot standards outlined in the VATSIM Code of Conduct must be directed to the attention of a supervisor via a `.wallop` message and a brief description of the violation for further escalation.
+1. Send the pilot an appropriate ZHU ARTCC pilot help alias command (See the ZHU Alias Reference for more information).
+1. Constructively and professionally counsel the pilot via private messages during periods of low workload.
+1. As a final measure, pilots who continue to demonstrate a deficiency of skills or perform below the pilot standards outlined in the VATSIM Code of Conduct must be directed to the attention of a supervisor via a `.wallop` message and a brief description of the violation for further escalation.
 
     ??? example
         “`.wallop UAL123` is failing to maintain an assigned altitude and speed per VATSIM pilot competencies. They have already been warned twice.”
@@ -108,8 +108,8 @@ Control facilities that have a part-time control service shall be simulated open
 Controllers receiving a handoff from another ZHU controller have control as follows:
 
 1. Terminal to Terminal: Control for turns up to 45 degrees, climb departure aircraft, descend arriving aircraft, adjust airspeed on contact.
-2. Terminal to Enroute: Control for turns up to 45 degrees and climbs on contact.
-3. Enroute to Terminal: Control for turns up to 45 degrees and descents on contact.
+1. Terminal to Enroute: Control for turns up to 45 degrees and climbs on contact.
+1. Enroute to Terminal: Control for turns up to 45 degrees and descents on contact.
 
 ### 1-5. Midnight Operations
 #### 1-5-1. Procedure
@@ -131,8 +131,8 @@ Except for instructions contained in Appendix 3 or instructions required for sep
 Certified radar towers can use all forms of radar separation, and are responsible for applying separation between the following aircraft:
 
 1. IFR/IFR
-2. IFR/VFR, when required by airspace
-3. VFR/VFR, when required by airspace
+1. IFR/VFR, when required by airspace
+1. VFR/VFR, when required by airspace
 
 Certified radar towers are considered a radar position, and as such, can issue control instructions that a normal approach/departure position would.
 ??? abstract "List of Certified Radar Towers"
@@ -187,9 +187,9 @@ If the radar controller working a VFR aircraft assigns a runway, the runway shal
 ### 3-1. General
 #### 3-1-1. Usage Policy
 1. Controllers, regardless of online traffic levels, shall comply with all flight strip policies and procedures.
-2. Controllers may only utilize the flight strip bay that applies to their signed-on active controlling position, even when working a facility alone, to prevent confusion.
-3. Controllers shall NOT add/delete/modify flight progress bay dividers, as these are used and stored in a standardized manner.
-4. Controllers shall place any memory aids being used back into their correct positions before signing out of position. (Existing aircraft flight strips will be automatically deleted after 10 minutes)
+1. Controllers may only utilize the flight strip bay that applies to their signed-on active controlling position, even when working a facility alone, to prevent confusion.
+1. Controllers shall NOT add/delete/modify flight progress bay dividers, as these are used and stored in a standardized manner.
+1. Controllers shall place any memory aids being used back into their correct positions before signing out of position. (Existing aircraft flight strips will be automatically deleted after 10 minutes)
 
 #### 3-1-2. Tower Cab Usage
 The use of flight strips is mandatory for all tower cab positions including clearance delivery, ground, and local control. Controllers shall use the flight strip bay for the position they are currently connected as.
@@ -198,9 +198,9 @@ The use of flight strips is mandatory for all tower cab positions including clea
 Flight strip usage/marking in the approach control environment is mandatory for
 
 1. IFR overflight aircraft
-2. IFR satellite field departure aircraft
-3. Airports that currently have a clearance delivery and/or ground control staffed.
-4. All aircraft departing KIAH, KHOU, KAUS, KMSY, and KSAT.
+1. IFR satellite field departure aircraft
+1. Airports that currently have a clearance delivery and/or ground control staffed.
+1. All aircraft departing KIAH, KHOU, KAUS, KMSY, and KSAT.
 
 Approach controllers are also encouraged, but not required to utilize flight strips during high-traffic periods when providing top-down services alone to an airport(s) to aid in aircraft tracking and organization.
 
@@ -274,7 +274,7 @@ Flight strip usage when working enroute and fulfilling top-down control duties i
 - **White Separators**
     - **Clearance Delivery Separators:** Clearance delivery has two dividers that apply to their position responsibilities in their flight strip bay for tracking informing the rest of the ATCT members as required.
         1. TMIs - TMIs applicable to ZHU and the airport of control shall be tracked and indicated with a blank flight strip under this divider.
-        2. WX/Notes - Any notes related to airport operations, weather, and weather advisories shall be stored under the NOTES separator.
+        1. WX/Notes - Any notes related to airport operations, weather, and weather advisories shall be stored under the NOTES separator.
 
         ??? example "Example: Clearance Delivery Separators"
             ![Clearance Delivery Separators](../assets/general-sop12.png)
@@ -365,8 +365,8 @@ Flight strips can be passed internally within a facility such as an ATCT or TRAC
 The offsetting of flight strips is used as a visual reminder tool for controllers. Offsetting flight strips must be used when a specific aircraft is instructed to do any of the following:
 
 1. Issuance of a LUAW clearance (Local control)
-2. Issuance of a Takeoff clearance (Local control)
-3. Aircraft issued a runway crossing instruction (Ground control only). Re-center/Un-offset aircraft flight strip once aircraft has completed all approved runway crossings.
+1. Issuance of a Takeoff clearance (Local control)
+1. Aircraft issued a runway crossing instruction (Ground control only). Re-center/Un-offset aircraft flight strip once aircraft has completed all approved runway crossings.
 
 ??? example "Example: Offsetting Strips"
     N721CA was cleared for takeoff or cleared to LUAW on runway 5.
@@ -376,170 +376,170 @@ The offsetting of flight strips is used as a visual reminder tool for controller
 ### 4-1. Flight Data/Clearance Delivery (CD)
 
 1. Uses the facility’s primary clearance delivery frequency
-2. IAW FAA 7110.65: be the central source for collecting and disseminating SIGMET, AIRMET, CWA, PIREPs, NOTAMs, special information, and known observed weather that may affect aircraft safety to the appropriate tower position in a timely manner.
-3. Distribute and operate the airport’s vATIS broadcast. Consult with the CIC and/or local control to determine the airport’s active configuration to use.
-4. Prepare, update, and distribute flight strips for IFR and VFR departures.
-5. Create a Virtual NAS flight plan for VFR departures using the STARS tower display workstation (TDW) or the CRC flight plan editor to include a minimum of:
+1. IAW FAA 7110.65: be the central source for collecting and disseminating SIGMET, AIRMET, CWA, PIREPs, NOTAMs, special information, and known observed weather that may affect aircraft safety to the appropriate tower position in a timely manner.
+1. Distribute and operate the airport’s vATIS broadcast. Consult with the CIC and/or local control to determine the airport’s active configuration to use.
+1. Prepare, update, and distribute flight strips for IFR and VFR departures.
+1. Create a Virtual NAS flight plan for VFR departures using the STARS tower display workstation (TDW) or the CRC flight plan editor to include a minimum of:
     1. Aircraft destination
-    2. Type of aircraft
-6. Collect messages related to TMIs for retention and distribution.
-7. Ensure that departing aircraft have received applicable delay/TMI information, current ATIS, and the appropriate clearance.
-8. Issue clearances as applicable to IFR/SVFR/VFR aircraft departing the airport of control IAW Appendix 3 of this General SOP.
-9. Forward flight strips to GC after clearance has been issued.
-10. Update the facility’s Status Information Area (SIA) in the ZHU IDS
-11. Route aircraft in order of preference listed:
+    1. Type of aircraft
+1. Collect messages related to TMIs for retention and distribution.
+1. Ensure that departing aircraft have received applicable delay/TMI information, current ATIS, and the appropriate clearance.
+1. Issue clearances as applicable to IFR/SVFR/VFR aircraft departing the airport of control IAW Appendix 3 of this General SOP.
+1. Forward flight strips to GC after clearance has been issued.
+1. Update the facility’s Status Information Area (SIA) in the ZHU IDS
+1. Route aircraft in order of preference listed:
     1. Alias preferred route system
-    2. Appropriate SID
-    3. Clear the aircraft as filed
+    1. Appropriate SID
+    1. Clear the aircraft as filed
 
 ### 4-2. Ground Control (GC)
 
 1. Uses the facility’s primary ground control frequency
-2. Ensure that all departing aircraft have received the current ATIS or appropriate departure information and indicate so on their flight strip in the appropriate block.
-3. Actively monitor/control all aircraft and vehicles operating within the movement areas, coordinating with local control as necessary. Aircraft/vehicles that will operate on or near active runways may remain on GC frequency unless otherwise required by local control.
-4. Do not approve or disapprove pushback or engine start operations in non-movement areas, however, include the area in scanning and provide advisory services to aircraft conducting these operations.
-5. Coordinate with local control when an aircraft requests departure from a runway other than the actively indicated runway(s) or an intersection departure.
-6. Coordinate a departure time with the appropriate TMU facility when any proposed departure requires a release for traffic management reasons.
-7. Verbally inform local control of flow control or TMI restrictions on aircraft taxiing for departure prior to handing the aircraft off.
-8. Ensure that departure flight strips are placed at the local control position in a timely manner.
-9. Utilize arrival flight strips during periods of low visibility operations until aircraft are visually located or report reaching their desired airport parking location.
-10. Unless otherwise coordinated, instruct all aircraft to monitor the appropriate local control frequency when local is specifically staffed.
+1. Ensure that all departing aircraft have received the current ATIS or appropriate departure information and indicate so on their flight strip in the appropriate block.
+1. Actively monitor/control all aircraft and vehicles operating within the movement areas, coordinating with local control as necessary. Aircraft/vehicles that will operate on or near active runways may remain on GC frequency unless otherwise required by local control.
+1. Do not approve or disapprove pushback or engine start operations in non-movement areas, however, include the area in scanning and provide advisory services to aircraft conducting these operations.
+1. Coordinate with local control when an aircraft requests departure from a runway other than the actively indicated runway(s) or an intersection departure.
+1. Coordinate a departure time with the appropriate TMU facility when any proposed departure requires a release for traffic management reasons.
+1. Verbally inform local control of flow control or TMI restrictions on aircraft taxiing for departure prior to handing the aircraft off.
+1. Ensure that departure flight strips are placed at the local control position in a timely manner.
+1. Utilize arrival flight strips during periods of low visibility operations until aircraft are visually located or report reaching their desired airport parking location.
+1. Unless otherwise coordinated, instruct all aircraft to monitor the appropriate local control frequency when local is specifically staffed.
 
 ### 4-3. Local Control (LC)
 1. Uses the facility’s primary local control frequency
-2. Provide initial separation between successive departures.
-3. Provide ATC service for all aircraft operating in the airspace delegated to the position as depicted in Appendix 3.
-4. LC is authorized to use the tower display workstation (TDW) at applicable airports for radar functions provided that their responsibilities regarding aircraft operating on the runways or within the surface area are not impaired.
-5. Print and mark arrival flight strips during periods of low visibility operations
-6. Push arrival strips to ground control before transferring communications for non-ASDE-X equipped airports.
-7. When the radar is operational, provide initial separation (visual or radar) between successive departures and between departures and arrivals. Provide other appropriate radar services, i.e., traffic information, low altitude alerts, etc.
-8. Enter flight plan information with the proper discrete beacon code and prepare flight progress strips on aircraft that have requested VFR, SVFR, or IFR departure from a secondary airport within the local controller’s surface area.
-9. Advise appropriate radar/departure controller when visual separation will be provided between successive departures.
-10. Complete coordination with GC before allowing any arriving or departing helicopter to overfly, depart, or land on a taxiway.
-11. Obtain a release on any IFR, SVFR, or VFR aircraft departing the airport when automatic releases are not in effect.
-12. Actively monitor/control all aircraft and vehicles operating within the applicable movement areas.
+1. Provide initial separation between successive departures.
+1. Provide ATC service for all aircraft operating in the airspace delegated to the position as depicted in Appendix 3.
+1. LC is authorized to use the tower display workstation (TDW) at applicable airports for radar functions provided that their responsibilities regarding aircraft operating on the runways or within the surface area are not impaired.
+1. Print and mark arrival flight strips during periods of low visibility operations
+1. Push arrival strips to ground control before transferring communications for non-ASDE-X equipped airports.
+1. When the radar is operational, provide initial separation (visual or radar) between successive departures and between departures and arrivals. Provide other appropriate radar services, i.e., traffic information, low altitude alerts, etc.
+1. Enter flight plan information with the proper discrete beacon code and prepare flight progress strips on aircraft that have requested VFR, SVFR, or IFR departure from a secondary airport within the local controller’s surface area.
+1. Advise appropriate radar/departure controller when visual separation will be provided between successive departures.
+1. Complete coordination with GC before allowing any arriving or departing helicopter to overfly, depart, or land on a taxiway.
+1. Obtain a release on any IFR, SVFR, or VFR aircraft departing the airport when automatic releases are not in effect.
+1. Actively monitor/control all aircraft and vehicles operating within the applicable movement areas.
 
 ## 5. Internal LOAs
 ### 5-1. Tower-TRACON LOA
 #### 5-1-1. Definitions
 1. Up-down airports are those airports where the ATCT and TRACON are physically co-located at the same facility. (e.g. CRP, MSY)
-2. Non-up-down airports are those airports where the tower and overlying radar controllers are not physically located at the same facilities. (e.g. HRL, NEW)
+1. Non-up-down airports are those airports where the tower and overlying radar controllers are not physically located at the same facilities. (e.g. HRL, NEW)
 
 #### 5-1-2. Releases
 1. At up-down airports, all aircraft shall automatically be released so long as the aircraft departs on the primary departure runway(s) on standard headings/altitudes.
-2. At non-up-down airports, the local controller shall request a release for each individual IFR aircraft. VFR aircraft shall automatically be released on course without altitude restrictions unless otherwise specified by Appendix 3.
+1. At non-up-down airports, the local controller shall request a release for each individual IFR aircraft. VFR aircraft shall automatically be released on course without altitude restrictions unless otherwise specified by Appendix 3.
     1. When requesting release, the coordination must include at least the following information:
         1. The phrase `Request release`.
-        2. The aircraft’s callsign.
-        3. The departure runway.
-    2. If the overlying controller does not specify a heading or altitude in the release, the aircraft shall be released according to the standard IFR climb-out instruction in Appendix 3.
-    3. Releases are valid for 3 minutes.
-    4. If the IFR climbout instruction in Appendix 3 states “As coordinated,” initially clear the aircraft as filed and maintain 3,000. Request release from the overlying controller and issue the heading/altitude coordinated with the takeoff clearance.
+        1. The aircraft’s callsign.
+        1. The departure runway.
+    1. If the overlying controller does not specify a heading or altitude in the release, the aircaft shall be released according to the standard IFR climb-out instruction in Appendix 3.
+    1. Releases are valid for 3 minutes.
+    1. If the IFR climbout instruction in Appendix 3 states “As coordinated,” initially clear the aircraft as filed and maintain 3,000. Request release from the overlying controller and issue the heading/altitude coordinated with the takeoff clearance.
 
 #### 5-1-3. Radar Identification Procedures
 1. Certified Radar Towers:
     1. The local controller shall radar identify, start a track, and handoff all departures to the appropriate overlying radar position.
-    2. The overlying radar position shall be responsible for informing the pilot that they are “Radar contact,” not the tower.
-    3. The overlying radar position shall not auto-track the airport when local is staffed.
-    4. VFR aircraft remaining in the pattern or requesting “Negative radar service” shall be tracked by the tower, but not informed that they are `Radar contact`.
-2. All Other Towers:
+    1. The overlying radar position shall be responsible for informing the pilot that they are “Radar contact,” not the tower.
+    1. The overlying radar position shall not auto-track the airport when local is staffed.
+    1. VFR aircraft remaining in the pattern or requesting “Negative radar service” shall be tracked by the tower, but not informed that they are `Radar contact`.
+1. All Other Towers:
     1. Rolling calls for departing aircraft shall not be given. Departures shall be radar-identified by the overlying radar controller using the “Ident” feature or other approved methods.
 
 #### 5-1-4. Arrival Procedures
 1. Certified Radar Towers:
     1. Arrivals (IFR or VFR) shall not be radar handed off to the tower. The local controller shall utilize the STARS quick-look function to receive an aircraft’s arrival information. The arrival shall be considered coordinated so long as the scratchpad entry is correct and up-to-date (If applicable).
-    2. Planned missed approaches must be verbally coordinated with the tower.
-    3. VFR aircraft shall be sequenced to the airport with other IFR/VFR traffic, as necessary. Any pattern entry instructions must be coordinated with the tower.
-    4. If a VFR arrival calls the tower directly, the local controller shall radar identify the aircraft, but not use the phrase `Radar Contact.` The local controller may elect to send the VFR aircraft to approach control for sequencing to the airport in high-traffic volume scenarios.
-2. All Other Towers:
+    1. Planned missed approaches must be verbally coordinated with the tower.
+    1. VFR aircraft shall be sequenced to the airport with other IFR/VFR traffic, as necessary. Any pattern entry instructions must be coordinated with the tower.
+    1. If a VFR arrival calls the tower directly, the local controller shall radar identify the aircraft, but not use the phrase `Radar Contact.` The local controller may elect to send the VFR aircraft to approach control for sequencing to the airport in high-traffic volume scenarios.
+1. All Other Towers:
     1. IFR arrival information shall be coordinated via the FIDO-generated arrival fight strip. The type of instrument approach must be verbally coordinated if different than the ATIS advertised approach, or if multiple approaches/runways are being advertised.
-    2. Planned missed approaches must be verbally coordinated with the tower.
-    3. VFR arrival aircraft shall be told `Radar service terminated, squawk VFR, contact (facility) tower (frequency)` no later than 10 flying miles from the airport.
-    4. When controlling LRD or VCT, inform ZHU when an IFR arrival has landed: `N123AB arrived at 1322Z`.
+    1. Planned missed approaches must be verbally coordinated with the tower.
+    1. VFR arrival aircraft shall be told `Radar service terminated, squawk VFR, contact (facility) tower (frequency)` no later than 10 flying miles from the airport.
+    1. When controlling LRD or VCT, inform ZHU when an IFR arrival has landed: `N123AB arrived at 1322Z`.
 
 #### 5-1-5. Go Around Aircraft
 Go-Arounds shall be handled in the order of preference listed below:
 
 1. As specified in the facility SOP or LOA.
-2. Give the standard initial IFR departure heading/altitude assignment in Appendix 3.
-3. Instruct the aircraft to fly the published missed approach.
-4. If on a visual approach, instruct the aircraft to enter the traffic pattern.
+1. Give the standard initial IFR departure heading/altitude assignment in Appendix 3.
+1. Instruct the aircraft to fly the published missed approach.
+1. If on a visual approach, instruct the aircraft to enter the traffic pattern.
 
 ### 5-2. TRACON-TRACON LOA
 #### 5-2-1. Procedures
 1. Departure aircraft shall be on their filed flight plan route at or climbing to an altitude correct for the direction of flight.
-2. Arrival aircraft shall be on a STAR or direct destination airport at or descending to an altitude correct for the direction of flight.
-3. Overflight aircraft shall be on their filed flight plan route at an altitude correct for the direction of flight.
+1. Arrival aircraft shall be on a STAR or direct destination airport at or descending to an altitude correct for the direction of flight.
+1. Overflight aircraft shall be on their filed flight plan route at an altitude correct for the direction of flight.
 
 ### 5-3. TRACON-ZHU LOA
 #### 5-3-1. Procedures
 1. Departure aircraft shall be established on their filed flight plan route at or climbing to the top altitude of the TRACON. If the aircraft’s requested altitude is lower than the top altitude of the TRACON, the aircraft shall be at or climbing to an altitude correct for direction of flight.
-2. Arrival aircraft shall be routed via direct destination, descending to an altitude 1,000ft above the top altitude of the TRACON. If the aircraft is below this altitude, they shall be established at a correct altitude for direction of flight.
-3. Overflight aircraft shall be on their filed flight plan route at an altitude correct for the direction of flight.
+1. Arrival aircraft shall be routed via direct destination, descending to an altitude 1,000ft above the top altitude of the TRACON. If the aircraft is below this altitude, they shall be established at a correct altitude for direction of flight.
+1. Overflight aircraft shall be on their filed flight plan route at an altitude correct for the direction of flight.
 
 ## Appendices
 
 ### A-1. ATCT Position Briefing Checklist
 ??? abstract "ATCT Position Briefing Checklist"
     1. Status information areas (can be self-briefed if indicated so by relieving controller).
-    2. Current applicable NOTAMS (simulated or not).
-    3. Weather conditions.
+    1. Current applicable NOTAMS (simulated or not).
+    1. Weather conditions.
         1. Current general weather conditions (VFR/MVFR/IFR/LIFR)
-        2. PIREP’s.
-        3. SIGMET’s/CWA’s.
-        4. Trends.
-        5. RVR. (if less than 6000 ft.)
-    4. Current Traffic Management Initiatives (if applicable).
-    5. Airport conditions.
+        1. PIREP’s.
+        1. SIGMET’s/CWA’s.
+        1. Trends.
+        1. RVR. (if less than 6000 ft.)
+    1. Current Traffic Management Initiatives (if applicable).
+    1. Airport conditions.
         1. Airspace.
-        2. Runway configuration.
+        1. Runway configuration.
             1. LAHSO operations (KIAH only)
-    6. Equipment.
+    1. Equipment.
         1. STARS/Radar (if applicable).
-        2. ASDE-X (if applicable).
-    7. Airport activities.
+        1. ASDE-X (if applicable).
+    1. Airport activities.
         1. Restrictions/closures (if being simulated).
-    8. Special activities. (Live training in progress, TFRs, etc.)
-    9. Handwritten notes (Half strips). Abnormal Items.
-    10. Runway status.
+    1. Special activities. (Live training in progress, TFRs, etc.)
+    1. Handwritten notes (Half strips). Abnormal Items.
+    1. Runway status.
         1. Closed.
-        2. Unavailable.
-        3. Occupied.
-    11. LUAW Status. (In use, prohibited, etc.)
-    12. Traffic.
+        1. Unavailable.
+        1. Occupied.
+    1. LUAW Status. (In use, prohibited, etc.)
+    1. Traffic.
         1. IFR/VFR/SFVR Clearances (if covering clearance delivery duties).
-        2. Taxiing (if covering ground control duties)
-        3. Actively departing, arriving, and over-flight aircraft (if covering local control duties)
+        1. Taxiing (if covering ground control duties)
+        1. Actively departing, arriving, and over-flight aircraft (if covering local control duties)
 
 ### A-2. TRACON Position Briefing Checklist
 ??? abstract "TRACON Position Briefing Checklist"
     1. Status information areas (can be self-briefed if indicated so by relieving controller).
-    2. Current applicable NOTAMS (simulated or not).
-    3. Weather conditions.
+    1. Current applicable NOTAMS (simulated or not).
+    1. Weather conditions.
         1. Current general weather conditions (VFR/MVFR/IFR/LIFR)
-        2. PIREP’s.
-        3. SIGMET’s/CWA’s.
-        4. Trends.
-        5. RVR. (if less than 6000 ft.)
-    4. Airspace/Runway configuration.
-    5. Equipment.
+        1. PIREP’s.
+        1. SIGMET’s/CWA’s.
+        1. Trends.
+        1. RVR. (if less than 6000 ft.)
+    1. Airspace/Runway configuration.
+    1. Equipment.
         1. Navigational Aids (NAVAIDS) out of service (if simulated).
-        2. ASDE-X/TDW status (if applicable).
-    6. Airport activities.
+        1. ASDE-X/TDW status (if applicable).
+    1. Airport activities.
         1. Restrictions/closures (if being simulated).
-    7. Traffic Management Initiatives
-    8. Special activities. (Live training in progress, TFRs, PAJA, etc.)
-    9. Handwritten notes (Half strips). Abnormal Items.
-    10. Satellite releases.
-    11. Traffic.
+    1. Traffic Management Initiatives
+    1. Special activities. (Live training in progress, TFRs, PAJA, etc.)
+    1. Handwritten notes (Half strips). Abnormal Items.
+    1. Satellite releases.
+    1. Traffic.
         1. Special activity aircraft.
-        2. Point-out aircraft.
-        3. Holding aircraft.
-        4. Aircraft handed off, but still in airspace.
-        5. Aircraft released but not yet airborne.
-        6. VFR advisory aircraft.
-        7. Aircraft standing by for service.
-        8. Coordination agreements with other positions.
+        1. Point-out aircraft.
+        1. Holding aircraft.
+        1 Aircraft handed off, but still in airspace.
+        1. Aircraft released but not yet airborne.
+        1. VFR advisory aircraft.
+        1. Aircraft standing by for service.
+        1. Coordination agreements with other positions.
 
 ### A-3. ATCT Operations Reference Table
 ??? abstract "ATCT Operations Reference Table"
