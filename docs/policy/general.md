@@ -36,9 +36,8 @@ This policy cancels Houston ARTCC General Policy 001 Revision 10 upon release.
 The addition of the Online controller contactability policy was added in Chapter 2 requiring controllers to actively be on the ZHU Discord when controlling. The LOA leave and return currency requirements were overhauled and into a prorated system. This includes the General and Tier 1 Currency controlling activity requirements. Finally, minor changes were made to spelling, grammar, formatting, references to the ZHU ARTCC domain and old links were updated.
 
 #### 1-1-6. Responsibility
-a. The Virtual Houston ARTCC Air Traffic Manager is responsible for maintaining and updating the information contained in this order.
-
-b. The Virtual Houston ARTCC Air Traffic Manager is responsible for notifying the VATUSA Deputy Division Director, Air Traffic Services of any necessary revisions to this order.
+1. The Virtual Houston ARTCC Air Traffic Manager is responsible for maintaining and updating the information contained in this order.
+1. The Virtual Houston ARTCC Air Traffic Manager is responsible for notifying the VATUSA Deputy Division Director, Air Traffic Services of any necessary revisions to this order.
 
 ??? note "Abbreviations"
     | Abbreviations | |
@@ -188,8 +187,8 @@ Reinstated and transferring controllers, even if previously endorsed on any VATU
 #### 3-5-3. Reinstated Controller Tier 1 & Tier 2 Qualifications
 Reinstated ZHU home and visiting controllers may be fast-tracked in re-earning their Tier 1 and Tier 2 endorsements at the discretion of the ZHU Training Department TA. Candidates for this re-endorsement fast-track approach must satisfy the following points:
 
-- Have previously had relatively significant levels of experience within the tiered position they are being endorsed at the discretion of the ZHU ARTCC TA.
-- Must have been less than one (1) calendar year since the controller left or was removed from the ZHU ARTCC. 
+1. Have previously had relatively significant levels of experience within the tiered position they are being endorsed at the discretion of the ZHU ARTCC TA.
+1. Must have been less than one (1) calendar year since the controller left or was removed from the ZHU ARTCC. 
 
 Candidates who fail to meet all of the above fast-track endorsement requirements must undergo complete Tier 1 and Tier 2 endorsement training.
 
@@ -197,6 +196,7 @@ Candidates who fail to meet all of the above fast-track endorsement requirements
 ### 4-1. General
 #### 4-1-1. Website
 The ZHU website shall be considered a primary communications mechanism. All official communications or distributions sent by other means shall be made available by the website if practical. The current ZHU ARTCC ATM shall be the custodian of the website and ZHU ARTCC official domain. Controllers are expected to periodically visit, review, and acknowledge any pending policy or operational changes when prompted as a formal means of acknowledging compliance with updates in policies, procedures, agreements, and references on the ZHU ARTCC website.
+
 #### 4-1-2. Email
 Email shall be considered a primary communication mechanism between ZHU ARTCC controllers and ZHU ARTCC staff members. ZHU ARTCC staff members shall make available their VATSIM registered email forwarding address (Example: `zhu-atm@vatusa.net`) for official communications. ZHU may issue individual email addresses to members with a demonstrated need.
 
@@ -221,38 +221,31 @@ Controllers may momentarily disconnect from the ZHU TeamSpeak if needed to coord
 #### 4-3-1. ZHU ARTCC Social Media/Discord/Teamspeak Policy
 The members of ZHU ARTCC are expected to act in the highest regard. This includes candor, professional integrity, etc. While we like to have fun and enjoy ourselves, it's important to remember that we need to remain respectful of all individuals. Members must be respectful of others, regardless of any background, including sexual orientation, gender identification, etc.
 
-a. All VATSIM CoC, CoR, User Agreement, and VATUSA policies shall be enforced. All violations shall be reported to the ZHU ARTCC ATM.
-
-b. The ATM shall determine the proper action for any behavioral violation
-
-c. ZHU holds a zero-tolerance policy for any hate speech.
-
-d. Any incidents shall result in the revocation of controlling privileges, and ZHU ARTCC social media platform permissions, and shall meet with the ATM and DATM for immediate counseling.
-
-e. Any offense of this nature may result in immediate termination from the ZHU ARTCC roster in conjunction with VATUSA DP001 with referrals made to the VATSIM Supervisor Department.
+1. All VATSIM CoC, CoR, User Agreement, and VATUSA policies shall be enforced. All violations shall be reported to the ZHU ARTCC ATM.
+1. The ATM shall determine the proper action for any behavioral violation
+1. ZHU holds a zero-tolerance policy for any hate speech.
+1. Any incidents shall result in the revocation of controlling privileges, and ZHU ARTCC social media platform permissions, and shall meet with the ATM and DATM for immediate counseling.
+1. Any offense of this nature may result in immediate termination from the ZHU ARTCC roster in conjunction with VATUSA DP001 with referrals made to the VATSIM Supervisor Department.
 
 **Prohibited behavior includes:**
 
 1. Threats, bullying, harassment, or any violation of VATSIM CoC, CoR, or any ZHU Policies.
-2. Disruptive behavior includes, but is not limited to spamming in chat, excessive poking,
-excessive channel switching, soundboard usage in Flying, Controlling, Streaming, and Lobby channels, and excessive pinging.
-3. Recording (or distribution thereof) or streaming the Teamspeak or Discord audio (including Twitch streams).
-4. Illegal activities
-5. Unauthorized bots
-6. Attempting to subvert the security, integrity, and/or permissions system of the Teamspeak or Discord server.
-7. Utilizing the ZHU Discord via text or voice channels during a disciplinary ban.
-8. Attempting to circumvent a disciplinary timeout/ban via a separate account.
+1. Disruptive behavior includes, but is not limited to spamming in chat, excessive poking, excessive channel switching, soundboard usage in Flying, Controlling, Streaming, and Lobby channels, and excessive pinging.
+1. Recording (or distribution thereof) or streaming the Teamspeak or Discord audio (including Twitch streams).
+1. Illegal activities
+1. Unauthorized bots
+1. Attempting to subvert the security, integrity, and/or permissions system of the Teamspeak or Discord server.
+1. Utilizing the ZHU Discord via text or voice channels during a disciplinary ban.
+1. Attempting to circumvent a disciplinary timeout/ban via a separate account.
 
 #### 4-3-2. Social Media Platform Channel Usage
 Controlling or flying channels are designed for those currently controlling or flying on the VATSIM network only. The use of these channels comes with the expectation of:
 
-a. The ability to concentrate on controlling or flying, regardless of traffic volume.
+1. The ability to concentrate on controlling or flying, regardless of traffic volume.
+1. The ability to coordinate with other controllers or fellow pilots without delay, audio obstruction, or the need to move channels.
+1. The absence of distractions is not directly related to network operations.
 
-b. The ability to coordinate with other controllers or fellow pilots without delay, audio obstruction, or the need to move channels.
-
-c. The absence of distractions is not directly related to network operations.
-
-#### 4-3-3. ZHU ARTCC DISCORD
+#### 4-3-3. ZHU ARTCC Discord
 The ZHU ARTCC utilizes an official ZHU ARTCC Discord server for community text communications, meetings, and other various ARTCC and community related activities. Access to ZHU’s Discord server is a privilege. Members are assigned their complete name (as registered with VATSIM) as their nickname on the Discord server and must link their VATUSA account with their Discord profile per Welcome Channel instructions. This is done to ensure proper synchronization of server roles and display names can be done automatically. Controllers wishing to use another name than their VATSIM registered name must request from the ZHU ARTCC staff to be given specific Discord server permissions to utilize their desired nickname.
 
 Controllers should monitor the Discord chats whenever practical as ARTCC information is quickly disseminated via Discord. Discord voice communication will be utilized during training sessions and for general correspondence of ARTCC matters. Discord screen-sharing may also be utilized during training sessions.
@@ -274,26 +267,26 @@ Reports To: VATUSA Deputy Director - Air Traffic Services
 Responsible For: Managing the assigned ARTCC, including but not limited to the following duties:
 
 1. Execute division objectives in their assigned ARTCC
-2. Oversee all aspects of the ARTCC
-3. Ensure ARTCC culture is aligned with the VATSIM Code of Conduct and division standards
-4. Address disciplinary issues with the Deputy Director - Air Traffic Services
-5. Manage and oversee the Deputy Air Traffic Manager
-6. Conduct interviews for Deputy Air Traffic Manager vacancies and send a nominee to the Deputy Director - Air Traffic Services for approval
-7. Manage and oversee the Training Administrator, in collaboration with the Deputy Director - Air Traffic Services.
-8. Conduct interviews for Training Administrator vacancies and send a nominee to the Deputy Director of Training Services for approval
-9. Interview and hire Junior Staff members as necessary
-10. Maintain facility website and other communication channels (such as Discord, TeamSpeak, and Social Media)
-11. Maintain the ARTCC controlling roster, and handle visiting and transfer requests per this policy
-12. Develop and maintain ARTCC SOPs and LOAs
-13. Ensure ARTCC SOPs, LOAs, and other documents are accessible by all VATSIM members upon login
-14. Maintain an online presence on the VATSIM network and within their ARTCC
-15. Provide guidance and assistance to ARTCC controllers and visitors
-16. Collaborate with the division on events
-17. Attend meetings as required by the Deputy Director - Air Traffic Services
-18. Conduct ARTCC Staff meetings as necessary
-19. Manage and oversee Junior Staff and their departments
-20. Delegate responsibilities to ARTCC staff as appropriate
-21. Assume responsibilities of Senior Staff positions in the event of a vacancy
+1. Oversee all aspects of the ARTCC
+1. Ensure ARTCC culture is aligned with the VATSIM Code of Conduct and division standards
+1. Address disciplinary issues with the Deputy Director - Air Traffic Services
+1. Manage and oversee the Deputy Air Traffic Manager
+1. Conduct interviews for Deputy Air Traffic Manager vacancies and send a nominee to the Deputy Director - Air Traffic Services for approval
+1. Manage and oversee the Training Administrator, in collaboration with the Deputy Director - Air Traffic Services.
+1. Conduct interviews for Training Administrator vacancies and send a nominee to the Deputy Director of Training Services for approval
+1. Interview and hire Junior Staff members as necessary
+1. Maintain facility website and other communication channels (such as Discord, TeamSpeak, and Social Media)
+1. Maintain the ARTCC controlling roster, and handle visiting and transfer requests per this policy
+1. Develop and maintain ARTCC SOPs and LOAs
+1. Ensure ARTCC SOPs, LOAs, and other documents are accessible by all VATSIM members upon login
+1. Maintain an online presence on the VATSIM network and within their ARTCC
+1. Provide guidance and assistance to ARTCC controllers and visitors
+1. Collaborate with the division on events
+1. Attend meetings as required by the Deputy Director - Air Traffic Services
+1. Conduct ARTCC Staff meetings as necessary
+1. Manage and oversee Junior Staff and their departments
+1. Delegate responsibilities to ARTCC staff as appropriate
+1. Assume responsibilities of Senior Staff positions in the event of a vacancy
 
 #### 5-1-2. Deputy Air Traffic Manager (DATM)
 Reports To: ZHU Air Traffic Manager
@@ -301,14 +294,14 @@ Reports To: ZHU Air Traffic Manager
 Responsible For: Managing the assigned ARTCC, including but not limited to the following duties:
 
 1. Execute division objectives in their assigned ARTCC
-2. Act on behalf of the ATM as directed by the ATM or Deputy Director - Air Traffic Services
-3. Assume responsibility for Junior Staff positions in the event of a vacancy
-4. Ensure ARTCC culture is aligned with the VATSIM Code of Conduct and division standards
-5. Address disciplinary issues with the Deputy Director - Air Traffic Services
-6. Ensure ARTCC SOPs, LOAs, and other documents are accessible by all VATSIM members upon login
-7. Maintain an online presence on the VATSIM network and within their ARTCC
-8. Attend meetings as required by the Deputy Director - Air Traffic Services
-9. Other duties as defined by ARTCC policy or assigned by the ATM
+1. Act on behalf of the ATM as directed by the ATM or Deputy Director - Air Traffic Services
+1. Assume responsibility for Junior Staff positions in the event of a vacancy
+1. Ensure ARTCC culture is aligned with the VATSIM Code of Conduct and division standards
+1. Address disciplinary issues with the Deputy Director - Air Traffic Services
+1. Ensure ARTCC SOPs, LOAs, and other documents are accessible by all VATSIM members upon login
+1. Maintain an online presence on the VATSIM network and within their ARTCC
+1. Attend meetings as required by the Deputy Director - Air Traffic Services
+1. Other duties as defined by ARTCC policy or assigned by the ATM
 
 #### 5-1-3. Training Administrator (TA)
 Reports To: ZHU Air Traffic Manager and Deputy Director - Training Services
@@ -316,18 +309,18 @@ Reports To: ZHU Air Traffic Manager and Deputy Director - Training Services
 Responsible For: Managing the training program for their assigned ARTCC, including but not limited to the following duties:
 
 1. Create and maintain ARTCC Training Policy.
-2. Create, develop, and maintain the ARTCC training program.
-3. Communicate regularly with the VATUSA training department
-4. Maintain a staff of mentors.
-5. Nominate I1 candidates to the VATUSA training department per training policy
-6. Provide guidance and assistance to home controllers and visitors
-7. Maintain an online presence on the VATSIM network and within their ARTCC
-8. Manage and oversee the ARTCC training department
-9. Ensure high-quality ARTCC training is created and conducted per VATUSA and VATSIM standards
-10. Create and maintain an enjoyable and comfortable learning environment to ensure student success
-11. Meet training objectives and satisfy division requirements
-12. Escalate to Training Services Manager and Deputy Director - Training Services as necessary
-13. Collaborate with other Training Administrators to establish and meet division training goals and standards
+1. Create, develop, and maintain the ARTCC training program.
+1. Communicate regularly with the VATUSA training department
+1. Maintain a staff of mentors.
+1. Nominate I1 candidates to the VATUSA training department per training policy
+1. Provide guidance and assistance to home controllers and visitors
+1. Maintain an online presence on the VATSIM network and within their ARTCC
+1. Manage and oversee the ARTCC training department
+1. Ensure high-quality ARTCC training is created and conducted per VATUSA and VATSIM standards
+1. Create and maintain an enjoyable and comfortable learning environment to ensure student success
+1. Meet training objectives and satisfy division requirements
+1. Escalate to Training Services Manager and Deputy Director - Training Services as necessary
+1. Collaborate with other Training Administrators to establish and meet division training goals and standards
 
 ### 5-2. Junior Staff
 #### 5-2-1. Events Coordinator (EC)
@@ -336,9 +329,9 @@ Reports To: ZHU Air Traffic Manager
 Responsible For: Overseeing and operating the ARTCC events department in the following manners, but not limited to:
 
 1. Applying and executing the ARTCC’s events policy in good faith
-2. Creating, scheduling, and executing event programming internally for the ARTCC
-3. Creating, scheduling, and executing event programming externally for the ARTCC
-4. Soliciting and campaigning for large-scale VATSIM event selections such as Cross the Pond
+1. Creating, scheduling, and executing event programming internally for the ARTCC
+1. Creating, scheduling, and executing event programming externally for the ARTCC
+1. Soliciting and campaigning for large-scale VATSIM event selections such as Cross the Pond
 
 #### 5-2-2. Facilities Engineer (FE)
 Reports To: ZHU Air Traffic Manager
@@ -346,13 +339,13 @@ Reports To: ZHU Air Traffic Manager
 Responsible For: Playing an ancillary role in managing, creating, maintaining, and overseeing technical aspects of the various controller platform media, programs, and systems, including but not limited to:
 
 1. vNAS Data Admin and all associated functions
-2. CRC controller software, maps, and automation.
-3. ATIS software
-4. vSTRIPS software
-5. vTDLS software
-6. Updating supporting ARTCC documentation that supports the use of the various approved controller tools used to control the network
-7. Updating controller software tools utilized for controlling on a regular and on-demand basis
-8. Providing support and bug resolution for ARTCC controllers concerning the various software tools and mediums utilized by controllers on the network
+1. CRC controller software, maps, and automation.
+1. ATIS software
+1. vSTRIPS software
+1. vTDLS software
+1. Updating supporting ARTCC documentation that supports the use of the various approved controller tools used to control the network
+1. Updating controller software tools utilized for controlling on a regular and on-demand basis
+1. Providing support and bug resolution for ARTCC controllers concerning the various software tools and mediums utilized by controllers on the network
 
 #### 5-2-3. Web Master (WM)
 Reports To: ZHU Air Traffic Manager

@@ -45,10 +45,10 @@ All ZHU ARTCC members wishing to become an assistant events coordinator (AEC) in
 #### 2-2-2. AEC Applicant Requirements
 To become an AEC in the ZHU ARTCC Events Department, applicants must meet the following criteria.
 1. Be a home controller at the ZHU ARTCC
-2. Hold the controller rating of S3 and all ZHU Tier 1 and 2 endorsements
-3. Have no history of disciplinary action
-4. Demonstrate a professional and hard work ethic
-5. Have a demonstrated skill set that can be of benefit to the ZHU ARTCC Events Department. Examples of beneficial skill sets include graphic design, video production,
+1. Hold the controller rating of S3 and all ZHU Tier 1 and 2 endorsements
+1. Have no history of disciplinary action
+1. Demonstrate a professional and hard work ethic
+1. Have a demonstrated skill set that can be of benefit to the ZHU ARTCC Events Department. Examples of beneficial skill sets include graphic design, video production,
 and event planning or management experience in any capacity.
 
 !!! note
@@ -60,19 +60,19 @@ Applicant requirements for generic events team positions, such as graphic design
 **Graphic Design Team**
 
 1. Experience with graphic design using applications such as, but not limited to, Photoshop, Lightroom, PIXLR, or Illustrator.
-2. Able to work with deadlines
-3. Able to work well in a team setting
-4. Hold the controller rating of S1
+1. Able to work with deadlines
+1. Able to work well in a team setting
+1. Hold the controller rating of S1
 
 **CIC Team**
 
 1. Must hold the controller rating of S2
-2. Must have completed the HATS training course for CIC
+1. Must have completed the HATS training course for CIC
 
 **TMU Team**
 
 1. Must hold the controller rating of S3
-2. Must have completed any required VATUSA training courses for TMU
+1. Must have completed any required VATUSA training courses for TMU
 
 ### 2-3. Personnel Selection Process
 All interviews will be done via Discord voice call. Applicants with prior event staff experience may be asked to provide a letter of recommendation from their previous events department coordinator.
@@ -116,6 +116,7 @@ Applicants for the TMU Team must email the ZHU EC at `ZHU-EC@vatusa.net` and inc
 ## 3. Event Operations
 ### 3-1. Event Classification
 VATSIM events may vary widely in scope, type, application, and nature that controller staffing is requested or required. Events have been designated into a scale system that better aligns the events department with what staffing resources may be required to fulfill the needs of each event.
+
 #### 3-1-1. Large-Scale Events
 ZHU home Friday Night Operations (FNO), Cross the Pond, solo ARTCC featured weekend events, ZFW ARTCC D10 TRACON major events.
 
@@ -193,7 +194,7 @@ A request for ATC coverage per this policy is not a guarantee of coverage. Based
 The Houston ARTCC supporting events policy was created to ensure that Houston’s neighbors can be able to receive ample support staffing from our controllers. Houston has nine neighboring ARTCCs and FIRs that they must support in addition to hosting ZHU ARTCC home events which can quickly result in an over-saturated events calendar with little to no relief resulting in controller and event burnout. ARTCCs requesting support staffing will have solicited supporting event sign-ups only if the neighboring ARTCC event:
 
 1. Takes place within ZHU’s support event service volume.
-2. Neighboring ARTCC has not exceeded more than two support event staffing requests in a rolling thirty-day period.
+1. Neighboring ARTCC has not exceeded more than two support event staffing requests in a rolling thirty-day period.
 
 !!! note
     Exceptions may be made at the EC’s discretion for major events such as Cross the Pond, live format events, and other recurrent network flying events.
