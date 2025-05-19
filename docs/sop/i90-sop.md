@@ -137,7 +137,7 @@ The first controller to work an aircraft that will land at an airport inside the
         | IAH | West | TEJAS | 27<br>26R<br>26L | 6,000<br>6,000<br>6,000 |
         | IAH | East | HTOWN | 8R<br>**9**<br>**8L** | 7,000<br>**6,000**<br>**6,000** |
         | IAH | West | DUUUK<br>(Conv) | **27**<br>**26L**<br>**26R** | **6,000**<br>**6,000**<br>**6,000** |
-        | IAH | East | DUUUK | 8R<br>9<br>8L | **7,000**<br>**6,000**<br>**6,000** |
+        | IAH | East | DUUUK<br>(Conv) | **8R**<br>**9**<br>**8L** | **7,000**<br>**6,000**<br>**6,000** |
         | HOU | All | KIDDZ | 13R<br>4<br>22<br>31L| 6,000<br>6,000<br>6,000<br>6,000 |
         | HOU | All | BELLR | 13R<br>4<br>22<br>31L| 6,000<br>6,000<br>6,000<br>6,000 |
         | HOU | All | SNIFY<br>(Conv) | **13R**<br>**4**| **6,000**<br>**6,000** |
