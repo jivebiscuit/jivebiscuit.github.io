@@ -263,71 +263,70 @@ Same Runway Procedures:
 
 ## 3. Appendices
 ### 3-1. HOU Airspace Maps
-??? info "HOU Airspace Maps"
-    ??? info "East/Church Flow"
-        ![East/Church Flow](../assets/hou-sop11.png)
-    ??? info "South Flow"
-        ![South Flow](../assets/hou-sop12.png)
-    ??? info "North Flow"
-        ![North Flow](../assets/hou-sop13.png)
-    ??? info "West Flow"
-        ![West Flow](../assets/hou-sop1.png)
+??? info "East/Church Flow"
+    ![East/Church Flow](../assets/hou-sop11.png)
+??? info "South Flow"
+    ![South Flow](../assets/hou-sop12.png)
+??? info "North Flow"
+    ![North Flow](../assets/hou-sop13.png)
+??? info "West Flow"
+    ![West Flow](../assets/hou-sop1.png)
+
 ### 3-2. I90 Airspace Delegated to IAH and HOU ATCT
-??? info "I90 Airspace Delegated to IAH and HOU ATCT"
-    ![I90 Airspace Delegated to Towers](../assets/hou-sop2.png)
+![I90 Airspace Delegated to Towers](../assets/hou-sop2.png)
+
 ### 3-3. ASDE-X/STARS Departure Gate Scratchpads
-??? info "ASDE-X/STARS Departure Gate Scratchpads"
-    ![ASDE-X/STARS Departure Gate Scratchpads](../assets/hou-sop3.png)
+![ASDE-X/STARS Departure Gate Scratchpads](../assets/hou-sop3.png)
+
 ### 3-4. Preferred Taxi Routes
-??? info "Preferred Taxi Routes"
-    ??? info "South Flow"
-        ![South Flow](../assets/hou-sop4.png)
-    ??? info "North Flow"
-        ![North Flow](../assets/hou-sop5.png)
-    ??? info "East Flow"
-        ![East Flow](../assets/hou-sop6.png)
-    ??? info "Church Flow"
-        ![Church Flow](../assets/hou-sop7.png)
-    ??? info "West Flow"
-        ![West Flow](../assets/hou-sop8.png)
-    ??? info "SMGCS Flow"
-        ![SMGCS Flow](../assets/hou-sop9.png)
+??? info "South Flow"
+    ![South Flow](../assets/hou-sop4.png)
+??? info "North Flow"
+    ![North Flow](../assets/hou-sop5.png)
+??? info "East Flow"
+    ![East Flow](../assets/hou-sop6.png)
+??? info "Church Flow"
+    ![Church Flow](../assets/hou-sop7.png)
+??? info "West Flow"
+    ![West Flow](../assets/hou-sop8.png)
+??? info "SMGCS Flow"
+    ![SMGCS Flow](../assets/hou-sop9.png)
+
 ### 3-5. Airfield Helicopter Aiming Points
-??? info "Airfield Helicopter Aiming Points"
-    ![Airfield Helicopter Aiming Points](../assets/hou-sop10.png)
+![Airfield Helicopter Aiming Points](../assets/hou-sop10.png)
+
 ### 3-6. Intersection Departure Distances
-??? info "Intersection Departure Distances"
-    ![Intersection Departure Distances](../assets/hou-sop14.png)
+![Intersection Departure Distances](../assets/hou-sop14.png)
+
 ### 3-7. Suggested Initial Departure Headings
-??? info "Suggested Initial Departure Headings"
-    ??? info "East Flow (Land 4, Depart 31)"
-        | Fixes          | Instructions                             |
-        |----------------|------------------------------------------|
-        | GOMER<br>CLEEP | 31: Right 360 - 020<br>4: Left 350 - 010 |
-        | PRARI          | Left 300 - 280                           |
-        | TRIOS<br>BOLOS<br>AGGIT<br>FREEP | Right 160 - 180        |
-    ??? info "West Flow (Land 22)"
-        | Fixes          | Instructions   |
-        |----------------|----------------|
-        | GOMER<br>CLEEP | Right 010      |
-        | PRARI          | Left 300 - 280 |
-        | TRIOS<br>BOLOS | Left 130 - 150 |
-        | AGGIT<br>FREEP | RWY HDG        |
-    ??? info "North Flow (Land 31)"
-        | Fixes          | Instructions       |
-        |----------------|--------------------|
-        | GOMER<br>CLEEP | Right 360 - 020    |
-        | PRARI          | Left 290 - RWY HDG |
-        | TRIOS<br>BOLOS<br>AGGIT<br>FREEP | Left 130 - 150 |
-    ??? info "South Flow (Land 13)"
-        | Fixes          | Instructions       |
-        |----------------|--------------------|
-        | GOMER<br>CLEEP | Left 350 - 010    |
-        | PRARI          | 22: RWY HDG<br>13: Right 220 - 240 |
-        | TRIOS<br>BOLOS<br>AGGIT<br>FREEP | 22: Left 130 - 150<br>13: Right 140 - 165 |
-    ??? info "Church Flow (Land 4, Depart 13)"
-        | Fixes          | Instructions       |
-        |----------------|--------------------|
-        | GOMER<br>CLEEP | Left 350 - 010    |
-        | PRARI          | Left 270 - 290 |
-        | TRIOS<br>BOLOS<br>AGGIT<br>FREEP | 13: Right 140 - 165<br>4: Right 170 - 180 |
+??? info "East Flow (Land 4, Depart 31)"
+    | Fixes          | Instructions                             |
+    |----------------|------------------------------------------|
+    | GOMER<br>CLEEP | 31: Right 360 - 020<br>4: Left 350 - 010 |
+    | PRARI          | Left 300 - 280                           |
+    | TRIOS<br>BOLOS<br>AGGIT<br>FREEP | Right 160 - 180        |
+??? info "West Flow (Land 22)"
+    | Fixes          | Instructions   |
+    |----------------|----------------|
+    | GOMER<br>CLEEP | Right 010      |
+    | PRARI          | Left 300 - 280 |
+    | TRIOS<br>BOLOS | Left 130 - 150 |
+    | AGGIT<br>FREEP | RWY HDG        |
+??? info "North Flow (Land 31)"
+    | Fixes          | Instructions       |
+    |----------------|--------------------|
+    | GOMER<br>CLEEP | Right 360 - 020    |
+    | PRARI          | Left 290 - RWY HDG |
+    | TRIOS<br>BOLOS<br>AGGIT<br>FREEP | Left 130 - 150 |
+??? info "South Flow (Land 13)"
+    | Fixes          | Instructions       |
+    |----------------|--------------------|
+    | GOMER<br>CLEEP | Left 350 - 010    |
+    | PRARI          | 22: RWY HDG<br>13: Right 220 - 240 |
+    | TRIOS<br>BOLOS<br>AGGIT<br>FREEP | 22: Left 130 - 150<br>13: Right 140 - 165 |
+??? info "Church Flow (Land 4, Depart 13)"
+    | Fixes          | Instructions       |
+    |----------------|--------------------|
+    | GOMER<br>CLEEP | Left 350 - 010    |
+    | PRARI          | Left 270 - 290 |
+    | TRIOS<br>BOLOS<br>AGGIT<br>FREEP | 13: Right 140 - 165<br>4: Right 170 - 180 |

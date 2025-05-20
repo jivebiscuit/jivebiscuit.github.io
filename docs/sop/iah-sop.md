@@ -76,7 +76,7 @@ The following preferential runway configuration must be used at IAH to the exten
     1. NOTE: Reserved for use between the hours of 0000 - 0500 CST
 
 #### 2-1-2. Opening/Closing A Position.
-Position opening and closing shall be done in accordance with [General Control SOP 1-2](../sop/general-control-sop.md#1-2-position-opening--closing). The following restrictions apply to opening positions at IAH:
+Position opening and closing shall be done in accordance with [General Control SOP 1-2](../sop/general-control-sop.md#1-2-1-opening-a-position). The following restrictions apply to opening positions at IAH:
 
 1. Ground must be staffed before Clearance is opened.
 1. Ground and Clearance must be staffed before Ramp is opened.
@@ -446,99 +446,90 @@ IAH is authorized use of I90 Airspace depicted in Area A, [Appendix 2](#a-2-i90-
 
 ## 3. Appendices
 ### A-1: IAH Airspace Maps
-??? info "IAH Airspace Maps"
-    ??? info "IAH West Flow"
-        ![IAH West Flow Maps](../assets/iah-sop2.png)
-    ??? info "IAH West Flow Departing 33 and 9"
-        ![IAH West Flow 33 and 9 Maps](../assets/iah-sop3.png)
-    ??? info "East Flow Maps"
-        ![IAH East Flow](../assets/iah-sop4.png)
-    ??? info "IAH East/West Flow"
-        ![IAH East/West Maps](../assets/iah-sop5.png)
-    ??? info "IAH 15 Flow"
-        ![IAH 15 Maps](../assets/iah-sop6.png)
-    ??? info "IAH 33 Flow"
-        ![IAH 33 Maps](../assets/iah-sop7.png)
+??? info "IAH West Flow"
+    ![IAH West Flow Maps](../assets/iah-sop2.png)
+??? info "IAH West Flow Departing 33 and 9"
+    ![IAH West Flow 33 and 9 Maps](../assets/iah-sop3.png)
+??? info "East Flow Maps"
+    ![IAH East Flow](../assets/iah-sop4.png)
+??? info "IAH East/West Flow"
+    ![IAH East/West Maps](../assets/iah-sop5.png)
+??? info "IAH 15 Flow"
+    ![IAH 15 Maps](../assets/iah-sop6.png)
+??? info "IAH 33 Flow"
+    ![IAH 33 Maps](../assets/iah-sop7.png)
 
 ### A-2: I90 Airspace Delegated to IAH and HOU ATCT
-??? info "I90 Airspace Delegated to IAH & HOU ATCT"
-    ![I90 Airspace Delegated to IAH & HOU ATCT](../assets/iah-sop8.png)
+![I90 Airspace Delegated to IAH & HOU ATCT](../assets/iah-sop8.png)
 
 ### A-3: Standard Departure Runways
-??? info "Standard Departure Runways and Gates"
-    ??? info "West Flow"
-        | 15R | 15L |
-        | :---: | :---: |
-        | CLEEP<br>GOMER<br>PRARI | FREEP<br>AGGIT<br>BOLOS<br>TRIOS |
+??? info "West Flow"
+    | 15R | 15L |
+    | :---: | :---: |
+    | CLEEP<br>GOMER<br>PRARI | FREEP<br>AGGIT<br>BOLOS<br>TRIOS |
 
-    ??? info "East Flow"
-        | 15R | 15L |
-        | :---: | :---: |
-        | PRARI | CLEEP<br>GOMER<br>FREEP<br>AGGIT<br>BOLOS<br>TRIOS |
-    
-    ??? info "East Flow & RWY 9"
-        | 15R | 15L | 9 |
-        | :---: | :---: | :---: |
-        | PRARI | FREEP<br>AGGIT<br>BOLOS<br>TRIOS | CLEEP<br>GOMER |
+??? info "East Flow"
+    | 15R | 15L |
+    | :---: | :---: |
+    | PRARI | CLEEP<br>GOMER<br>FREEP<br>AGGIT<br>BOLOS<br>TRIOS |
 
-    ??? info "Northwest Flow"
-        | 33L | 33R |
-        | :---: | :---: |
-        | PRARI<br>FREEP<br>AGGIT<br>BOLOS<br>TRIOS | CLEEP<br>GOMER |
+??? info "East Flow & RWY 9"
+    | 15R | 15L | 9 |
+    | :---: | :---: | :---: |
+    | PRARI | FREEP<br>AGGIT<br>BOLOS<br>TRIOS | CLEEP<br>GOMER |
 
-    ??? info "Northwest Flow & RWY 9"
-        | 33L | 33R | 9 |
-        | :---: | :---: | :---: |
-        | PRARI | CLEEP<br>GOMER | FREEP<br>AGGIT<br>BOLOS<br>TRIOS |
+??? info "Northwest Flow"
+    | 33L | 33R |
+    | :---: | :---: |
+    | PRARI<br>FREEP<br>AGGIT<br>BOLOS<br>TRIOS | CLEEP<br>GOMER |
 
-    ??? info "Straight East"
-        | 8L | 9 |
-        | :---: | :---: |
-        | CLEEP<br>GOMER | PRARI<br>FREEP<br>AGGIT<br>BOLOS<br>TRIOS |
+??? info "Northwest Flow & RWY 9"
+    | 33L | 33R | 9 |
+    | :---: | :---: | :---: |
+    | PRARI | CLEEP<br>GOMER | FREEP<br>AGGIT<br>BOLOS<br>TRIOS |
 
-    ??? info "Straight West"
-        | 26R | 27 |
-        | :---: | :---: |
-        | CLEEP<br>GOMER | PRARI<br>FREEP<br>AGGIT<br>BOLOS<br>TRIOS |
+??? info "Straight East"
+    | 8L | 9 |
+    | :---: | :---: |
+    | CLEEP<br>GOMER | PRARI<br>FREEP<br>AGGIT<br>BOLOS<br>TRIOS |
+
+??? info "Straight West"
+    | 26R | 27 |
+    | :---: | :---: |
+    | CLEEP<br>GOMER | PRARI<br>FREEP<br>AGGIT<br>BOLOS<br>TRIOS |
 
 ### A-4: Ground Splits
-??? info "Ground Splits"
-    ??? info "Standard Split"
-        ![Standard Split](../assets/iah-sop9.png)
+??? info "Standard Split"
+    ![Standard Split](../assets/iah-sop9.png)
 
-    ??? info "Straight East or West Split"
-        ![Standard Split](../assets/iah-sop10.png)
+??? info "Straight East or West Split"
+    ![Standard Split](../assets/iah-sop10.png)
 
 ### A-5: Standard Parking Locations
-??? info "Standard Parking Locations"
-    ![Standard Parking Locations](../assets/iah-sop11.png)
+![Standard Parking Locations](../assets/iah-sop11.png)
 
 ### A-6: Ramp Entry/Exit Spots
-??? info "Ramp Entry/Exit Spots"
-    | TCP Spot Direction Key | |
-    | --- | --- |
-    | Green Spots | Inbound Aircraft |
-    | Red Spots | Outbound Aircraft |
-    | Blue Spots | Bi-directional |
-    | Purple Spots | AGD IV Aircraft |
+| TCP Spot Direction Key | |
+| --- | --- |
+| Green Spots | Inbound Aircraft |
+| Red Spots | Outbound Aircraft |
+| Blue Spots | Bi-directional |
+| Purple Spots | AGD IV Aircraft |
 
-    ??? info "Normal Flow (Departing 15/33)"
-        ![Normal Flow (Departing 15/33)](../assets/iah-sop12.png)
+??? info "Normal Flow (Departing 15/33)"
+    ![Normal Flow (Departing 15/33)](../assets/iah-sop12.png)
 
-    ??? info "Departing 26L or 26R"
-        ![Departing 26L or 26R](../assets/iah-sop13.png)
+??? info "Departing 26L or 26R"
+    ![Departing 26L or 26R](../assets/iah-sop13.png)
 
-    ??? info "Departing 9 or 27"
-        ![Departing 9 or 27](../assets/iah-sop14.png)
+??? info "Departing 9 or 27"
+    ![Departing 9 or 27](../assets/iah-sop14.png)
 
 ### A-7: Aircraft Taxi Restrictions
-??? info "Aircraft Taxi Restrictions"
-    ![Aircraft Taxi Restrictions](../assets/iah-sop15.png)
+![Aircraft Taxi Restrictions](../assets/iah-sop15.png)
 
 ### A-8: ASDE-X/STARS Departure Gate Scratchpads
-??? info "ASDE-X/STARS Departure Gate Scratchpads"
-    ![ASDE-X/STARS Departure Gate Scratchpads](../assets/iah-sop16.png)
+![ASDE-X/STARS Departure Gate Scratchpads](../assets/iah-sop16.png)
 
 ### A-9: Suggested Initial Departure Headings
-??? info "Suggested Initial Departure Headings"
-    ![Suggested Initial Departure Headings](../assets/iah-sop17.png)
+![Suggested Initial Departure Headings](../assets/iah-sop17.png)

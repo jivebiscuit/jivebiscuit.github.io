@@ -199,72 +199,72 @@ The controller using prearranged coordination to enter another controller’s ai
 
 ## Appendices
 ### A-1. Standard Departure Headings
-??? info "Standard Departure Headings"
-    | | Jet Headings | Prop Headings |
-    | :---: | :---: | :---: |
-    | 18R | 190-210 |  190-240 |
-    | 18L | 150-170 | 120-170 |
-    | 36L | 360 | 270 or 360 |
-    | 36R | 020-040 | 360-060 |
+| | Jet Headings | Prop Headings |
+| :---: | :---: | :---: |
+| 18R | 190-210 |  190-240 |
+| 18L | 150-170 | 120-170 |
+| 36L | 360 | 270 or 360 |
+| 36R | 020-040 | 360-060 |
 
 ### A-2. Airspace Maps
-??? info "Airspace Maps"
-    ??? info "Local Control (South Flow)"
-        ![Local Control (South Flow)](../assets/aus-sop1.png)
-    ??? info "Local Control (North Flow)"
-        ![Local Control (North Flow)](../assets/aus-sop2.png)
-    ??? info "Radar West (South Flow)"
-        ![Radar West (South Flow)](../assets/aus-sop3.png)
-    ??? info "Radar West (North Flow)"
-        ![Radar West (North Flow)](../assets/aus-sop4.png)
-    ??? info "Radar East (South Flow)"
-        ![Radar East (South Flow)](../assets/aus-sop5.png)
-    ??? info "Radar East (North Flow)"
-        ![Radar East (North Flow)](../assets/aus-sop6.png)
-    ??? info "Radar Finals (South Flow)"
-        ![Radar Finals (South Flow)](../assets/aus-sop7.png)
-    ??? info "Finals (North Flow)"
-        ![Radar Finals (North Flow)](../assets/aus-sop8.png)
-    ??? info "Radar South (South Flow)"
-        ![Radar South (South Flow)](../assets/aus-sop9.png)
-    ??? info "Radar South (North Flow)"
-        ![Radar South (North Flow)](../assets/aus-sop10.png)
-    ??? info "Satellite Radar (South Flow)"
-        ![Satellite Radar (South Flow)](../assets/aus-sop11.png)
-    ??? info "Satellite Radar (North Flow)"
-        ![Satellite Radar (North Flow)](../assets/aus-sop12.png)
+#### South Flow
+??? info "Local Control (South Flow)"
+    ![Local Control (South Flow)](../assets/aus-sop1.png)
+??? info "Radar West (South Flow)"
+    ![Radar West (South Flow)](../assets/aus-sop3.png)
+??? info "Radar East (South Flow)"
+    ![Radar East (South Flow)](../assets/aus-sop5.png)
+??? info "Radar Finals (South Flow)"
+    ![Radar Finals (South Flow)](../assets/aus-sop7.png)
+??? info "Radar South (South Flow)"
+    ![Radar South (South Flow)](../assets/aus-sop9.png)
+??? info "Satellite Radar (South Flow)"
+    ![Satellite Radar (South Flow)](../assets/aus-sop11.png)
+
+#### North Flow
+??? info "Local Control (North Flow)"
+    ![Local Control (North Flow)](../assets/aus-sop2.png)
+??? info "Radar West (North Flow)"
+    ![Radar West (North Flow)](../assets/aus-sop4.png)
+??? info "Radar East (North Flow)"
+    ![Radar East (North Flow)](../assets/aus-sop6.png)
+??? info "Finals (North Flow)"
+    ![Radar Finals (North Flow)](../assets/aus-sop8.png)
+??? info "Radar South (North Flow)"
+    ![Radar South (North Flow)](../assets/aus-sop10.png)
+??? info "Satellite Radar (North Flow)"
+    ![Satellite Radar (North Flow)](../assets/aus-sop12.png)
 
 ### A-3. Prearranged Coordination
-??? info "Prearranged Coordination (South Flow)"
-    ![Prearranged Coordination (South Flow)](../assets/aus-sop13.png){ align=right }
-    
-    - **C & D** - Austin Finals in Local Control airspace AOB 2,000 MSL for AUS arrivals
-    - **C & J** - Radar East in Austin Finals airspace AOA 2,500 MSL for AUS departures
-    - **D & K** - Radar West in Austin Finals airspace AOA 2,500 MSL for AUS departures
-    - **L** - Radar East in Radar South airspace when AUS departures are assigned AOA 5,000 MSL and tuned toward the departure gate^1^
-    - **M** - Radar West in Satellite Radar airspace when AUS departures are assigned AOA 5,000 MSL and tuned toward the departure gate^2^
-    - **N** - Radar West in Radar East airspace for eastbound KGTU departures^3^ ^4^
+#### South Flow
+![Prearranged Coordination (South Flow)](../assets/aus-sop13.png){ align=right }
 
-    ^1^ The intent in area **L** is to allow slow climbing departures routed to the east to proceed without a point-out to Radar South.
-    
-    ^2^ The intent in area **M** is to allow slow climbing departures routed to the west to proceed without a point-out to Satellite Radar.
+- **C & D** - Austin Finals in Local Control airspace AOB 2,000 MSL for AUS arrivals
+- **C & J** - Radar East in Austin Finals airspace AOA 2,500 MSL for AUS departures
+- **D & K** - Radar West in Austin Finals airspace AOA 2,500 MSL for AUS departures
+- **L** - Radar East in Radar South airspace when AUS departures are assigned AOA 5,000 MSL and tuned toward the departure gate^1^
+- **M** - Radar West in Satellite Radar airspace when AUS departures are assigned AOA 5,000 MSL and tuned toward the departure gate^2^
+- **N** - Radar West in Radar East airspace for eastbound KGTU departures^3^ ^4^
 
-    ^3^ The eastbound KGTU departures in area **N** must be assigned heading 100° and 3,000 MSL and be in handoff status to Radar East by the common boundary. Upon acceptance of the radar handoff, Radar West may turn the aircraft to the departure gate then switch radio communications to Radar East.
+^1^ The intent in area **L** is to allow slow climbing departures routed to the east to proceed without a point-out to Radar South.
 
-    ^4^ Radar East must point out all T74 IFR arrivals and/or KEDC IFR arrivals to Radar West to allow for compliance with paragraphs 5-1-1 g-i (*this reference is to real world AUS SOP and is not relevant to VATSIM use*).
+^2^ The intent in area **M** is to allow slow climbing departures routed to the west to proceed without a point-out to Satellite Radar.
 
-??? info "Prearranged Coordination (North Flow)"
-    ![Prearranged Coordination (North Flow)](../assets/aus-sop14.png){ align=right }
+^3^ The eastbound KGTU departures in area **N** must be assigned heading 100° and 3,000 MSL and be in handoff status to Radar East by the common boundary. Upon acceptance of the radar handoff, Radar West may turn the aircraft to the departure gate then switch radio communications to Radar East.
 
-    - **G & H** - Austin Finals in Local Control airspace AOB 2,000 MSL for AUS arrivals
-    - **C & O** - Radar East in Austin Finals airspace AOA 2,500 MSL for AUS departures
-    - **H & P** - Radar West in Austin Finals airspace AOA 2,500 MSL for AUS departures
-    - **Q** - Radar West in Radar East airspace for eastbound KGTU departures^1^ ^2^
+^4^ Radar East must point out all T74 IFR arrivals and/or KEDC IFR arrivals to Radar West to allow for compliance with paragraphs 5-1-1 g-i (*this reference is to real world AUS SOP and is not relevant to VATSIM use*).
 
-     ^1^ The eastbound KGTU departures in area **Q** must be assigned heading 100° and 3,000 MSL and be in handoff status to Radar East by the common boundary. Upon acceptance of the radar handoff, Radar West may turn the aircraft to the departure gate then switch radio communications to Radar East.
+#### North Flow
+![Prearranged Coordination (North Flow)](../assets/aus-sop14.png){ align=right }
 
-     ^2^ Radar East must point out all T74 IFR departures and/or KEDC north IFR departures to Radar West to allow for compliance with paragraphs 5-1-1 g-i (*this reference is to real world AUS SOP and is not relevant to VATSIM use*).
+- **G & H** - Austin Finals in Local Control airspace AOB 2,000 MSL for AUS arrivals
+- **C & O** - Radar East in Austin Finals airspace AOA 2,500 MSL for AUS departures
+- **H & P** - Radar West in Austin Finals airspace AOA 2,500 MSL for AUS departures
+- **Q** - Radar West in Radar East airspace for eastbound KGTU departures^1^ ^2^
+
+    ^1^ The eastbound KGTU departures in area **Q** must be assigned heading 100° and 3,000 MSL and be in handoff status to Radar East by the common boundary. Upon acceptance of the radar handoff, Radar West may turn the aircraft to the departure gate then switch radio communications to Radar East.
+
+    ^2^ Radar East must point out all T74 IFR departures and/or KEDC north IFR departures to Radar West to allow for compliance with paragraphs 5-1-1 g-i (*this reference is to real world AUS SOP and is not relevant to VATSIM use*).
 
 ### A-4. Departure Gates
-??? info "Departure Gates"
-    ![Departure Gates](../assets/aus-sop15.png)
+![Departure Gates](../assets/aus-sop15.png)

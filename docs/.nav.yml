@@ -18,6 +18,8 @@ nav:
         - CRP: sop/crp-sop.md
         - HOU: sop/hou-sop.md
         - IAH: sop/iah-sop.md
+        - MSY: sop/msy-sop.md
+        - SAT: sop/sat-sop.md
     - LOA: loa
     - QRC: qrc
     - NOTAC:

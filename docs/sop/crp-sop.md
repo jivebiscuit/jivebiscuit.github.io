@@ -213,20 +213,19 @@ Coordinate overflights with CRP LC that may conflict with a south flow departure
 
 ## Appendices
 ### A-1. Departure Areas (South Flow)
-??? info "Departure Areas (South Flow)"
-    ![Departure Areas (South Flow)](../assets/crp-sop1.png)
+![Departure Areas (South Flow)](../assets/crp-sop1.png)
+
 ### A-2. Departure Areas (North Flow)
-??? info "Departure Areas (North Flow)"
-    ![Departure Areas (North Flow)](../assets/crp-sop2.png)
+![Departure Areas (North Flow)](../assets/crp-sop2.png)
+
 ### A-3. Tower Airspace (South Flow)
-??? info "TowerAirspace (South Flow)"
-    ![TowerAirspace (South Flow)](../assets/crp-sop3.png)
+![TowerAirspace (South Flow)](../assets/crp-sop3.png)
+
 ### A-4. Airspace (South Flow)
-??? info "Airspace (South Flow)"
-    ![Airspace (South Flow)](../assets/crp-sop4.png)
+![Airspace (South Flow)](../assets/crp-sop4.png)
+
 ### A-5. Airspace (North Flow)
-??? info "Airspace (North Flow)"
-    ![Airspace (North Flow)](../assets/crp-sop5.png)
+![Airspace (North Flow)](../assets/crp-sop5.png)
+
 ### A-6. Valley Airspace
-??? info "Valley Airspace"
-    ![Valley Airspace](../assets/crp-sop6.png)
+![Valley Airspace](../assets/crp-sop6.png)
