@@ -22,11 +22,10 @@ nav:
         - SAT: sop/sat-sop.md
     - LOA: loa
     - QRC: qrc
-    - NOTAC:
-      - notac/vatis4-1.md
     - Guides:
-      - guides/teamspeak.md
       - guides/crc-getting-started.md
       - guides/crc-voice.md
+      - guides/teamspeak.md
+      - guides/vatis4-1.md
 
 
