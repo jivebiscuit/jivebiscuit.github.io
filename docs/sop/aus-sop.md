@@ -237,7 +237,9 @@ The controller using prearranged coordination to enter another controller’s ai
 
 ### A-3. Prearranged Coordination
 #### South Flow
-![Prearranged Coordination (South Flow)](../assets/aus-sop13.png){ align=right }
+
+!!! info inline end "South Flow PAC"
+    ![Prearranged Coordination (South Flow)](../assets/aus-sop13.png)
 
 - **C & D** - Austin Finals in Local Control airspace AOB 2,000 MSL for AUS arrivals
 - **C & J** - Radar East in Austin Finals airspace AOA 2,500 MSL for AUS departures
@@ -255,7 +257,8 @@ The controller using prearranged coordination to enter another controller’s ai
 ^4^ Radar East must point out all T74 IFR arrivals and/or KEDC IFR arrivals to Radar West to allow for compliance with paragraphs 5-1-1 g-i (*this reference is to real world AUS SOP and is not relevant to VATSIM use*).
 
 #### North Flow
-![Prearranged Coordination (North Flow)](../assets/aus-sop14.png){ align=right }
+!!! info inline end "North Flow PAC"
+    ![Prearranged Coordination (North Flow)](../assets/aus-sop14.png)
 
 - **G & H** - Austin Finals in Local Control airspace AOB 2,000 MSL for AUS arrivals
 - **C & O** - Radar East in Austin Finals airspace AOA 2,500 MSL for AUS departures
