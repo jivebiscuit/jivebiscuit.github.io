@@ -20,7 +20,13 @@ nav:
         - IAH: sop/iah-sop.md
         - MSY: sop/msy-sop.md
         - SAT: sop/sat-sop.md
-    - LOA: loa
+    - LOA:
+      - CENTER/CENTER:
+        - loa/hav-zhu.md
+      - TRACON/CENTER:
+        - loa/i90-zhu.md
+        - loa/aus-zhu.md
+        - loa/crp-zhu.md
     - QRC: qrc
     - Guides:
       - guides/crc-getting-started.md
