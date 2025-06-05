@@ -29,10 +29,9 @@ vATIS was recently updated to version 4.1 beta and several new features were add
 ## 2. First-Run Setup
 1. Highly recommended that you uninstall any
 previous versions of vATIS from your computer.
-2. Visit https://vatis.app/ and download version 4.1 for
-your operating system.
+2. Visit the [vATIS website](https://vatis.app/) and download version 4.1 for your operating system.
 3. Install the program. Accept/allow/bypass any anti-virus or trusted developer messages (the program is safe).
-4. Download the ZHU “Skeleton” Profiles ZIP file from the ZHU Facilities GitHub Repo and save to an easy-to-remember location (Desktop, Downloads, etc.)
+4. Download the [ZHU “Skeleton” Profiles](https://github.com/Houston-ARTCC/vatis/releases/download/Profiles/ZHU_vATIS_4.1_initial.zip) from the ZHU Facilities GitHub Repo and save to an easy-to-remember location (Desktop, Downloads, etc.)
 5. Extract the ZIP file contents to an easy-to-remember location (see image to right). You will delete them from your computer later.
 6. Open vATIS 4.1, click `Import`, and select all 16 profiles from the extracted ZIP.
 
