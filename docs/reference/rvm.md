@@ -16,12 +16,16 @@ title: CRC RVM
 | 2     | 3NM MVA    | AUS 3NM MVA                      | B           |
 | 3     | VFR        | AUS VFR                          | B           |
 | 4     | CLASS C    | AUS CLASS C                      | B           |
+| 54    | SF WEST    | AUS WEST RADAR SOFLO             | B           |
+| 55    | NF WEST    | AUS WEST RADAR NOFLO             | B           |
+| 56    | SF EAST    | AUS EAST RADAR SOFLO             | B           |
+| 57    | NF EAST    | AUS EAST RADAR NOFLO             | B           |
+| 58    | SF LONG    | AUS LONGHORN SECTOR SOFLO        | B           |
+| 59    | NF LONG    | AUS LONGHORN SECTOR NOFLO        | B           |
+| 60    | SF RDEO    | AUS RODEO SATELLITE SOFLO        | B           |
+| 61    | NF RDEO    | AUS RODEO SATELLITE NOFLO        | B           |
 | 5     | NF FAC     | NF FINAL APP COURSE              | A           |
 | 6     | SF FAC     | SF FINAL APP COURSE              | A           |
-| 7     | NF S OFF   | NORTH FLOW SOUTH APP CLSD        | A           |
-| 8     | SF S OFF   | SOUTH FLOW SOUTH APP CLSD        | A           |
-| 9     | NF S ON    | NORTH FLOW SOUTH APP OPEN        | A           |
-| 10    | SF S ON    | SOUTH FLOW SOUTH APP OPEN        | A           |
 | 11    | NF FNL     | NORTH FLOW FINAL AIRSPACE        | A           |
 | 12    | SF FNL     | SOUTH FLOW FINAL AIRSPACE        | A           |
 | 13    | GPS N      | AUS GPS NORTH                    | A           |
@@ -61,14 +65,6 @@ title: CRC RVM
 | 51    | TAF PL     | TAF PIPELINES                    | B           |
 | 52    | GCT PL     | GCT PIPELINES                    | B           |
 | 53    | ADJ ASP    | ADJACENT FACILITIES              | A           |
-| 54    | SF WEST    | AUS WEST RADAR SOFLO             | A           |
-| 55    | NF WEST    | AUS WEST RADAR NOFLO             | A           |
-| 56    | SF EAST    | AUS EAST RADAR SOFLO             | A           |
-| 57    | NF EAST    | AUS EAST RADAR NOFLO             | A           |
-| 58    | SF LONG    | AUS LONGHORN SATELLITE SOFLO     | A           |
-| 59    | NF LONG    | AUS LONGHORN SATELLITE NOFLO     | A           |
-| 60    | SF RDEO    | AUS RODEO SATELLITE SOFLO        | A           |
-| 61    | NF RDEO    | AUS RODEO SATELLITE NOFLO        | A           |
 
 ## BTR - Baton Rouge
 | Map # | Short Name | Long Name           | Brite Group |
