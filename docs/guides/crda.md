@@ -65,4 +65,20 @@ Enter the following commands into your STARS scope without spaces:
     Per real-world I90 SOP: only aircraft with `RNP` in their primary scratchpad will generate ghost tracks while in CRDA qualification regions.
 
 ## KMSY
-Crude CRDA currently available at MSY for runway pairs 11/20 and 11/2. Documentation coming soon.
+### RWY 11/20
+Enter the following command into your STARS scope without spaces:
+
+- `[F7] N MSY1S [ENTER]`
+
+Real aircraft on approach to RWY 20 will generate ghost targets on RWY 11 centerline. The ghost targets will be the same distance from RWY 11 threshold as they are from RWY 20 threshold.
+
+![MSY 11/20 CRDA regions and tracks.](../assets/crda8.png)
+
+### RWY 2/11
+Enter the following command into your STARS scope without spaces:
+
+- `[F7] N MSY2S [ENTER]`
+
+Real aircraft on approach to RWY 11 will generate ghost targets on RWY 2 centerline. The ghost targets will be the same distance from RWY 2 threshold as they are from RWY 11 threshold.
+
+![MSY 2/11 CRDA regions and tracks.](../assets/crda9.png)
