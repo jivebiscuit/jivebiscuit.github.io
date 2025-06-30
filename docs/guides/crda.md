@@ -7,7 +7,7 @@ title: CRDA in ZHU
 CRDA (Converging Runway Display Aid) is designed to assist controllers with sequencing arrivals to converging runways or approach paths. CRDA can be enabled for one or more Runway Pair Configurations, or RPCs. Each RPC consists of a master runway, a slave runway, a horizontal qualification region, and a descent path profile. RPCs are defined by the facility engineer.
 
 ## How It Works
-Under the hood, when a CRDA RPC (Runway Pair Configuration) has been activated, qualification regions and track lines are created (demonstrated below by the yellow lines and boxes). Whenever a real aircraft target enters one of the qualification regions, a corresponding ghost track will appear on the extended runway center line.
+Under the hood, when a CRDA RPC has been activated, qualification regions and track lines are created (demonstrated below by the yellow lines and boxes). Whenever a real aircraft target enters one of the qualification regions, a corresponding ghost track will appear on the extended runway center line.
 
 ![Three CRDA regions and tracks for runway 8L enabled.](../assets/crda3.png)
 
