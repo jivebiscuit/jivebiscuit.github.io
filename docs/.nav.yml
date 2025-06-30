@@ -33,6 +33,7 @@ nav:
       - guides/crc-voice.md
       - guides/teamspeak.md
       - guides/vatis4-1.md
+      - guides/crda.md
     - Reference:
       - reference/rvm.md
       - reference/alias.md
