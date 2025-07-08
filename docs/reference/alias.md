@@ -11,11 +11,8 @@ title: CRC Alias
 | Command              | Returns                                      
 |----------------------|------------------------------------------------------------------------|
 | `.ALIAS`         | Opens ZHU Alias Reference website.           
-| `.RVM`           | Opens ZHU Radar Vector Map website.          
-| `.H`             |                                             
-| `.WHO`           |                                             
-| `.LTX`           |                                             
-| `.LASTTX`        | Issues the CRC built-in last transmission command.                      |
+| `.RVM`           | Opens ZHU Radar Vector Map website.                                         
+| `.LASTTX`<br>`.LTX`<br>`.WHO`<br>`.H` | Issues the CRC built-in last transmission command. |
 | `.AIPREF ####`   | Opens the VATSIM AIP (CTAF frequencies) for the specified airport (####)|
 
 ## Pilot Help Messages
