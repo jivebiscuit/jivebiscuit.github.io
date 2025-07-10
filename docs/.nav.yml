@@ -6,28 +6,28 @@ nav:
       - policy/training.md
       - Training:
         - policy/training-syllabus.md
-    - SOPs:
-      - General:
-        - General Control: sop/general-control-sop.md
-      - Enroute:
-        - ZHU: sop/enroute-sop.md
-      - TRACON:
-        - I90: sop/i90-sop.md
-      - Airports:
-        - AUS: sop/aus-sop.md
-        - CRP: sop/crp-sop.md
-        - HOU: sop/hou-sop.md
-        - IAH: sop/iah-sop.md
-        - MSY: sop/msy-sop.md
-        - SAT: sop/sat-sop.md
-    - LOAs:
-      - Center/Center:
-        - loa/hav-zhu.md
-      - TRACON/Center:
-        - loa/i90-zhu.md
-        - loa/aus-zhu.md
-        - loa/crp-zhu.md
-    - QRCs: qrc
+    # - SOPs:
+    #   - General:
+    #     - General Control: sop/general-control-sop.md
+    #   - Enroute:
+    #     - ZHU: sop/enroute-sop.md
+    #   - TRACON:
+    #     - I90: sop/i90-sop.md
+    #   - Airports:
+    #     - AUS: sop/aus-sop.md
+    #     - CRP: sop/crp-sop.md
+    #     - HOU: sop/hou-sop.md
+    #     - IAH: sop/iah-sop.md
+    #     - MSY: sop/msy-sop.md
+    #     - SAT: sop/sat-sop.md
+    # - LOAs:
+    #   - Center/Center:
+    #     - loa/hav-zhu.md
+    #   - TRACON/Center:
+    #     - loa/i90-zhu.md
+    #     - loa/aus-zhu.md
+    #     - loa/crp-zhu.md
+    # - QRCs: qrc
     - Guides:
       - guides/crc-getting-started.md
       - guides/crc-voice.md
