@@ -182,7 +182,7 @@ title: CRC RVM
     | 277   | 71TT       | 71TT COPTER RNAV                 | A           |
     | 278   | 71TTSID    | 71TT HAZZE ONE DEPARTURE         | A           |
 
-    ### Laredo ATCT Maps
+    ### Laredo ATCT
     | Map # | Short Name | Long Name           | Brite Group |
     |-------|------------|---------------------|-------------|
     | 991   | BASE       | LRD Base            | A           |
