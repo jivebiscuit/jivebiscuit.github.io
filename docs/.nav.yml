@@ -34,6 +34,7 @@ nav:
       - guides/teamspeak.md
       - guides/vatis4-1.md
       - guides/crda.md
+      - guides/rundown.md
     - Reference:
       - reference/rvm.md
       - reference/alias.md
