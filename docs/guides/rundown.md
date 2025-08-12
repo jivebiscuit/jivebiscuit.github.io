@@ -11,6 +11,7 @@ The tower controllers are referred to as the “senders” of coordination messa
 
 ## Message States
 The entry of a flight in a coordination list is called a coordination message. A coordination message can be in any one of the following states:
+
 - **Unsent:** Displayed in steady green at sender (tower) position.
 - **Unacknowledged:** Displayed at sender and receiver positions in blinking green to indicate receiver acknowledgement is needed.
 - **Acknowledged:** Displayed at sender and receiver positions in steady green and includes the plus symbol (+).
@@ -31,7 +32,7 @@ Each entry in the list will display the time remaining until release expiration 
 | `<F13>TI<ENTER>` | Inhibit display of Coordination list title |
 
 !!! important
-    F13 = `<SHIFT>+<F3>`
+    `F13` = `<SHIFT>+<F3>`
 
 ### Local Commands
 | Command | Description |
@@ -62,6 +63,7 @@ Each entry in the list will display the time remaining until release expiration 
 
 ### Example - Austin TRACON
 Austin TRACON (consolidated) is online along with all 4 local controllers.
+
 - AUS Local can only send messages to its coordination list (P01)
 - GTU Local can only send messages to its coordination list (P02)
 - HYI Local can only send messages to its coordination list (P03)
