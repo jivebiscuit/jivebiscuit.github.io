@@ -5,9 +5,9 @@ title: Rundown Lists
     This document is provided for Houston ARTCC controllers to use when providing virtual ATC services on the VATSIM network. The information herein is **not intended for use in any real-world aviation applications**.
 
 ## Background
-The Coordination List, also referred to as the “Rundown List,” shows coordination message information for departing flights prior to their radar track association. Flights are removed from coordination lists upon their acquisition by radar. A coordination list provides a means where a tower controller typically can convey the sequence and related data of pending departures to the sector controller (also called the departure controller) who will be handling the flight.
+The Coordination List, also referred to as the "Rundown List," shows coordination message information for departing flights prior to their radar track association. Flights are removed from coordination lists upon their acquisition by radar. A coordination list provides a means where a tower controller typically can convey the sequence and related data of pending departures to the sector controller (also called the departure controller) who will be handling the flight.
 
-The tower controllers are referred to as the “senders” of coordination messages, while the sector controller(s) are referred to as the “receiver(s).” The senders and associated receivers constitute a coordination “channel.” Multiple coordination channels may be adapted to support multiple tower facilities or multiple senders within a single tower facility.
+The tower controllers are referred to as the "senders" of coordination messages, while the radar controller(s) are referred to as the "receiver(s)." The senders and associated receivers constitute a coordination "channel." Multiple coordination channels may be adapted to support multiple tower facilities or multiple senders within a single tower facility.
 
 ## Message States
 The entry of a flight in a coordination list is called a coordination message. A coordination message can be in any one of the following states:
@@ -26,7 +26,7 @@ Each entry in the list will display the time remaining until release expiration 
 | Command | Function |
 | --- | --- |
 | `<F7>(LISTID)<SLEW LOCATION>` | Relocate Coordination list |
-| `<F7>(LISTID) (1-100)<ENTER>` | Set Coordination list size |
+| `<F7>(LISTID) (1-100)<ENTER>` | Set Coordination list size (number of lines)|
 | `<F13>T<ENTER>` | Toggle display of Coordination list title temporarily |
 | `<F13>TE<ENTER>` | Enable display of Coordination list title temporarily |
 | `<F13>TI<ENTER>` | Inhibit display of Coordination list title |
@@ -61,30 +61,47 @@ Each entry in the list will display the time remaining until release expiration 
 
 *Note: `LISTID` is optional when only one list is adapted for the position*
 
-### Example - Austin TRACON
-Austin TRACON (consolidated) is online along with all 4 local controllers.
-
-- AUS Local can only send messages to its coordination list (P01)
-- GTU Local can only send messages to its coordination list (P02)
-- HYI Local can only send messages to its coordination list (P03)
-- EDC Local does not have STARS feed from the TRACON and must verbally coordinate calls for release
-
-#### KAUS departures with automatic releases
-AAL123 is number 1 for 18R at KAUS with an assigned departure heading of 210 degrees:
-
-1. Local: `<F13>AAL123 18R 210<ENTER>` immediately sends coordination message to Austin TRACON. The message may blink green for a moment while auto-acknowledgement is processed. `LISTID` is not needed since there is only one coordination list between Austin Local and TRACON.
-1. TRACON: Receives the message on P01 and auto-acknowledge activates.
-1. Local: notices the coordination message turns solid green and launches the aircraft.
-
-#### KGTU departures with Call for Release
-N123 is number 1 for 18 at KGTU with an assigned departure heading of runway heading. N456 is number 2 for 18 with an assigned deparute heading of 260.
-
-1. Local: `<F13>N123 18 RH<ENTER>`, then `<F13>N456 18 260<ENTER>`. Sends two messages (in sequence) to Austin TRACON. Both messages will blink green until the TRACON acknowledges. *Note: `LISTID` is not needed since there is only one coordination list between Georgetown Local and TRACON.*
-1. TRACON: Receives both messages on P02 and acknowledges the first with `<F13>P02 N123<ENTER>`. As desired, TRACON can release the second aircraft at any time with `<F13>P02 N456<ENTER>`. Local shall apply standard same-runway separation for departures. *Note: `LISTID` is required for all TRACON coordination commands because it receives messages on 3 coordination channels.*
-1. Local: notices the coordination message turns solid green for one (or both) and launches the aircraft(s) while applying same-runway separation.
-
-### Additional Notes
-- Text in coordination messages (e.g. `18R 210` or `18 RH`) is not required if the Local controller is departing aircraft within SOP guidelines, pre-arranged coordination, or other verbal coordination with relevant controllers.
+### Important Notes
+- The primary field at an up/down facility will not use coordination/rundown lists, especially where the facility SOP specifies that the Local controller will tag and handoff all departures.
+- If an aircraft will be departing from a non-advertised runway, turned in a direction other than SOP-defined departure headings, or any other unusual situation exists, extra text in coordination messages (e.g. `18 R270` or `11 RH`) should be included.
 - Local controllers can continually build a departure sequence by sending subsequent messages to their respective coordination list. In the TRACON, list entries are sorted by time of message arrival.
 - TRACON controllers can toggle automatic acknowledgment on any list by entering `<F13>(LISTID) A*<ENTER>` or `<F13>(LISTID) M*<ENTER>`. *Note: only messages without additional coordination text will be auto-acknowledged.* 
-- Coordination lists are for **departure releases only** and the acknowledgment of coordination messages (automatic or manual) does not grant permission to violate SOP procedures or separation minima as outlined in the 7110.65.
+- Coordination lists are for **departure releases only**. The acknowledgment of a coordination messages (automatic or manual) does not grant permission to violate SOP procedures or separation minima as outlined in the 7110.65.
+
+### Example: Austin TRACON
+Austin TRACON (AUS_W) is online with all 4 local controllers.
+
+- AUS Local will tag departures and hand off to the TRACON
+- GTU Local will send messages to its coordination list (P01)
+- HYI Local will send messages to its coordination list (P02)
+- EDC Local does not have STARS feed from the TRACON and must verbally coordinate all calls for release
+
+N123 is number 1 for RWY 18 at KGTU with an assigned departure heading of 100 (standard SOP). N456 is number 1 for RWY 11 with an assigned departure heading of 090 (non-standard SOP).
+
+**Coordination Message Sequence:**
+
+1. GTU Local: `<F13>N123<ENTER>`, then `<F13>N456 11 L090<ENTER>`. Sends two messages (in sequence) to Austin TRACON. Both messages will blink green until the TRACON acknowledges. *Note: `LISTID` is not needed since there is only one coordination list between Georgetown Local and the TRACON.*
+1. AUS TRACON: Receives both messages on P01 and acknowledges the first with `<F13>P01 N123<ENTER>`. As desired, TRACON can release the second aircraft at any time with `<F13>P01 N456<ENTER>`. Local shall apply standard separation minima for departures. *Note: `LISTID` is required for all TRACON coordination commands because it receives messages on multiple coordination channels.*
+1. GTU Local: notices the coordination message turns solid green for one (or both) and launches the aircraft(s) while applying standard separation minima.
+
+### Example: I90 TRACON
+I90 Consolidated (I90_D) is online with KCLL, KGLS, and KSGR Local control.
+
+- KIAH and KHOU will tag departures and hand off to the TRACON
+- KSGR Local will send messages to its coordination list (P01)
+- KGLS Local will send messages to its coordination list (P03)
+- KCLL Local will send messages to its coordination list (P07)
+
+N123 is at KSGR taxing to RWY 17. N456 is at KGLS taxing to RWY 18. N789 is at KCLL taxing to RWY 29 (but KCLL is advertising RWY 35 for departures). All aircraft will be given standard SOP departure headings.
+
+**Coordination Message Sequence:**
+
+1. KSGR Local: `<F13>N123<ENTER>`
+1. I90_D: Receives the message on P## and acknowledges by entering `<F13>P01 N123<ENTER>`
+1. KSGR Local notes the coordination message stops blinking and launches the aircraft.
+1. KGLS Local: `<F13>N456<ENTER>`
+1. KCLL Local: `<F13>N789 29 RH<ENTER>`
+1. I90_D: Receives the messages on P03 and P07 and approves the KGLS departure by entering `<F13>P03 N456<ENTER>`. The KCLL departure needs to hold for release.
+1. KGLS Local notes the acknowledgment and launches the aircraft. KCLL Local notes their coordination message is still flashing (not acknowledged) and holds the aircraft
+1. I90_D: `<F13>P07 N789<ENTER>`
+1. KCLL Local notes the coordination message stops flashing and launches the aircraft.
