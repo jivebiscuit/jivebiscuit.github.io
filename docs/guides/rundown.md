@@ -56,8 +56,8 @@ Each entry in the list will display the time remaining until release expiration 
 | --- | --- |
 | `<F13>(LISTID) (FLID)<ENTER>` | Acknowledge coordination message |
 | `<F13><ENTER>` | Acknowledge coordination message when only one is pending |
-| `<F13>(LISTID) A*` | Enable automatic acknowledge for messages with no message text (`LISTID` required) |
-| `<F13>(LISTID) M*` | Disable automatic acknowledge for messages with no message text (`LISTID` required) |
+| `<F13>(LISTID) A*<ENTER>` | Enable automatic acknowledge for messages with no message text (`LISTID` required) |
+| `<F13>(LISTID) M*<ENTER>` | Disable automatic acknowledge for messages with no message text (`LISTID` required) |
 
 *Note: `LISTID` is optional when only one list is adapted for the position*
 
@@ -101,7 +101,9 @@ N123 is at KSGR taxing to RWY 17. N456 is at KGLS taxing to RWY 18. N789 is at K
 1. KSGR Local notes the coordination message stops blinking and launches the aircraft.
 1. KGLS Local: `<F13>N456<ENTER>`
 1. KCLL Local: `<F13>N789 29 RH<ENTER>`
-1. I90_D: Receives the messages on P06 and P02 and approves the KGLS departure by entering `<F13>P06 N456<ENTER>`. For traffic, I90 needs the KCLL departure to hold for release.
+1. I90_D: Receives the messages on P06 and P02 and approves the KGLS departure by entering `<F13>P06 N456<ENTER>`.
+1. I90 decides that all KGLS departures can be automatically released and enters `<F13>P06 A*<ENTER>`. College Satellite is busy and needs KCLL departures to hold for release.
 1. KGLS Local notes the acknowledgment and launches the aircraft. KCLL Local notes their coordination message is still flashing (not acknowledged) and holds the aircraft
 1. I90_D: `<F13>P02 N789<ENTER>`
 1. KCLL Local notes the coordination message stops flashing and launches the aircraft.
+1. I90 no longer desires automatic acknowledgments at KGLS and enters `<F13>P06 M*<ENTER>`
