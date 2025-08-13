@@ -61,14 +61,14 @@ Each entry in the list will display the time remaining until release expiration 
 
 *Note: `LISTID` is optional when only one list is adapted for the position*
 
-### Important Notes
+## Important Notes
 - The primary field at an up/down facility will not use coordination/rundown lists, especially where the facility SOP specifies that the Local controller will tag and handoff all departures.
 - If an aircraft will be departing from a non-advertised runway, turned in a direction other than SOP-defined departure headings, or any other unusual situation exists, extra text in coordination messages (e.g. `18 R270` or `11 RH`) should be included.
 - Local controllers can continually build a departure sequence by sending subsequent messages to their respective coordination list. In the TRACON, list entries are sorted by time of message arrival.
 - TRACON controllers can toggle automatic acknowledgment on any list by entering `<F13>(LISTID) A*<ENTER>` or `<F13>(LISTID) M*<ENTER>`. *Note: only messages without additional coordination text will be auto-acknowledged.* 
 - Coordination lists are for **departure releases only**. The acknowledgment of a coordination messages (automatic or manual) does not grant permission to violate SOP procedures or separation minima as outlined in the 7110.65.
 
-### Example: Austin TRACON
+## Example: Austin TRACON
 Austin TRACON (AUS_W) is online with all 4 local controllers.
 
 - AUS Local will tag departures and hand off to the TRACON
@@ -84,7 +84,7 @@ N123 is number 1 for RWY 18 at KGTU with an assigned departure heading of 100 (s
 1. AUS TRACON: Receives both messages on P01 and acknowledges the first with `<F13>P01 N123<ENTER>`. As desired, TRACON can release the second aircraft at any time with `<F13>P01 N456<ENTER>`. Local shall apply standard separation minima for departures. *Note: `LISTID` is required for all TRACON coordination commands because it receives messages on multiple coordination channels.*
 1. GTU Local: notices the coordination message turns solid green for one (or both) and launches the aircraft(s) while applying standard separation minima.
 
-### Example: I90 TRACON
+## Example: I90 TRACON
 I90 Consolidated (I90_D) is online with KCLL, KGLS, and KSGR Local control.
 
 - KIAH and KHOU will tag departures and hand off to the TRACON
