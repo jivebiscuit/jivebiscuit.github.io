@@ -81,7 +81,7 @@ N123 is number 1 for RWY 18 at KGTU with an assigned departure heading of 100 (s
 **Coordination Message Sequence:**
 
 1. GTU Local: `<F13>N123<ENTER>`, then `<F13>N456 11 L090<ENTER>`. Sends two messages (in sequence) to Austin TRACON. Both messages will blink green until the TRACON acknowledges. *Note: `LISTID` is not needed since there is only one coordination list between Georgetown Local and the TRACON.*
-1. AUS TRACON: Receives both messages on P01 and acknowledges the first with `<F13>P01 N123<ENTER>`. As desired, TRACON can release the second aircraft at any time with `<F13>P01 N456<ENTER>`. Local shall apply standard separation minima for departures. *Note: `LISTID` is required for all TRACON coordination commands because it receives messages on multiple coordination channels.*
+1. AUS TRACON: Receives both messages on P01 and acknowledges the first with `<F13>P01 N123<ENTER>`. As desired, TRACON can release the second aircraft at any time with `<F13>P01 N456<ENTER>`. Local shall apply standard separation minima for departures. *Note: `LISTID` is required for all TRACON coordination commands when the position is a recipient of multiple lists. Not all TRACONS in ZHU have multiple lists and the `LISTID` can be omitted.*
 1. GTU Local: notices the coordination message turns solid green for one (or both) and launches the aircraft(s) while applying standard separation minima.
 
 ## Example: I90 TRACON
@@ -101,7 +101,7 @@ N123 is at KSGR taxing to RWY 17. N456 is at KGLS taxing to RWY 18. N789 is at K
 1. KSGR Local notes the coordination message stops blinking and launches the aircraft.
 1. KGLS Local: `<F13>N456<ENTER>`
 1. KCLL Local: `<F13>N789 29 RH<ENTER>`
-1. I90_D: Receives the messages on P03 and P07 and approves the KGLS departure by entering `<F13>P06 N456<ENTER>`. The KCLL departure needs to hold for release.
+1. I90_D: Receives the messages on P06 and P02 and approves the KGLS departure by entering `<F13>P06 N456<ENTER>`. For traffic, I90 needs the KCLL departure to hold for release.
 1. KGLS Local notes the acknowledgment and launches the aircraft. KCLL Local notes their coordination message is still flashing (not acknowledged) and holds the aircraft
 1. I90_D: `<F13>P02 N789<ENTER>`
 1. KCLL Local notes the coordination message stops flashing and launches the aircraft.
