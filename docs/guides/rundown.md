@@ -88,20 +88,20 @@ N123 is number 1 for RWY 18 at KGTU with an assigned departure heading of 100 (s
 I90 Consolidated (I90_D) is online with KCLL, KGLS, and KSGR Local control.
 
 - KIAH and KHOU will tag departures and hand off to the TRACON
-- KSGR Local will send messages to its coordination list (P01)
-- KGLS Local will send messages to its coordination list (P03)
-- KCLL Local will send messages to its coordination list (P07)
+- KSGR Local will send messages to its coordination list (P07)
+- KGLS Local will send messages to its coordination list (P06)
+- KCLL Local will send messages to its coordination list (P02)
 
 N123 is at KSGR taxing to RWY 17. N456 is at KGLS taxing to RWY 18. N789 is at KCLL taxing to RWY 29 (but KCLL is advertising RWY 35 for departures). All aircraft will be given standard SOP departure headings.
 
 **Coordination Message Sequence:**
 
 1. KSGR Local: `<F13>N123<ENTER>`
-1. I90_D: Receives the message on P## and acknowledges by entering `<F13>P01 N123<ENTER>`
+1. I90_D: Receives the message on P07 and acknowledges by entering `<F13>P07 N123<ENTER>`
 1. KSGR Local notes the coordination message stops blinking and launches the aircraft.
 1. KGLS Local: `<F13>N456<ENTER>`
 1. KCLL Local: `<F13>N789 29 RH<ENTER>`
-1. I90_D: Receives the messages on P03 and P07 and approves the KGLS departure by entering `<F13>P03 N456<ENTER>`. The KCLL departure needs to hold for release.
+1. I90_D: Receives the messages on P03 and P07 and approves the KGLS departure by entering `<F13>P06 N456<ENTER>`. The KCLL departure needs to hold for release.
 1. KGLS Local notes the acknowledgment and launches the aircraft. KCLL Local notes their coordination message is still flashing (not acknowledged) and holds the aircraft
-1. I90_D: `<F13>P07 N789<ENTER>`
+1. I90_D: `<F13>P02 N789<ENTER>`
 1. KCLL Local notes the coordination message stops flashing and launches the aircraft.
