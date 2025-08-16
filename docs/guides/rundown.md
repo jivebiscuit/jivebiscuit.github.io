@@ -144,7 +144,6 @@ List of TRACONs and their paired coordination lists. TRACONs not on this list ha
 | MSY | P02 | NBG | S, W |
 | MSY | P03 | HUM | H, S, W |
 | NQI | P01 | NOG | A |
-| POE | P01 | AEX | P |
 | SAT | P01 | SKF | S, N |
 | SAT | P02 | RND | R, N |
 | SAT | P03 | SSF | S, N |
