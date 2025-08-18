@@ -5,15 +5,17 @@ title: CRC Alias
     This document is provided for Houston ARTCC controllers to use when providing virtual ATC services on the VATSIM network. The information herein is **not intended for use in any real-world aviation applications**.
 
 !!! info
-    *Updated: June 6, 2025*
+    *Updated: August 18, 2025*
 
 ## VATSIM/CRC Basics
 | Command              | Returns                                      
 |----------------------|------------------------------------------------------------------------|
 | `.ALIAS`         | Opens ZHU Alias Reference website.           
 | `.RVM`           | Opens ZHU Radar Vector Map website.                                         
+| `.STRIPS`        | Opens ZHU Strip Marking Policy |
 | `.LASTTX`<br>`.LTX`<br>`.WHO`<br>`.H` | Issues the CRC built-in last transmission command. |
 | `.AIPREF ####`   | Opens the VATSIM AIP (CTAF frequencies) for the specified airport (####)|
+
 
 ## Pilot Help Messages
 !!! note "Syntax"
