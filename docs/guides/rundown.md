@@ -55,8 +55,10 @@ Each entry in the list will display the time remaining until release expiration 
 | --- | --- |
 | `<F7>ZDE<ENTER>` | Enable departure release audible alarm |
 | `<F7>ZDI<ENTER>` | Inhibit departure release audible alarm |
-| `<F13>(ACID OR BEACON)<ENTER>` | Create and send message<br>Delete exsisting message |
-| `<F13>(ACID OR BEACON) /<ENTER>` | Create but don't send<br>Send a previously held message<br>Recall a sent message |
+| `<F13>(ACID OR BEACON)<ENTER>` | Create and send message<br>Recall exsisting message |
+| `<F13>(ACID OR BEACON) (TEXT)<ENTER>` | Create and send message with free text |
+| `<F13>(ACID OR BEACON) /<ENTER>` | Create but don't send message<br>Send a previously created message<br>Recall a sent message |
+| `<F13>(ACID OR BEACON) / (TEXT)<ENTER>` | Create but don't send with free text |
 | `<F13>(ACID OR BEACON) / ##<ENTER>` | Create but don't send message at line number ##<br>(useful for resquencing) |
 | `<F13>(ACID OR BEACON) ##<ENTER>` | Reorder existing unsent message |
 
