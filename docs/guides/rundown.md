@@ -13,7 +13,7 @@ Tower controllers are referred to as the "senders" of coordination messages, whi
     Not all Coordination List features are enabled at ZHU facilities. Learn more about message states, all available commands, and other information in the [CRC Docs](https://crc.virtualnas.net/docs/#/stars?id=coordination-rundown-lists).
 
 ## Important Notes
-- Coordination messages are for **departure releases/rolling calls only**. The acknowledgment of a coordination messages (automatic or manual) does not grant permission to violate SOP procedures or separation minima as outlined in the 7110.65.
+- Coordination messages are for **departure releases only**. The acknowledgment of a coordination messages (automatic or manual) does not grant permission to violate SOP procedures or separation minima as outlined in the 7110.65.
 - The primary field at an up/down facility will not use coordination messages, especially where the facility SOP specifies that the Local controller will tag and handoff all departures.
 - If an aircraft will be departing from a non-advertised runway, turned in a direction other than SOP-defined headings, or any other unusual departure situation exists, a verbal coordination/call for release **is required**.
 - Local controllers can continually build a departure sequence by sending subsequent messages.
@@ -130,8 +130,8 @@ List of TRACONs and their paired coordination lists. TRACONs not on this list ha
 | I90 | P02 | CLL | U, M, D |
 | I90 | P03 | CXO | R, M, D |
 | I90 | P04 | DWH | R, M, D |
-| I90 | P05 | EFD | P, M, D |
-| I90 | P06 | GLS | P, M, D |
+| I90 | P05 | EFD | B, M, D |
+| I90 | P06 | GLS | B, M, D |
 | I90 | P07 | SGR | P, M, D |
 | AUS | P01 | GTU | L, W |
 | AUS | P02 | HYI | L, W |
