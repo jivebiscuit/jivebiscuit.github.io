@@ -82,11 +82,11 @@ Austin TRACON is online with HYI Local. HYI is advertising RWY 13 for departures
 
     ![Unacknowledged message](../assets/rundown5.gif)
 
-1. AUS TRACON `<F13>P02 N123<ENTER>`. Both scopes:
+1. AUS TRACON `<F13>P02 N789<ENTER>`. Both scopes:
 
     ![Acknowledged message](../assets/rundown2.png)
 
-1. GTU Local notices the message for N789 stops blinking, a `+` and countdown appears and clears N789 for take off.
+1. HYI Local notices the message for N789 stops blinking, a `+` and countdown appears and clears N789 for take off.
 
 ### Sequence Reordering
 
