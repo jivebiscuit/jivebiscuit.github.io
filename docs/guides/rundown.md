@@ -129,12 +129,12 @@ List of TRACONs and their paired coordination lists. TRACONs not on this list ha
 | I90 | P01 | BPT | J, M, D |	
 | I90 | P02 | CLL | U, M, D |
 | I90 | P03 | CXO | R, M, D |
-| I90 | P04 | DWH | R, M, D |
+| I90 | P04 | DWH | R, P, M, D |
 | I90 | P05 | EFD | B, M, D |
 | I90 | P06 | GLS | B, M, D |
 | I90 | P07 | SGR | P, M, D |
-| AUS | P01 | GTU | L, W |
-| AUS | P02 | HYI | L, W |
+| AUS | P01 | GTU | R, L, W |
+| AUS | P02 | HYI | R, L, W |
 | CRP | P01 | HRL | X, N |
 | CRP | P02 | BRO | Z, X, N |
 | CRP | P03 | MFE | Y, X, N |
@@ -146,6 +146,6 @@ List of TRACONs and their paired coordination lists. TRACONs not on this list ha
 | MSY | P02 | NBG | S, W |
 | MSY | P03 | HUM | H, S, W |
 | NQI | P01 | NOG | A |
-| SAT | P01 | SKF | S, N |
+| SAT | P01 | SKF | K, S, N |
 | SAT | P02 | RND | R, N |
-| SAT | P03 | SSF | S, N |
+| SAT | P03 | SSF | K, S, N |
