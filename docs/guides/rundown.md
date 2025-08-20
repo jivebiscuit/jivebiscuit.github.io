@@ -18,6 +18,7 @@ Tower controllers are referred to as the "senders" of coordination messages, whi
 - If an aircraft will be departing from a non-advertised runway, turned in a direction other than SOP-defined headings, or any other unusual departure situation exists, a verbal coordination/call for release **is required**.
 - Local controllers can continually build a departure sequence by sending subsequent messages.
 - TRACON controllers can toggle automatic acknowledgment on any list by entering `<F13>(LISTID) A*<ENTER>` or `<F13>(LISTID) M*<ENTER>`. *Note: only messages without additional coordination text will be auto-acknowledged.*
+- ERAM users will *not* receive coordination messages unless they have a STARS window open and signed into a TRACON position that receives them.
 
 !!! warning
     Until TRACON TCP hierarchy is established (coming to CRC soon) all relevant TRACON controllers will see coordination messages even if they aren't responsible for the departure. (Example: `I90_D`, `I90_M`, and `I90_J` all recieve BPT messages.) It is the responsibilty of the online controllers to determine who should acknowledge those messages.
