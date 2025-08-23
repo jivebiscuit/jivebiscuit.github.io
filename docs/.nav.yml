@@ -31,7 +31,6 @@ nav:
     - Guides:
       - guides/crc-getting-started.md
       - guides/crc-voice.md
-      - guides/teamspeak.md
       - guides/vatis4-1.md
       - guides/crda.md
       - guides/rundown.md
