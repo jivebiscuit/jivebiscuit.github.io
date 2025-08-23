@@ -4,11 +4,11 @@ title: General Policy
     This document is provided for Houston ARTCC controllers to use when providing virtual ATC services on the VATSIM network. The information herein is **not intended for use in any real-world aviation applications**.
 
 ??? info "Revision Information"
-    - Document Number: ZHU P001.13
-    - Date: 12 Apr 2025
-    - Revision: **13**
+    - Document Number: ZHU P001.14
+    - Date: 18 Aug 2025
+    - Revision: **14**
 
-    **Record of Revisions**
+    **Record of Changes**
 
     | Date | Revision | Editor |
     |:---:|:---:|:---:|
@@ -17,6 +17,13 @@ title: General Policy
     | 16 Apr 2024 | 11 | EH |
     | 18 Oct 2024 | 12 | WS |
     | 12 Apr 2025 | 13 | GA |
+    | 18 Aug 2025 | 14 | GA |
+
+    | Revision | Date | Authorization | Description |
+    | --- | --- | --- | --- |
+    | P001.13 | 12 Apr 2025 | GA/VATUSA2 | - 2-1-1 and 2-1-2 updated with HOU Tier 2 change<br>- 3-3-3 updated with HOU Tier 2 change |
+    | P001.14 | 18 Aug 2025 | GA/VATUSA2 | - Change "Revision Log" to "Record of Changes" and removed 1-1-5<br>- Reworked Chapter 4 for consistency; Coordination will now be done via Discord and TeamSpeak will be retired. |
+
 
 ## 1. General
 ### 1-1. Introduction
@@ -32,10 +39,7 @@ This order is available in digital PDF format on the ZHU ARTCC website at https:
 #### 1-1-4. Cancellation
 This policy cancels Houston ARTCC General Policy 001 Revision 10 upon release.
 
-#### 1-1-5. Explanation of Changes
-The addition of the Online controller contactability policy was added in Chapter 2 requiring controllers to actively be on the ZHU Discord when controlling. The LOA leave and return currency requirements were overhauled and into a prorated system. This includes the General and Tier 1 Currency controlling activity requirements. Finally, minor changes were made to spelling, grammar, formatting, references to the ZHU ARTCC domain and old links were updated.
-
-#### 1-1-6. Responsibility
+#### 1-1-5. Responsibility
 1. The Virtual Houston ARTCC Air Traffic Manager is responsible for maintaining and updating the information contained in this order.
 1. The Virtual Houston ARTCC Air Traffic Manager is responsible for notifying the VATUSA Deputy Division Director, Air Traffic Services of any necessary revisions to this order.
 
@@ -198,9 +202,14 @@ Candidates who fail to meet all of the above fast-track endorsement requirements
 The ZHU website shall be considered a primary communications mechanism. All official communications or distributions sent by other means shall be made available by the website if practical. The current ZHU ARTCC ATM shall be the custodian of the website and ZHU ARTCC official domain. Controllers are expected to periodically visit, review, and acknowledge any pending policy or operational changes when prompted as a formal means of acknowledging compliance with updates in policies, procedures, agreements, and references on the ZHU ARTCC website.
 
 #### 4-1-2. Email
-Email shall be considered a primary communication mechanism between ZHU ARTCC controllers and ZHU ARTCC staff members. ZHU ARTCC staff members shall make available their VATSIM registered email forwarding address (Example: `zhu-atm@vatusa.net`) for official communications. ZHU may issue individual email addresses to members with a demonstrated need.
+Email shall be considered a primary communication mechanism between ZHU ARTCC controllers and ZHU ARTCC staff members. ZHU ARTCC staff members shall make available their VATSIM registered email forwarding address (Example: `atm@houston.center`) for official communications. ZHU may issue individual email addresses to members with a demonstrated need.
 
 ZHU ARTCC staff shall retain official emails for at least twelve (12) calendar months. ZHU ARTCC staff members shall keep their VATUSA registered email address on the VATUSA website current. Failure to do so may result in delays in communications. The ZHU ARTCC shall not be responsible for missed communications as a result of a staff member’s failure to maintain their account. ARTCC-wide distribution announcements may be made via, but are not restricted to, VATUSA email broadcast services.
+
+#### 4-1-3. Discord
+The ZHU ARTCC utilizes an official ‘Houston ARTCC’ Discord server as the sole means of coordination, as well as community text communications, meetings, and other various ARTCC and community related activities. Access to ZHU’s Discord server is a privilege. Members are assigned their complete name (as registered with VATSIM) as their nickname on the Discord server and must link their VATUSA account with their Discord profile per Welcome Channel instructions. This is done to ensure proper synchronization of server roles and display names can be done automatically. Controllers wishing to use another name than their VATSIM registered name must request from the ZHU ARTCC staff to be given specific Discord server permissions to utilize their desired nickname.
+
+Controllers should monitor the Discord chats whenever practical as ARTCC information is quickly disseminated via Discord. Discord voice communication will be utilized during training sessions and for general correspondence of ARTCC matters. Discord screen-sharing may also be utilized during training sessions.
 
 ### 4-2. Controlling
 #### 4-2-1. ZHU Policies, Procedures, Agreements, & References
@@ -210,40 +219,39 @@ Officially controlled ZHU ARTCC policies, procedures, agreements, and reference 
 *This section reserved for future IDS/ERIDS system development.*
 
 #### 4-2-3. Online Controller Contactability
-Controllers must be connected and present in the ZHU TeamSpeak while controlling any position in the ZHU ARTCC regardless if any other controllers are online. This is done in an effort to improve contactability and visibility of current controllers and ease the process of any controllers wishing to additionally sign on below, around, or above any currently online controllers.
+Controllers must be connected and present in an appropriate ZHU Discord voice channel while controlling any position in the ZHU ARTCC regardless if any other controllers are online. This is done in an effort to improve contactability and visibility of current controllers and ease the process of any controllers wishing to additionally sign on below, around, or above any currently online controllers.
 
-Controllers may momentarily disconnect from the ZHU TeamSpeak if needed to coordinate in other Discord/TeamSpeak servers with other facilities or positions, but should use any CRC functions available to attempt the coordination first (facility shoutlines, VSCS override and call functionalities, etc.).
-
-!!! note
-    A TeamSpeak Connection guide is available on the ZHU website for assistance with installing and configuring TeamSpeak on your computer.
+Controllers may momentarily disconnect from the ZHU Discord if needed to coordinate in other Discord/TeamSpeak servers with other facilities or positions, but should use any CRC functions available to attempt the coordination first (facility shoutlines, VSCS override and call functionalities, etc.).
 
 ### 4-3. Social Media
-#### 4-3-1. ZHU ARTCC Social Media/Discord/Teamspeak Policy
-The members of ZHU ARTCC are expected to act in the highest regard. This includes candor, professional integrity, etc. While we like to have fun and enjoy ourselves, it's important to remember that we need to remain respectful of all individuals. Members must be respectful of others, regardless of any background, including sexual orientation, gender identification, etc.
+#### 4-3-1. ZHU ARTCC Social Media/Discord
+The members of ZHU are expected to act in the highest of regards. This includes candor, professional integrity, etc. While we like to have fun and enjoy ourselves, it's important to remember that we need to remain respectful of all individuals.
 
-1. All VATSIM CoC, CoR, User Agreement, and VATUSA policies shall be enforced. All violations shall be reported to the ZHU ARTCC ATM.
-1. The ATM shall determine the proper action for any behavioral violation
-1. ZHU holds a zero-tolerance policy for any hate speech.
-1. Any incidents shall result in the revocation of controlling privileges, and ZHU ARTCC social media platform permissions, and shall meet with the ATM and DATM for immediate counseling.
-1. Any offense of this nature may result in immediate termination from the ZHU ARTCC roster in conjunction with VATUSA DP001 with referrals made to the VATSIM Supervisor Department.
+1. Members must be respectful of others, regardless of any background, including sexual orientation, gender identification, etc.
+1. All VATSIM CoC, CoR, User Agreement, and VATUSA policies shall be enforced. All violations shall be reported to the ATM.
+1. The ATM shall determine the proper course of action for any behavioral violation.
+1. ZHU holds a zero tolerance policy for any hate speech.
+    1. Any incidents shall result in revocation of controlling privileges, Teamspeak/Discord permissions, and shall meet with the ATM and DATM for immediate counseling.
+    1. Any offense of this nature may result in immediate termination from the ZHU roster in conjunction with VATUSA DP001 with referrals made to the VATSIM Supervisor Department.
+1. Prohibited behavior includes:
+    1. Threats, bullying, harassment, or any violation of VATSIM COC, COR, or ZHU General Policy.
+    1. Disruptive behavior includes, but not limited to: spamming in chat, excessive poking, excessive channel switching, soundboard usage, excessive pinging.
+    1. Recording (or distribution thereof) or streaming the Teamspeak or Discord audio (including Twitch streams).
+    1. Illegal activities
+    1. Unauthorized bots
+    1. Attempting to subvert the security, integrity, and/or permissions system of the Teamspeak or Discord server.
+    1. Attempting to connect to the Discord during a disciplinary ban.
+    1. Attempting to circumvent a disciplinary timeout/ban via a separate account.
 
-**Prohibited behavior includes:**
-
-1. Threats, bullying, harassment, or any violation of VATSIM CoC, CoR, or any ZHU Policies.
-1. Disruptive behavior includes, but is not limited to spamming in chat, excessive poking, excessive channel switching, soundboard usage in Flying, Controlling, Streaming, and Lobby channels, and excessive pinging.
-1. Recording (or distribution thereof) or streaming the Teamspeak or Discord audio (including Twitch streams).
-1. Illegal activities
-1. Unauthorized bots
-1. Attempting to subvert the security, integrity, and/or permissions system of the Teamspeak or Discord server.
-1. Utilizing the ZHU Discord via text or voice channels during a disciplinary ban.
-1. Attempting to circumvent a disciplinary timeout/ban via a separate account.
-
-#### 4-3-2. Social Media Platform Channel Usage
-Controlling or flying channels are designed for those currently controlling or flying on the VATSIM network only. The use of these channels comes with the expectation of:
+#### 4-3-2. Discord Voice Channel Usage
+All coordinating or flying voice channels are designed for those currently controlling or flying on the VATSIM network only. The use of these channels comes with the expectation of:
 
 1. The ability to concentrate on controlling or flying, regardless of traffic volume.
 1. The ability to coordinate with other controllers or fellow pilots without delay, audio obstruction, or the need to move channels.
 1. The absence of distractions is not directly related to network operations.
+
+All community voice channels may/may not require a Push-to-Talk (PTT).
+
 
 #### 4-3-3. ZHU ARTCC Discord
 The ZHU ARTCC utilizes an official ZHU ARTCC Discord server for community text communications, meetings, and other various ARTCC and community related activities. Access to ZHU’s Discord server is a privilege. Members are assigned their complete name (as registered with VATSIM) as their nickname on the Discord server and must link their VATUSA account with their Discord profile per Welcome Channel instructions. This is done to ensure proper synchronization of server roles and display names can be done automatically. Controllers wishing to use another name than their VATSIM registered name must request from the ZHU ARTCC staff to be given specific Discord server permissions to utilize their desired nickname.
@@ -256,6 +264,7 @@ ZHU ARTCC roster members are allowed and encouraged to stream or record their VA
 In the interest of protecting other ZHU ARTCC member's identities and information. Controllers should not share personal identifying information about other controllers or their given names on streams or recordings. When streaming or recording sessions, ZHU ARTCC controllers MUST:
 
 1. Remain in the designated streaming channel(s) on the ZHU ARTCC Discord unless actively coordinating.
+1. Include in controller remarks/ CRC profile they are actively streaming and include a link.
 
 This policy is also written in alignment with strict international identity protection laws. Failure to adhere to the streaming policy will result in a warning, disciplinary action, and potential removal for repeat offenders from the ARTCC with a referral note placed in the controller’s VATUSA record.
 
