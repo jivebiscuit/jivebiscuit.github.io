@@ -34,10 +34,10 @@ This policy document establishes and provides the rules, regulations, procedures
 All ZHU controllers and visitors.
 
 #### 1-1-3. Where Can I Find This Order
-This order is available in digital PDF format on the ZHU ARTCC website at https://houston.center/ and can be accessed publicly within the CONTROLLERS -> RESOURCES menu and documents section under POLICIES.
+This order is available in digital PDF format on the [ZHU Website](https://houston.center/) and can be accessed publicly within the Controllers > Resources menu and documents section under Policies.
 
 #### 1-1-4. Cancellation
-This policy cancels Houston ARTCC General Policy 001 Revision 10 upon release.
+This policy cancels Houston ARTCC General Policy 001 Revision 13 upon release.
 
 #### 1-1-5. Responsibility
 1. The Virtual Houston ARTCC Air Traffic Manager is responsible for maintaining and updating the information contained in this order.

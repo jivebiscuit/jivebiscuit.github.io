@@ -1,0 +1,29 @@
+backend:
+  name: github
+  repo: your-org/your-repo
+  branch: main                 # the branch where your Markdown lives
+
+# Media: with MkDocs, store uploads inside docs/ so they’re published
+media_folder: "docs/uploads"   # path in the repo
+public_folder: "/uploads"      # path on the built site
+
+publish_mode: editorial_workflow  # drafts → review → publish
+
+collections:
+  - name: guides
+    label: Guides
+    folder: "docs/guides"      # a folder of Markdown files under docs/
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body",  name: "body",  widget: "markdown"}
+  - name: pages
+    label: Site Pages
+    files:
+      - label: "Home"
+        name: "index"
+        file: "docs/index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body",  name: "body",  widget: "markdown"}
